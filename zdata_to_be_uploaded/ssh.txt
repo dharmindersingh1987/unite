@@ -101,3 +101,102 @@ If everything is set up correctly, you'll see a welcome message confirming authe
 
 Step 7: Push your project
 git push -u origin main
+
+
+
+
+First time setup on the office computer
+1. Install Git (if needed)
+
+Check:
+
+git --version
+2. Configure Git (only once)
+git config --global user.name "Dharminder Singh"
+git config --global user.email "your-email@example.com"
+3. Generate an SSH key (recommended)
+
+Since you already did this on your home PC, create another SSH key on the office PC.
+
+ssh-keygen -t ed25519 -C "your-email@example.com"
+
+Add the new public key to GitHub → Settings → SSH and GPG keys.
+
+Test:
+
+ssh -T git@github.com
+
+You should see:
+
+Hi dharmindersingh1987! You've successfully authenticated...
+4. Clone the repository
+
+Go to your workspace:
+
+cd ~/Documents
+
+Clone the repository:
+
+git clone git@github.com:dharmindersingh1987/unite.git
+
+This creates:
+
+~/Documents/unite
+5. Enter the project
+cd unite
+6. Create the virtual environment
+python -m venv .venv
+
+Activate it:
+
+source .venv/bin/activate
+7. Install dependencies
+
+Since you've committed requirements.txt:
+
+pip install -U pip
+pip install -r requirements.txt
+8. Run the project
+
+Since you're tracking db.sqlite3, you do not need to run migrate the first time unless you've made new migrations after the last commit.
+
+Start the server:
+
+python manage.py runserver
+Your daily workflow
+🏠 Home PC
+git add .
+git commit -m "Added ExamForm import"
+git push
+🏢 Office PC
+cd ~/Documents/unite
+git pull
+source .venv/bin/activate
+python manage.py runserver
+
+After finishing work:
+
+git add .
+git commit -m "Updated admin"
+git push
+
+Then, back on your home PC:
+
+git pull
+One important tip
+
+Don't copy the .venv folder between computers. Each computer should have its own virtual environment. The workflow is:
+
+✅ Share the project with Git.
+✅ Recreate .venv on each machine.
+✅ Use the same requirements.txt to install dependencies.
+
+This is the standard and most reliable approach.
+
+If both your home and office PCs are running Arch Linux with Python 3.14, the only thing you'll usually need to do on the office PC after cloning is:
+
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+After that, your day-to-day work is simply git pull before you start and git push when you're done.
