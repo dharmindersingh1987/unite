@@ -7,10 +7,11 @@ from import_export.admin import ImportExportModelAdmin
 
 from .models import PacketUser
 from .models import ExamForm
+from .models import BankDetails
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource
-from .resources import ExamFormResource
+from .resources import PacketUserResource, ExamFormResource, BankDetailsResource
+
 
 @admin.register(PacketUser)
 # class PacketUserAdmin(admin.ModelAdmin):
@@ -123,3 +124,46 @@ class ExamFormAdmin(ImportExportModelAdmin):
 
     list_per_page = 50
 
+
+@admin.register(BankDetails)
+class BankDetailsAdmin(ImportExportModelAdmin):
+    resource_classes = [BankDetailsResource]
+    list_display = (
+        'name',
+        'email',
+        'cont',
+        'bank',
+        'acc',
+        'ifsc',
+        'inst',
+        'remarks'
+    )
+    
+    search_fields = (
+        'name',
+        'email',
+        'cont',
+        'bank',
+        'acc',
+        'ifsc',
+        'inst',
+    )
+
+    ordering = (
+        'name',
+    )
+
+
+    # readonly_fields = (
+        
+    #     'name',
+    #     'email',
+    #     'cont',
+    #     'bank',
+    #     'acc',
+    #     'ifsc',
+    #     'inst',
+    #     'remarks'
+    # )
+
+    list_per_page = 50

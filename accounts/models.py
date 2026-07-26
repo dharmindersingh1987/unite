@@ -44,3 +44,21 @@ class ExamForm(models.Model):
     def __str__(self):
         return self.student_name
     
+    
+class BankDetails(models.Model):
+    name = models.CharField(max_length=255)
+    email = models.CharField(max_length=255)
+    cont = models.CharField(max_length=255)
+    bank = models.CharField(max_length=255)
+    acc = models.CharField(max_length=255)
+    ifsc = models.CharField(max_length=255)
+    inst = models.CharField(max_length=255)
+    remarks = models.CharField(max_length=255)
+    
+    class Meta:
+        db_table = 'bank_details'
+        ordering = ['name']
+    
+    def __str__(self):
+        return self.name
+    
