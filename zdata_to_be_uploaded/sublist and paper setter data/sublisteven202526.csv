@@ -1,0 +1,462 @@
+sr_no,select,course,year,sem,paper_name,type,paper_code,credits,int_marks,ext_marks,e_identity,total_marks,time_allowed_mod,time_allowed_original,maximum_marks,note,dept,dept_main,class_name,aa,bb,cc,dd,ee,MATCH,st,e_email,e_name,e_institute,e_contact,rcvd,att_file,match,Level
+3081,1,BVOC GD,II,IV, Care and Maintenance of Garments                          ,MAJOR,BVGDB2201T,4,,70,2541248,,,,70,,FT,FT,,,,,,,,,harpreetinsa011@gmail.com,#REF!,#REF!,#REF!,,,168,UG
+2622,1,MA POL SCI,I,II, CONTEMPORARY ISSUES IN GLOBAL POLITIC,MAJOR,MPOL1202,5,,70,2522106,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,gurmeetbrar8070@gmail.com,#REF!,#REF!,#REF!,,,12,PG
+2622,1,MCOM,II,IV, International Finance,MAJOR,MCOP2407T,5,,70,2542146,,,,70,,COMMERCE,COMMERCE,,,,,,,,,gaurav.modicollege@gmail.com,#REF!,#REF!,#REF!,,,61,PG
+2623,1,BSC M,I,II, MAJOR-Comparative Anatomy and Developmental Biology of Vertebrates,MAJOR,BZOL1201T,3,,70,2521356,,,,70,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,monika_airi@yahoo.co.in,#REF!,#REF!,#REF!,,,116,UG
+,0,BVOC FT,II,IV, Mudla Gyan,MAJOR,BVFTB2208Tm,4,,70,9095,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,0,BVOC GD,II,IV, Mudla Gyan,MAJOR,BVGDB2208Tm,4,,70,9017,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC FT,I,II, Punjabi Mudla Gyan,MAJOR,PBIB103-MG-2,4,,70,9033,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC CS,I,II, Punjabi Mudlagyan / Elementary Punjabi -I,MAJOR,PBIB103-MG-2,4,,70,9010,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BCA,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2,,35,9019,,,,35,,COMPUTER,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC CS,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2,,35,9009,,,,35,,COMPUTER,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC FP,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T ,4,,70,9031,,,,70,,FP,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC SD,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T ,2,,35,9061,,,,35,,COMPUTER,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC GD,I,II,"*Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0,,70,9028,,,,70,,FT,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC FT,I,II,"*Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0,,70,9034,,,,70,,FT,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC HM,I,II,"*Drug Abuse: Problem, Management and Prevention",VAC,DAUGC1201T ,2,,35,9053,,,,35,,HISTORY,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BCA,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2,,35,9013,,,,35,,COMPUTER,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC CS,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2,,35,9012,,,,35,,COMPUTER,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BBA,II,IV,*Indian Knowledge System,VAC,VAC2401T,2,,35,9064,,,,35,,COMMERCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BVOC FT,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2,,35,2541302,,,,35,,FT,PUBLIC ADMINISTRATION,,,,,,,,,mandeepkaur13168@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,9,BVOC SD,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2,,35,9056,,,,35,,COMPUTER,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,MA POL SCI,I,II,*INTRODUTION TO POLITICAL SCIENCE ,QUALIFYING,MPOL1205,4,,70,2522109,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,sehgal.sheveta27@gmail.com,#REF!,#REF!,#REF!,,,48,PG
+20,1,MA HINDI,II,IV,*Mudla Gyan,QUALIFYING,PBIM1109T,4,,70,2542316,,,,70,,HINDI,PUNJABI,,,,,,,,,gurdeepsingh478@yahoo.com,#REF!,#REF!,#REF!,,,1111,PG
+20,1,MA HINDI,II,IV,*Punjabi,QUALIFYING,PBIBMHIN-407,4,,70,2542315,,,,70,,HINDI,PUNJABI,,,,,,,,,gurdeepsingh478@yahoo.com,#REF!,#REF!,#REF!,,,1111,PG
+,9,BCOM HONS,I,II,"*VAC Drug Abuse: Problem, Management And Prevention",VAC,DAUGC1201T,2,,35,9004,,,,35,,COMMERCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2982,1,M.Sc. FP,,II,Additives in Food Processing,MAJOR,MSFPT202,,,,2522548,,,,70,,FP,FP,,,,,,,,,ajay3singh@gmail.com,#REF!,#REF!,#REF!,,,140,PG
+2622,1,MCOM,I,II,Advanced Accounting,MAJOR,MC201,5,,70,2522147,,,,70,,COMMERCE,COMMERCE,,,,,,,,,jagmeetkaurdhillon@gmail.com,#REF!,#REF!,#REF!,,,30,PG
+2623,1,MSC PHYSICS,I,II,Advanced Classical Mechanics and Electrodynamics,MAJOR,MPHY1202T,4,,60,2522127,,,,60,,SCIENCE,PHYSICS,,,,,,,,,dhaliwalramneek@gmail.com,#REF!,#REF!,#REF!,,,104,PG
+2623,1,MSC PHYSICS,II,IV,Advanced Electronics,MAJOR,PHYM2402T,4,,60,2542159,,,,60,,SCIENCE,PHYSICS,,,,,,,,,preet4bhullar@gmail.com,#REF!,#REF!,#REF!,,,107,PG
+260613,1,MLIB,I,II,Advanced Knowledge Organization: (a) Classification Practice,MAJOR,"MLIS11A
+
+",2,,36,2522185,,,,36,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,anamika.sh21@gmail.com,#REF!,#REF!,#REF!,,,271,PG
+260613,1,MLIB,I,II,Advanced Knowledge Organization:(b) Cataloguing Practice,MAJOR,MLIS11B,2,,35,2522186,,,,35,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,avtarnangla69@gmail.com,#REF!,#REF!,#REF!,,,270,PG
+2622,1,BCOM HONS,III,VI,Advertisement and Brand Management,MAJOR,BCHU3608T,5,,70,2561166,,,,70,,COMMERCE,COMMERCE,,,,,,,,,rajnikhushi2012@gmail.com,#REF!,#REF!,#REF!,,,10,UG
+,9,BBA,I,II,AEC Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3,,70,9065,,,,70,,COMMERCE,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BCOM HONS,II,IV,AEC- 4 (Writing and Grammar),AEC,ENGBCOMAEC2201-T,2,,35,9005,,,,35,,COMMERCE,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,9,BA,I,II,AEC-2 Composition and Vocabulary,AEC,BAMJENG1218T,2,,35,2521435,,,,35,,HUMANITIES,ENGLISH,,,,,,,,,harjinderthind728@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,9,BCOM HONS,I,II,AEC-2(Composition and vocabulary),AEC,BC204,2,,35,8071,,,,35,,COMMERCE,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,9,BSC NM,II,IV,AEC-English ( Writing and  Grammer),AEC,ENGBCOMAEC2201-T,2,,35,2541363,,,,35,,SCIENCE,ENGLISH,,,,,,,,,kaursukhdeep475@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,0,BSC M,I,II,AEC-English (Composition and Vocabulary),AEC,BENGAEC1201T,2,,35,9070,,,,35,,SCIENCE,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,AEC-English (Composition and Vocabulary),AEC,BENGAEC1201T,2,,35,9049,,,,35,,SCIENCE,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,II,IV,AEC-ENGLISH (Writing and Grammar),AEC,ENGBCOMAEC2201-T,2,,35,9037,,,,35,,SCIENCE,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,1,BA,II,IV,AEC-Writing and Grammar ,AEC,ENGBMDAEC2201-T,2,,35,9071,,,,35,,HUMANITIES,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+5181,1,MA MUSIC,II,IV,Aesthetical Study of Hindustani Music (Music Vocal),MAJOR,MUVM2401T,5,,70,2542121,,,,70,,MUSIC,MUSIC,,,,,,,,,kulwinder.24471@lpu.co.in,#REF!,#REF!,#REF!,,,233,PG
+260521,1,MSC MATHEMATICS,II,IV,Alebraic Coding Theory,MAJOR,MATM2209T,4,,70,2542272,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,sp7maths@gmail.com,#REF!,#REF!,#REF!,,,263,PG
+,9,BSC NM,III,VI,Algebra - II,MAJOR,MTHB3201T - BSC,3,,35,5002,,,,35,,SCIENCE,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BA,III,VI,ALGEBRA-II,MAJOR,MTHB3201T,3,,35,2561545,,,,35,,HUMANITIES,MATHEMATICS,,,,,,,,,drchetna.modicollege@gmail.com,#REF!,#REF!,#REF!,,,57,UG
+2622,1,MSC MATHEMATICS,I,II,Algebra-II (Rings and Modules),MAJOR,MATM1201T,4,,70,2522279,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,sp7maths@gmail.com,#REF!,#REF!,#REF!,,,85,PG
+2622,1,MSC IT,II,IV,Algorithm Design and Analysis,MAJOR,MITM2201T,4,,70,2542260,,,,70,,COMPUTER,COMPUTER,,,,,,,,,gsmann2219@gmail.com,#REF!,#REF!,#REF!,,,19,PG
+,9,MSC IT LE,II,IV,Algorithm Design and Analysis,MAJOR,MITM2201T,4,,70,9021,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,PG
+2981,1,MA ENGLISH,II,IV,AMERICAN LITERATURE,MAJOR,ENGM2204T,5,,70,2542203,,,,70,,ENGLISH,ENGLISH,,,,,,,,,gurpreet0697@gmail.com,#REF!,#REF!,#REF!,,,124,PG
+,9,BSC NM,III,VI,Analysis - II,MAJOR,MTHB3202T- BSC,3,,35,5003,,,,35,,SCIENCE,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+5381,1,BA,III,VI,ANALYSIS-II,MAJOR,MTHB3202T,3,,35,2561546,,,,35,,HUMANITIES,MATHEMATICS,,,,,,,,,mandeep1125@yahoo.com,#REF!,#REF!,#REF!,,,243,UG
+260605,1,DAIRY SCIENCE,I,II,Animal Care and Management,MAJOR,DSG-205,5,,70,2521259,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,sarvan.khokhar@gmail.com,#REF!,#REF!,#REF!,,,267,DIPLOMA
+,9,MSC IT LE,II,IV,Artificial Intelligence,MAJOR,MITM2203T,4,,70,9023,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,PG
+2622,1,MSC IT,II,IV,Artificial Intelligence,MAJOR,MITM2203T,4,,70,2542262,,,,70,,COMPUTER,COMPUTER,,,,,,,,,sangeeta@matagujricollege.org,#REF!,#REF!,#REF!,,,47,PG
+2622,1,MCOM,II,IV,Banking and Insurance Services ,MAJOR,MCOP2403T,5,,70,2542144,,,,70,,COMMERCE,COMMERCE,,,,,,,,,jagmeetkaurdhillon@gmail.com,#REF!,#REF!,#REF!,,,31,PG
+2982,1,BVOC FP,I,II,Basics of food packaging,MAJOR,B.VFPG-1203,4,,70,2521304,,,,70,,FP,FP,,,,,,,,,ajay3singh@gmail.com,#REF!,#REF!,#REF!,,,139,UG
+5581,1,BVOC HM,I,II,Basics of Hospitality Service-II,MAJOR,HTMBV-201,4,,70,2521381,,,,70,,H&M,H&M,,,,,,,,,vikramjitsingh23@gmail.com,#REF!,#REF!,#REF!,,,246,UG
+2623,1,MSC CHEMISTRY,II,IV,Biophysical Chemistry and Advanced Spectroscopy,MAJOR,CHEM2413T,4,,70,2542140,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,sanjeev.sk.chem@gmail.com,#REF!,#REF!,#REF!,,,115,PG
+2622,1,MCOM,I,II,Business Environment,MAJOR,MC202,5,,70,2522148,,,,70,,COMMERCE,COMMERCE,,,,,,,,,karmanpreetminhas@gmail.com,#REF!,#REF!,#REF!,,,78,PG
+2622,1,BCOM,III,VI,Business Environment,MAJOR,BCOU3605T,5,,70,2561179,,,,70,,COMMERCE,COMMERCE,,,,,,,,,rajnikhushi2012@gmail.com,#REF!,#REF!,#REF!,,,9,UG
+2622,1,BBA,II,IV,Business Environment,MAJOR,BBAU4101T,4,,70,2541426,,,,70,,COMMERCE,COMMERCE,,,,,,,,,parampreetsingh.566@gmail.com,#REF!,#REF!,#REF!,,,83,UG
+260606,1,DAIRY SCIENCE,I,II,Communication Skills and Personality Development,MAJOR,DSG-202,4,,70,2521256,,,,70,,AGRICULTURE,ENGLISH,,,,,,,,,gaurieng@matagujricollege.org,#REF!,#REF!,#REF!,,,269,DIPLOMA
+2981,1,BVOC HM,I,II,Communication Skills and Personality Development-II,MAJOR,HTMBV-208,4,,70,2511868,,,,70,,H&M,ENGLISH,,,,,,,,,kaurgurpreetrekhi@gmail.com,#REF!,#REF!,#REF!,,,135,UG
+2622,1,MSC MATHEMATICS,II,IV,Commutative Algebra,MAJOR,MATM2210T,4,,70,2542273,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,preetinder.singh@bamkc.edu.in,#REF!,#REF!,#REF!,,,1,PG
+2622,1,MSC MATHEMATICS,I,II,Complex Analysis,MAJOR,MATM1204T,4,,70,2522282,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,goyaldrbharat@gmail.com,#REF!,#REF!,#REF!,,,16,PG
+2622,1,BCA,I,II,Computer Architecture,MAJOR,BCA1202T,4,,70,2521264,,,,70,,COMPUTER,COMPUTER,,,,,,,,,academics.gnc24@gmail.com,#REF!,#REF!,#REF!,,,28,UG
+2622,1,MSC CHEMISTRY,I,II,Computer Fundamentals and Programming with C,MAJOR,MCHE1204T,4,,70,2522137,,,,70,,SCIENCE,COMPUTER,,,,,,,,,rwalia1971@gmail.com,#REF!,#REF!,#REF!,,,44,PG
+,9,MSC IT LE,II,IV,Computer Graphics,MAJOR,MITM2202T,4,,70,9022,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,PG
+2622,1,MSC IT,II,IV,Computer Graphics,MAJOR,MITM2202T,4,,70,2542261,,,,70,,COMPUTER,COMPUTER,,,,,,,,,jeetsapan3@gmail.com,#REF!,#REF!,#REF!,,,55,PG
+2622,1,BCA,II,IV,Computer Networks,MAJOR,BCAB2202T,4,,70,2541233,,,,70,,COMPUTER,COMPUTER,,,,,,,,,sangeeta@matagujricollege.org,#REF!,#REF!,#REF!,,,45,UG
+2622,1,PGDCA,I,II,Computer Organization and Architecture,MAJOR,CSM1204T,4,,70,2522247,,,,70,,COMPUTER,COMPUTER,,,,,,,,,academics.gnc24@gmail.com,#REF!,#REF!,#REF!,,,29,PG
+2622,1,BCA,II,IV,Computer Oriented Numerical and Statistical Methods,MAJOR,BCAB2203T,4,,70,2541234,,,,70,,COMPUTER,MATHEMATICS,,,,,,,,,jksaini83@gmail.com,#REF!,#REF!,#REF!,,,3,UG
+2623,1,MSC PHYSICS,II,IV,Condensed Matter Physics–II,MAJOR,PHYM2401T,4,,60,2542158,,,,60,,SCIENCE,PHYSICS,,,,,,,,,singhrajpal7@gmail.com,#REF!,#REF!,#REF!,,,93,PG
+2622,1,BVOC SD,II,IV,Content Management System,MAJOR,BSDB2203T,4,,70,2541389,,,,70,,COMPUTER,COMPUTER,,,,,,,,,ipkaur03@gmail.com,#REF!,#REF!,#REF!,,,52,UG
+2622,1,MCOM,II,IV,Corporate Tax Planning ,MAJOR,MCOP2404T,5,,70,2542145,,,,70,,COMMERCE,COMMERCE,,,,,,,,,parampreetsingh.566@gmail.com,#REF!,#REF!,#REF!,,,84,PG
+2622,1,BCOM,III,VI,Cost Accounting-II,MAJOR,BCOU3604T,5,,70,2561178,,,,70,,COMMERCE,COMMERCE,,,,,,,,,amanblaggan88@yahoo.com,#REF!,#REF!,#REF!,,,35,UG
+2622,1,BCOM HONS,III,VI,COST ACCOUNTING-II,MAJOR,BCHU3602T,5,,70,2561162,,,,70,,COMMERCE,COMMERCE,,,,,,,,,amanblaggan88@yahoo.com,#REF!,#REF!,#REF!,,,36,UG
+2606042,1,DAIRY SCIENCE,I,II,Dairy Feed and Fodder,MAJOR,DSG-201,4,,70,2521255,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,drrosysingla@gmail.com,#REF!,#REF!,#REF!,,,274,DIPLOMA
+2622,1,MCA,I,II,Data Communication and Computer Networks,MAJOR,MCAM1201T,4,,70,2522216,,,,70,,COMPUTER,COMPUTER,,,,,,,,,sangeeta@matagujricollege.org,#REF!,#REF!,#REF!,,,46,PG
+,9,BVOC SD,I,II,Data Structure,MAJOR,CSUG106T,3,,70,9060,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BCA,I,II,Data Structures,MAJOR,CSUG106T,4,,70,2521267,,,,70,,COMPUTER,COMPUTER,,,,,,,,,lalsingh.kcp@gmail.com,#REF!,#REF!,#REF!,,,24,UG
+2622,1,PGDCA,I,II,Database Mangement System,MAJOR,CSM1201T,4,,70,2522244,,,,70,,COMPUTER,COMPUTER,,,,,,,,,kkamaldeep11@gmail.com,#REF!,#REF!,#REF!,,,82,PG
+2622,1,MA POL SCI,I,II,DEMOCRACY IN INDIA,MAJOR,MPOL1204,5,,70,2522108,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,pargatsotha@gmail.com,#REF!,#REF!,#REF!,,,13,PG
+,1,BVOC GD,I,II,Design Basics,MAJOR,BVGDB1204T,5,,70,9026,,,,70,,FT,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,MSC MATHEMATICS,I,II,Differential Equations-I,MAJOR,MATM1206T,4,,70,2522283,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,anu_singla13@yahoo.com,#REF!,#REF!,#REF!,,,56,PG
+3081,1,BVOC FT,I,II,Drafting and Pattern Making /Fundamentals of Pattern Making ,MAJOR,BVFTB1203T,4,,70,2521319,,,,70,,FT,FT,,,,,,,,,veenumodicollege@gmail.com,#REF!,#REF!,#REF!,,,162,UG
+,9,BBA,I,II,"Drug Abuse : Problem, Management and Prevention	",VAC,DAUGC1201T,2,,35,9066,,,,35,,COMMERCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC PERFORMING ARTS,I,II,"Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0,,70,9001,,,,70,,MUSIC,MUSIC,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,MCOM,I,II,E- Commerce,MAJOR,MC203,5,,70,2522149,,,,70,,COMMERCE,COMMERCE,,,,,,,,,kamrunnishaibm@gmail.com,#REF!,#REF!,#REF!,,,33,PG
+4081,1,MLIB,I,II,E-Resources in Library and Information Centers,MAJOR,MLIS09,4,,70,2522183,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,baljinderpup@gmail.com,#REF!,#REF!,#REF!,,,184,PG
+2623,1,MSC PHYSICS,I,II,Electronics-II,MAJOR,MPHY1206T,4,,60,2522128,,,,60,,SCIENCE,PHYSICS,,,,,,,,,anitagnc2020@gmail.com,#REF!,#REF!,#REF!,,,96,PG
+,1,BVOC FP,I,II,Elementary Punjabi,MAJOR,PBIB103-MG-2,4,,70,2521308,,,,70,,FP,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2981,1,GREEN HOUSE TECHNOLOGY,I,II,English Communication Skills,MAJOR,DGHT212,4,,70,252210,,,,70,,AGRICULTURE,ENGLISH,,,,,,,,,kaurgurpreetrekhi@gmail.com,#REF!,#REF!,#REF!,,,136,DIPLOMA
+2981,1,BCA,II,IV,English Communication Skills-II,MAJOR,BCAB2201T,4,,70,2541232,,,,70,,COMPUTER,ENGLISH,,,,,,,,,kuljeetkaur47@gmail.com,#REF!,#REF!,#REF!,,,133,UG
+2981,1,BA,III,VI,ENGLISH COMPULSORY,MAJOR,BA-321T,4,,70,2561526,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,sguntassingh@gmail.com,#REF!,#REF!,#REF!,,,129,UG
+2981,1,BCA,III,VI,English Literary Skills - II,MAJOR,BCAB3201T,4,,70,2561226,,,,70,,COMPUTER,ENGLISH,,,,,,,,,kuljeetkaur47@gmail.com,#REF!,#REF!,#REF!,,,134,UG
+2622,1,BCOM HONS,III,VI,ENTREPRENEURSHIP AND SOCIAL RESPONSIBILITY OF BUSINESS,MAJOR,BCHU3604T,5,,70,2561164,,,,70,,COMMERCE,COMMERCE,,,,,,,,,jaspreetmgc@gmail.com,#REF!,#REF!,#REF!,,,75,UG
+2622,1,BCOM,III,VI,Entrepreneurship Development,MAJOR,BCOU3606T,5,,70,2561180,,,,70,,COMMERCE,COMMERCE,,,,,,,,,jaspreetmgc@gmail.com,#REF!,#REF!,#REF!,,,74,UG
+2623,1,MSC CHEMISTRY,II,IV,Environmental Chemistry,MAJOR,CHEM2401T,4,,70,2542138,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,nidhigupta0508@gmail.com,#REF!,#REF!,#REF!,,,110,PG
+2622,1,BVOC CS,II,IV,Ethical Hacking- Level 2,MAJOR,BCSB2202T,4,,70,2541222,,,,70,,COMPUTER,COMPUTER,,,,,,,,,deepamehta.official@gmail.com,#REF!,#REF!,#REF!,,,7,UG
+2623,1,MSC PHYSICS,II,IV,Experimental Techniques in Physics,MAJOR,PHYM2403T,4,,60,2542160,,,,60,,SCIENCE,PHYSICS,,,,,,,,,deep_shikha79@yahoo.co.in,#REF!,#REF!,#REF!,,,101,PG
+26050801,1,M.Sc. (Fashion Technology),,IV,Fashion Entrepreneurship,MAJOR,FTM2202T,,,,2542892,,,,,,FT,FT,,,,,,,,,parinaazsharma16@gmail.com,#REF!,#REF!,#REF!,,,279,PG
+3081,1,MSC FT,I,II,Fashion Marketing,MAJOR,MFT1204T,4,,70,2522296,,,,70,,FT,FT,,,,,,,,,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,#REF!,#REF!,,,166,PG
+3081,1,BVOC GD,II,IV,Fashion Marketing and Merchandising,MAJOR,BVGDB2203T,3,,70,2541250,,,,70,,FT,FT,,,,,,,,,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,#REF!,#REF!,,,165,UG
+3081,1,BVOC FT,I,II,Fashion Studies /Study of Fashion ,MAJOR,BVFTB1202T,5,,70,2521318,,,,70,,FT,FT,,,,,,,,,kaur.veerpal1684@gmail.com,#REF!,#REF!,#REF!,,,155,UG
+2622,1,MCOM,I,II,Financial Institutions and Markets,MAJOR,MC206,5,,70,2522150,,,,70,,COMMERCE,COMMERCE,,,,,,,,,kamrunnishaibm@gmail.com,#REF!,#REF!,#REF!,,,34,PG
+2622,1,BBA,II,IV,Financial Management,MAJOR,BBAU4103T,4,,70,2541428,,,,70,,COMMERCE,COMMERCE,,,,,,,,,manpreet8701kaur@gmail.com,#REF!,#REF!,#REF!,,,4,UG
+2622,1,BCOM HONS,III,VI,FINANCIAL MANAGEMENT,MAJOR,BCHU3603T,5,,70,2561163,,,,70,,COMMERCE,COMMERCE,,,,,,,,,karmanpreetminhas@gmail.com,#REF!,#REF!,#REF!,,,77,UG
+4781,1,BA,III,VI,Fine Arts,MAJOR,BA-331T,2,,30,2561536,,,,30,,HUMANITIES,FINE ARTS,,,,,,,,,sgtbfinearts@gmail.com,#REF!,#REF!,#REF!,,,223,UG
+2982,1,BVOC FP,I,II,Food Product Packaging Technology,MAJOR,B.VFPG-1205,4,,70,2521306,,,,70,,FP,FP,,,,,,,,,nagrarupinderpal@gmail.com,#REF!,#REF!,#REF!,,,145,UG
+2982,1,M.Sc. FP,,II,Food Safety Regulations and IPR,MAJOR,MSFPT205,,,,2522551,,,,70,,FP,FP,,,,,,,,,nagrarupinderpal@gmail.com,#REF!,#REF!,#REF!,,,146,PG
+2984,1,BA,III,VI,Food Science & Child Development-II,MAJOR,BA-334T,3,,44,2561539,,,,44,,HUMANITIES,HOME SCIENCE,,,,,,,,,ranjitkaurjharsahib@gmail.com,#REF!,#REF!,#REF!,,,152,UG
+2982,1,BVOC FP,II,IV,Food spoilage and control,MAJOR,FDPB 2203T,3,,74,2541343,,,,74,,FP,FP,,,,,,,,,meetkarman009@gmail.com,#REF!,#REF!,#REF!,,,143,UG
+5581,1,BVOC HM,I,II,Front Office Operations,MAJOR,HTMBV-203,4,,70,2521383,,,,70,,H&M,H&M,,,,,,,,,ratnesh@matagujricollege.org,#REF!,#REF!,#REF!,,,248,UG
+5181,1,BVOC FP,II,IV,Fruits and vegetables Processing,MAJOR,FDPB 2205T,3,,74,2541345,,,,74,,FP,FP,,,,,,,,,ajay3singh@gmail.com,#REF!,#REF!,#REF!,,,230,UG
+2622,1,MSC MATHEMATICS,I,II,Functional Analysis,MAJOR,MATM1203T,4,,70,2522281,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,shivdeepmath@matagujricollege.org,#REF!,#REF!,#REF!,,,50,PG
+,9,BVOC FP,I,II,Functional Punjabi ,MAJOR,PBIBVOC-502,4,,70,9032,,,,70,,FP,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2606044,1,GREEN HOUSE TECHNOLOGY,I,II,Fundamental Of Agriculture -II,MAJOR,DGHT213,4,,70,252211,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,ssandeepkaur762@gmail.com,#REF!,#REF!,#REF!,,,277,DIPLOMA
+2622,1,BVOC CS,I,II,Fundamental of Cyber Security,MAJOR,BVCS1201T,4,,70,2521204,,,,70,,COMPUTER,COMPUTER,,,,,,,,,jbs_23_69@pcsamana.org.in,#REF!,#REF!,#REF!,,,66,UG
+2606043,1,DAIRY SCIENCE,I,II,Fundamentals of Dairy Chemistry,MAJOR,DSG-203,4,,70,2521257,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,ssandeepkaur762@gmail.com,#REF!,#REF!,#REF!,,,276,DIPLOMA
+2622,1,BVOC SD,I,II,Fundamentals of DBMS,MAJOR,CSUG104T,3,,70,2521400,,,,70,,COMPUTER,COMPUTER,,,,,,,,,gsmann2219@gmail.com,#REF!,#REF!,#REF!,,,18,UG
+,9,BVOC CS,I,II,Fundamentals of DBMS,MAJOR,CSUG104T,3,,70,9007,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+3081,1,BVOC FT,I,II,Fundamentals of Design/Design Basics,MAJOR,BVFTB1205T,4,,70,2521321,,,,70,,FT,FT,,,,,,,,,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,#REF!,#REF!,,,164,UG
+3081,1,BA,III,VI,Fundamentals of Fashion Business,MAJOR,BA-330T,3,,40,2561535,,,,40,,HUMANITIES,FT,,,,,,,,,seemajindal85@gmail.com,#REF!,#REF!,#REF!,,,161,UG
+3981,1,BCOM,III,VI,Fundamentals of Insurance ,MAJOR,BCOU3609T,5,,70,2561181,,,,70,,COMMERCE,COMMERCE,,,,,,,,,manpreet2390@gmail.com,#REF!,#REF!,#REF!,,,181,UG
+2622,1,MCOM,II,IV,Fundamentals of Investment,MAJOR,MCOP2402T,5,,70,2542143,,,,70,,COMMERCE,COMMERCE,,,,,,,,,deepshikha1852@gmail.com,#REF!,#REF!,#REF!,,,62,PG
+,1,BVOC GD,I,II,Fundamentals of Pattern Making ,MAJOR,BVGDB1203T,4,,70,9025,,,,70,,FT,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC GD,I,II,Fundamentals of window operating system & Internet ,MAJOR,CSUG1201T,2,,35,9027,,,,35,,FT,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BVOC FT,I,II,Fundamentals of window operating system & Internet ,MAJOR,CSUG1201T,2,,35,2521322,,,,35,,FT,COMPUTER,,,,,,,,,jeetsapan3@gmail.com,#REF!,#REF!,#REF!,,,54,UG
+,1,BVOC GD,II,IV,Garment Production Management,MAJOR,BVGDB2202T,4,,70,9014,,,,70,,FT,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+3081,1,BVOC FT,II,IV,Garment Production Management                    ,MAJOR,BVFTB2201T,4,,70,2541297,,,,70,,FT,FT,,,,,,,,,kaur.veerpal1684@gmail.com,#REF!,#REF!,#REF!,,,157,UG
+2981,1,BCA,I,II,General English-II,MAJOR,BCA1205T,2,,35,2521265,,,,35,,COMPUTER,ENGLISH,,,,,,,,,sguntassingh@gmail.com,#REF!,#REF!,#REF!,,,130,UG
+2622,1,MA POL SCI,II,IV,GLOBALISATION AND ITS IMPACT ON POLITICAL SYSTEM,MAJOR,POLM22409T,5,,70,2542119,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,pargatsotha@gmail.com,#REF!,#REF!,#REF!,,,14,PG
+,1,BVOC GD,II,IV,Historic Costumes,MAJOR,BVGDB2204T,4,,70,9015,,,,70,,FT,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+4281,1,MA FINE ARTS,I,II,History of Indian Art – II (Mughal to Modern),MAJOR,MAFA1206T,5,,70,2522215,,,,70,,FINE ARTS,FINE ARTS,,,,,,,,,navneetkaurjeji@gmail.com,#REF!,#REF!,#REF!,,,191,PG
+3081,1,BVOC FT,II,IV,History of Indian Costumes/Historic Costumes,MAJOR,BVFTB2203T,3.5,,70,2541299,,,,70,,FT,FT,,,,,,,,,harpreetinsa011@gmail.com,#REF!,#REF!,#REF!,,,167,UG
+5181,1,MA MUSIC,I,II,History of Indian Music (Vocal),MAJOR,MAMUV1202T,5,,70,2522111,,,,70,,MUSIC,MUSIC,,,,,,,,,kulwinder.24471@lpu.co.in,#REF!,#REF!,#REF!,,,232,PG
+3083,1,MA HISTORY,I,II,History of Punjab (1675-1799).,MAJOR,MAHIS-201,4,,70,2522101,,,,70,,HISTORY,HISTORY,,,,,,,,,satnamkaurmalhi0@gmail.com,#REF!,#REF!,#REF!,,,177,PG
+3082,1,BA,III,VI,HISTORY OF PUNJAB(1799-1966),MAJOR,BA-328T,4,,70,2561533,,,,70,,HUMANITIES,HISTORY,,,,,,,,,harbhinder1984@gmail.com,#REF!,#REF!,#REF!,,,171,UG
+3082,1,MA HISTORY,I,II,History of the World (1815-1870),MAJOR,MAHIS-202,4,,70,2522102,,,,70,,HISTORY,HISTORY,,,,,,,,,harbhinder1984@gmail.com,#REF!,#REF!,#REF!,,,172,PG
+3082,1,MA HISTORY,I,II,History of the World (1919-1991),MAJOR,MAHIS-203,4,,70,2522103,,,,70,,HISTORY,HISTORY,,,,,,,,,harjittiwana332@gmail.com,#REF!,#REF!,#REF!,,,170,PG
+4181,1,MA FINE ARTS,I,II,History of Western Art – I (Greek to Renaissance),MAJOR,MAFA1205T,5,,70,2522214,,,,70,,FINE ARTS,FINE ARTS,,,,,,,,,avneet134007@gmail.com,#REF!,#REF!,#REF!,,,189,PG
+5381,1,BVOC FP,I,II,Holistic development I: Personality Development,MAJOR,B.VFPG-1202,4,,70,2521303,,,,70,,FP,ENGLISH,,,,,,,,,k20harleen@gmail.com,#REF!,#REF!,#REF!,,,244,UG
+5181,1,BVOC FP,II,IV,Holistic development II: Physical Training,MAJOR,FDPB 2202T,4,,74,2541342,,,,74,,FP,PHYSICAL EDUCATION,,,,,,,,,nishanchauhan@ymail.com,#REF!,#REF!,#REF!,,,235,UG
+5581,1,BVOC HM,I,II,Housekeeping Management,MAJOR,HTMBV-202,4,,70,2521382,,,,70,,H&M,H&M,,,,,,,,,ratnesh@matagujricollege.org,#REF!,#REF!,#REF!,,,247,UG
+2622,1,MCOM,II,IV,Human Resource Management,MAJOR,MCOP2401T,5,,70,2542142,,,,70,,COMMERCE,COMMERCE,,,,,,,,,harjeet.mgc@gmail.com,#REF!,#REF!,#REF!,,,39,PG
+20,1,BCOM HONS,I,II,IDC -Fundamentals of Management,IDC,BC206B,3,,70,2521173,,,,70,,COMMERCE,COMMERCE,,,,,,,,,sroayharman81@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,II,IV,IDC-Basic Economics -III,IDC,ECOB2403T:IDC-MDC-3,3,,70,2541486,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,IDC-Basic Economics – II,IDC,BAIDECO1246T,3,,70,2521423,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,jagdeepsinghwalia@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Basic of Political Science,IDC,BAIDPOL1236,3,,70,2521426,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,danamandi47@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,9,BSC M,I,II,IDC-Basics of Political Science,IDC,BAIDPOL1236,3,,70,9040,,,,70,,SCIENCE,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,IDC-Basics of Political Science,IDC,BAIDPOL1236,3,,70,8001,,,,70,,SCIENCE,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,II,IV,IDC-Climate Change,IDC,GEOBH1403T,3,,70,9038,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BSC NM,II,IV,IDC-Climate Change,IDC,GEOBH1403T,3,,70,2541364,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,kaurbhupinder21773@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,II,IV,IDC-Digital Society,IDC,SOCB2414T,3,,70,2541525,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,ramandeepkaur49378@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Disability Studies : An Introduction,IDC,BAIDSOC1230T,3,,70,2521429,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,ramandeepkaur49378@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Food Management-II,IDC,BAIDHOM1249T,2,,50,2521425,,,,50,,HUMANITIES,FT,,,,,,,,,bansalm063@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,II,IV,IDC-History and Culture of the Punjab from A.D. 1469-1849,IDC,HISB2403T,3,,70,2541498,,,,70,,HUMANITIES,HISTORY,,,,,,,,,rupindermansa38@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Internet and Web Technologies,IDC,CSUGI1212T,3,,70,2521471,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,rajpreetkaur110@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,II,IV,IDC-Laplace Transform,IDC,MATBI-2404T,3,,70,2541503,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,IDC-Major Religious Scriptures : Basic Knowledge ,IDC,BAIDREL1239T,3,,70,2521428,,,,70,,HUMANITIES,RELIGION,,,,,,,,,sajanmutneja33@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,II,IV,IDC-Major Scriptures: Basic Introduction,IDC,RELB2411T,3,,70,2541521,,,,70,,HUMANITIES,RELIGION,,,,,,,,,drraj.kaur@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BCOM HONS,II,IV,IDC-Marketing Management,IDC,COMB2404T,3,,70,2541191,,,,70,,COMMERCE,COMMERCE,,,,,,,,,dalkulbir@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,II,IV,IDC-Meditation And Shuddhi Kriyas,IDC,PHE-IDC-103T,2,,50,2541513,,,,50,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,II,IV,IDC-POLITICAL SYSTEM: UK AND USA,IDC,POLB243TMDC,3,,70,2541516,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,danamandi47@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Quantitative Ability-II,IDC,BAMDMAT1229T,3,,70,2521431,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,parveensharma3434@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Reading Poetry,IDC,BAIDREA1224T,4,,70,2521427,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,kawalbhatti186@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-Relationship between Visual Arts and Humanities - II,IDC,BAIDVAH1276T,3,,70,2521430,,,,70,,HUMANITIES,FINE ARTS,,,,,,,,,khalsajagpreetvirdi@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,II,IV,IDC-Six One-Act Plays,IDC,ENGBMDIDC2201-T,3,,70,2541488,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,kaursukhdeep475@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,I,II,IDC-Skill Development,IDC,BAIDCEDU1262T,3,,70,2521422,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,1,BA,I,II,"IDC-The Punjab: State, Society and Culture (1708-1947) ",IDC,BAHIS1222T,3,,70,2521420,,,,70,,HUMANITIES,HISTORY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,IDC-हिन्दी कथा साहित्य,IDC,BAIDHIN1226T,3,,70,2521424,,,,70,,HUMANITIES,HINDI,,,,,,,,,drksarao@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,II,IV,IDC-हिन्दी की नव्यत्तर गद्य विधाएं,IDC,HINBH2303T-MDC,3,,70,2541492,,,,70,,HUMANITIES,HINDI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,II,IV,IDC-ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਲੇਖਣ,IDC,PBIBMDMDC2201T,3,,70,2541512,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,avtar63025@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,IDC-ਪੰਜਾਬੀ ਲੋਕ ਕਲਾਵਾਂ: ਮੁੱਢਲੀ ਜਾਣ ਪਛਾਣ,IDC,PBIB204-2,3,,50,2521480,,,,50,,HUMANITIES,PUNJABI,,,,,,,,,gsidhu98150@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+5381,1,BSC M,III,VI,Immunology,MAJOR,ZOOB3202T,2,,35,2561332,,,,35,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,amarsantosh07@gmail.com,#REF!,#REF!,#REF!,,,242,UG
+2623,1,BSC NM,III,VI,In-Organic Chemistry- IV,MAJOR,CHEB3602T,2,,35,2561392,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,rahulbadru@gmail.com,#REF!,#REF!,#REF!,,,117,UG
+,9,BSC M,III,VI,In-Organic Chemistry-IV,MAJOR,CHEB3602T,2,,35,9035,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC GD,II,IV,Indian Knowledge System,QUALIFYING,VAC2401T,2,,35,9018,,,,35,,FT,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,MA POL SCI,I,II,INDIAN POLITICAL THOUGHT-II,MAJOR,MPOL1201,5,,70,2522105,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,harmansaangha123@gmail.com,#REF!,#REF!,#REF!,,,20,PG
+3081,1,MSC FT,I,II,Indian Traditional Textiles,MAJOR,MFT1203T,4,,70,2522295,,,,70,,FT,FT,,,,,,,,,parinaazsharma16@gmail.com,#REF!,#REF!,#REF!,,,159,PG
+4081,1,MLIB,I,II,"Information Analysis, Consolidation and Repackaging",MAJOR,MLIS10,4,,70,2522184,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,anamika.sh21@gmail.com,#REF!,#REF!,#REF!,,,187,PG
+2606062,1,MLIB,I,II,Information and Literature Survey in Social Sciences ,MAJOR,MLIS12,4,,70,2522187,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,navkiran1907@gmail.com,#REF!,#REF!,#REF!,,,278,PG
+4081,1,BLIB,I,II,Information Sources and Services,MAJOR,BLIS09,6,,60,2521349,,,,60,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,anamika.sh21@gmail.com,#REF!,#REF!,#REF!,,,186,UG
+2623,1,MSC CHEMISTRY,I,II,Inorganic Chemistry-II,MAJOR,MCHE1201T,4,,70,2522134,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,ripneel83chahal@gmail.com,#REF!,#REF!,#REF!,,,119,PG
+2622,1,BA,III,VI,International Politics:Theory and Practice,MAJOR,BPOLBP2601,4,,70,2561542,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,jagtarsinghkcp82@gmail.com,#REF!,#REF!,#REF!,,,23,UG
+2622,1,BA,III,VI,Introduction To Computer Network and Internet Programming,MAJOR,BCSB3201T,3,,50,2561541,,,,50,,HUMANITIES,COMPUTER,,,,,,,,,manpreetkaur.mgc@gmail.com,#REF!,#REF!,#REF!,,,40,UG
+2982,1,BVOC FP,I,II,Introductory food Microbiology,MAJOR,B.VFPG-1204,4,,70,2521305,,,,70,,FP,FP,,,,,,,,,monikajoon1996@gmail.com,#REF!,#REF!,#REF!,,,141,UG
+4081,1,BLIB,I,II,Knowledge Organization and Information Processing: Library Cataloguing Practice (AACR-II),MAJOR,BLIS08,4,,70,2521348,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,anamika.sh21@gmail.com,#REF!,#REF!,#REF!,,,185,UG
+4081,1,BLIB,I,II,Knowledge Organization and Information Processing: Theory of Library Cataloguing,MAJOR,BLIS07,4,,70,2521347,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,baljinderpup@gmail.com,#REF!,#REF!,#REF!,,,182,UG
+2623,1,BSC NM,III,VI,Laser,MAJOR,PHYB3601T,2,,35,2561397,,,,35,,SCIENCE,PHYSICS,,,,,,,,,preet4bhullar@gmail.com,#REF!,#REF!,#REF!,,,106,UG
+2981,1,MA ENGLISH,II,IV,LITERARY AND CULTURAL THEORY,MAJOR,ENGM2201T,5,,70,2542200,,,,70,,ENGLISH,ENGLISH,,,,,,,,,gaurieng@matagujricollege.org,#REF!,#REF!,#REF!,,,128,PG
+2981,1,MA ENGLISH,I,II,LITERARY CRITICISM,MAJOR,M1ENG201T,5,,70,2522239,,,,70,,ENGLISH,ENGLISH,,,,,,,,,harpreet0770@gmail.com,#REF!,#REF!,#REF!,,,131,PG
+2981,1,BA,III,VI,LITERARY MASTERPIECES: STUDY OF CLASSICS-II ,MAJOR,BA-322T,4,,70,2561527,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,roublebrar@yahoo.co.in,#REF!,#REF!,#REF!,,,120,UG
+2981,1,MA ENGLISH,II,IV,LITERATURE AND POLITICS,MAJOR,ENGM2203T,5,,70,2542202,,,,70,,ENGLISH,ENGLISH,,,,,,,,,dr.maninderkainth@gmail.com,#REF!,#REF!,#REF!,,,126,PG
+3082,1,BA,II,IV,MAJOR -Social and Economic History of India from Indus Valley to A.D. 1000,MAJOR,HISB2401T,4,,70,2541496,,,,70,,HUMANITIES,HISTORY,,,,,,,,,kaurkiranjeet2802@gmail.com,#REF!,#REF!,#REF!,,,175,UG
+2622,1,BBA,I,II,MAJOR Business Economics,MAJOR,BBA203,4,,70,2521413,,,,70,,COMMERCE,COMMERCE,,,,,,,,,manpreet8701kaur@gmail.com,#REF!,#REF!,#REF!,,,5,UG
+5181,1,BCOM HONS,I,II,MAJOR Company Law,MAJOR,BC202,4,,70,2521169,,,,70,,COMMERCE,COMMERCE,,,,,,,,,jagmeetkaurdhillon@gmail.com,#REF!,#REF!,#REF!,,,229,UG
+2622,1,BCOM HONS,I,II,MAJOR Financial Accounting-II,MAJOR,BC201,4,,70,2521168,,,,70,,COMMERCE,COMMERCE,,,,,,,,,kirtan_singh2002@yahoo.co.in,#REF!,#REF!,#REF!,,,67,UG
+2623,1,BA,I,II,MAJOR Indian Administration,MAJOR,BAMJPUB1261T,4,,70,2521445,,,,70,,HUMANITIES,PUBLIC ADMINISTRATION,,,,,,,,,deepikasharda2015@gmail.com,#REF!,#REF!,#REF!,,,102,UG
+2622,1,BBA,I,II,MAJOR Marketing Management,MAJOR,BBA202,4,,70,2521412,,,,70,,COMMERCE,COMMERCE,,,,,,,,,rajbindersinghkcp@gmail.com,#REF!,#REF!,#REF!,,,27,UG
+2622,1,BBA,I,II,MAJOR Organisational Behaviour,MAJOR,BBA201,4,,70,2521411,,,,70,,COMMERCE,COMMERCE,,,,,,,,,karmanpreetminhas@gmail.com,#REF!,#REF!,#REF!,,,76,UG
+,9,BSC NM,II,IV,MAJOR-Analysis,MAJOR,MATB2401T,4,,70,5001,,,,70,,SCIENCE,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BA,II,IV,MAJOR-Analysis,MAJOR,MATB-2401T,4,,70,2541502,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,mandeep1125@yahoo.com,#REF!,#REF!,#REF!,,,32,UG
+3082,1,BA,I,II,MAJOR-Ancient India: Political History From Earliest Times to 326 B.C.,MAJOR,BAHIS1204T,4,,70,2521418,,,,70,,HUMANITIES,HISTORY,,,,,,,,,rak_bawa@yahoo.co.in,#REF!,#REF!,#REF!,,,169,UG
+2622,1,BA,I,II,MAJOR-Basic of Political Science,MAJOR,BAMJPOL1202,4,,70,2521444,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,gurmeetbrar8070@gmail.com,#REF!,#REF!,#REF!,,,11,UG
+2984,1,BA,II,IV,MAJOR-Basic Textile and Textile Designing ,MAJOR,HSB240IT,3,,70,2541499,,,,70,,HUMANITIES,HOME SCIENCE,,,,,,,,,amanv15995@gmail.com,#REF!,#REF!,#REF!,,,154,UG
+2622,1,BA,I,II,MAJOR-Calculus,MAJOR,BAMJMAT1203T,4,,70,2521441,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,jksaini83@gmail.com,#REF!,#REF!,#REF!,,,2,UG
+,9,BSC NM,I,II,MAJOR-Calculus-I,MAJOR,BAMJMAT1203T,4,,70,8002,,,,70,,SCIENCE,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2623,1,BSC M,I,II,MAJOR-Chemistry Major -II,MAJOR,BCHE1201T,3,,70,2521353,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,anupama.parmar1969@gmail.com,#REF!,#REF!,#REF!,,,111,UG
+2623,1,BSC NM,II,IV,MAJOR-Chemistry Major-IV,MAJOR,CHEB2401T,3,,70,2541362,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,monika_bansal79@yahoo.com,#REF!,#REF!,#REF!,,,94,UG
+,9,BSC M,II,IV,MAJOR-Chemistry Major-IV,MAJOR,CHEB2401T,3,,70,9036,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,MAJOR-Chemistry-II,MAJOR,BCHE1201T,3,,70,9047,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BCOM HONS,II,IV,MAJOR-Corporate Accounting II,MAJOR,COMB2402T,4,,70,2541189,,,,70,,COMMERCE,COMMERCE,,,,,,,,,gaurav.modicollege@gmail.com,#REF!,#REF!,#REF!,,,60,UG
+2622,1,BA,II,IV,MAJOR-Data Structure,MAJOR,BCSB2201T,3,,70,2541482,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,nachhattar_singh@pcsamana.org.in,#REF!,#REF!,#REF!,,,70,UG
+4381,1,BA,II,IV,MAJOR-Development Economics,MAJOR,ECOB2401T:MAJOR-4,4,,70,2541484,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,sarbjit.ahluwalia87@gmail.com,#REF!,#REF!,#REF!,,,200,UG
+2623,1,BSC M,II,IV,MAJOR-Diversity and Systemetics of Spermatophytes,MAJOR,BOTBMD2201T,3,,70,2541334,,,,70,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,ranjeetbotany@gmail.com,#REF!,#REF!,#REF!,,,91,UG
+2623,1,BSC M,I,II,MAJOR-Diversity of  Microbes ,MAJOR,BBOT1201T,3,,70,2521352,,,,70,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,avinashkaur211@gmail.com,#REF!,#REF!,#REF!,,,100,UG
+2623,1,BA,I,II,MAJOR-Educational Phychology,MAJOR,BAMJEDU1258T,4,,70,2521433,,,,70,,HUMANITIES,EDUCATION,,,,,,,,,kkhs98@gmail.com,#REF!,#REF!,#REF!,,,108,UG
+2623,1,BSC NM,I,II,MAJOR-Electricity and Magnetism,MAJOR,BPHY1201T,3,,70,2521375,,,,70,,SCIENCE,PHYSICS,,,,,,,,,bhardwajkavita25@gmail.com,#REF!,#REF!,#REF!,,,109,UG
+2984,1,BA,I,II,MAJOR-Family Resource management and Hygiene & Human Physiology,MAJOR,BAMJHOM1211T ,3,,70,2521439,,,,70,,HUMANITIES,HOME SCIENCE,,,,,,,,,amanv15995@gmail.com,#REF!,#REF!,#REF!,,,153,UG
+3081,1,BA,I,II,MAJOR-Fashion Concepts & Sewing Technology ,MAJOR,BAMJFAS1212T,3,,50,2521436,,,,50,,HUMANITIES,FT,,,,,,,,,parinaazsharma16@gmail.com,#REF!,#REF!,#REF!,,,158,UG
+4281,1,BA,II,IV,MAJOR-Fine Arts,MAJOR,FABA2201T,2,,30,2541491,,,,30,,HUMANITIES,FINE ARTS,,,,,,,,,navneetkaurjeji@gmail.com,#REF!,#REF!,#REF!,,,190,UG
+4581,1,BA,I,II,MAJOR-Foundation of Physical Education,MAJOR,BAMJPHY1206T,3,,50,2521443,,,,50,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,rupigill15@gmail.com,#REF!,#REF!,#REF!,,,204,UG
+,9,BA,I,II,MAJOR-Fundamental of Window Operating System & Internet,MAJOR,CSUG1201T,3,,70,9069,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2623,1,BA,I,II,MAJOR-Growth & Development of Print Media,MAJOR,BAMJJMC1254T,3,,50,2521440,,,,50,,HUMANITIES,JOURNALISM,,,,,,,,,khannadish33@gmail.com,#REF!,#REF!,#REF!,,,105,UG
+4181,1,BA,I,II,MAJOR-History of Indian Art,MAJOR,BAMJFIN1274T,2,,30,2521437,,,,30,,HUMANITIES,FINE ARTS,,,,,,,,,avneet134007@gmail.com,#REF!,#REF!,#REF!,,,188,UG
+2622,1,BCOM HONS,II,IV,MAJOR-Income Tax II,MAJOR,COMB2401T,4,,70,2541188,,,,70,,COMMERCE,COMMERCE,,,,,,,,,gaurav.modicollege@gmail.com,#REF!,#REF!,#REF!,,,59,UG
+2622,1,BA,II,IV,MAJOR-INDIAN POLITICAL SYSTEM,MAJOR,POLB244TMAJ,4,,70,2541517,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,jagtarsinghkcp82@gmail.com,#REF!,#REF!,#REF!,,,22,UG
+3081,1,BA,II,IV,MAJOR-Indian traditional textiles and costumes,MAJOR,MAJ-4FDB2201T,3,,50,2541501,,,,50,,HUMANITIES,FT,,,,,,,,,seemajindal85@gmail.com,#REF!,#REF!,#REF!,,,160,UG
+260504,1,BA,II,IV,MAJOR-Introduction to Cultural Studies,MAJOR,ENGBMDMAJ2201-T,4,,70,2541489,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,harpreet0770@gmail.com,#REF!,#REF!,#REF!,,,255,UG
+5181,1,BA,II,IV,MAJOR-IV Music (Vocal),MAJOR,MUSBMD2201T,2,,35,2541506,,,,35,,HUMANITIES,MUSIC,,,,,,,,,sgtbgurmatsangeet@gmail.com,#REF!,#REF!,#REF!,,,237,UG
+4481,1,BA,II,IV,MAJOR-Jainism and Buddhism:Basic Introduction,MAJOR,RELB2410T,4,,70,2541519,,,,70,,HUMANITIES,RELIGION,,,,,,,,,drnarindermgc@gmail.com,#REF!,#REF!,#REF!,,,201,UG
+4381,1,BA,I,II,MAJOR-Macro Economics,MAJOR,BAMJECO1213T,4,,70,2521432,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,harsimran.eco.pup@gmail.com,#REF!,#REF!,#REF!,,,199,UG
+2981,1,BA,I,II,MAJOR-Modern Poetry in English,MAJOR,BAMJELI1208-T,4,,70,2521434,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,dr.maninderkainth@gmail.com,#REF!,#REF!,#REF!,,,125,UG
+5381,1,BSC M,II,IV,MAJOR-Molecular Biology,MAJOR,ZOOBMD2401T,3,,70,2541341,,,,70,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,amarsantosh07@gmail.com,#REF!,#REF!,#REF!,,,240,UG
+5181,1,BA,I,II,MAJOR-Music (Vocal),MAJOR,BAMJMUS1210T,2,,35,2521442,,,,35,,HUMANITIES,MUSIC,,,,,,,,,drgaurikhanna@gmail.com,#REF!,#REF!,#REF!,,,226,UG
+2983,1,BA,I,II,MAJOR-Social Change in India ,MAJOR,BAMJSOC1209T,4,,70,2521447,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,harleenk51@gmail.com,#REF!,#REF!,#REF!,,,151,UG
+2983,1,BA,II,IV,MAJOR-Social structure of Indian society,MAJOR,SOCB2412T,4,,70,2541523,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,gs38230@gmail.com,#REF!,#REF!,#REF!,,,150,UG
+5181,1,BA,II,IV,MAJOR-Sports Coaching and Administration ,MAJOR,PHE-MDC-104T,3,,50,2541514,,,,50,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,ashok.yogi20@gmail.com,#REF!,#REF!,#REF!,,,236,UG
+2623,1,BSC NM,II,IV,MAJOR-Thermodynamics & Statistical Physics ,MAJOR,PHYB2401T,3,,70,2541368,,,,70,,SCIENCE,PHYSICS,,,,,,,,,dhaliwalramneek@gmail.com,#REF!,#REF!,#REF!,,,103,UG
+4481,1,BA,I,II,"MAJOR-Vedic Religion:- Vedas, Vedic Gods and Rituals ",MAJOR,BAMJREL1201T,4,,70,2521446,,,,70,,HUMANITIES,RELIGION,,,,,,,,,kaurpalwinder17@gmail.com,#REF!,#REF!,#REF!,,,202,UG
+4281,1,MA HINDI,II,IV,MAJOR-आधुनिक हिन्दी काव्य-2,MAJOR,HINM2PUP-T-401,4,,70,2542310,,,,70,,HINDI,HINDI,,,,,,,,,nitu.nohra@gmail.com,#REF!,#REF!,#REF!,,,197,PG
+4281,1,MA HINDI,II,IV,MAJOR-पाश्चात्य काव्यशास्त्र,MAJOR,HINM2PUP-T-402,4,,70,2542311,,,,70,,HINDI,HINDI,,,,,,,,,kaurgagandeep4720@gmail.com,#REF!,#REF!,#REF!,,,192,PG
+4281,1,MA HINDI,II,IV,MAJOR-प्रयोजनमूलक हिन्दी,MAJOR,HINM2PUP-T-403,4,,70,2542312,,,,70,,HINDI,HINDI,,,,,,,,,neenamehta680@gmail.com,#REF!,#REF!,#REF!,,,195,PG
+4281,1,BA,I,II,MAJOR-हिन्दी साहित्य का इतिहास और व्याकरण-2,MAJOR,BAMJHIN1207T,4,,70,2521438,,,,70,,HUMANITIES,HINDI,,,,,,,,,nitu.nohra@gmail.com,#REF!,#REF!,#REF!,,,196,UG
+4281,1,BA,II,IV,"MAJOR-हिन्दी साहित्य का इतिहास, व्याकरण और हिन्दी साहित्य-2",MAJOR,HINBH2404T-MAJ,4,,70,2541494,,,,70,,HUMANITIES,HINDI,,,,,,,,,neenamehta680@gmail.com,#REF!,#REF!,#REF!,,,194,UG
+4681,1,BA,II,IV,MAJOR-ਪੰਜਾਬੀ ਸਹਿਤ ,MAJOR,PBIBMDLMJA2201T,4,,70,2541511,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,amanpreetgillgnc@gmail.com,#REF!,#REF!,#REF!,,,213,UG
+3981,1,BA,I,II,MAJOR-ਪੰਜਾਬੀ ਸਾਹਿਤ,MAJOR,PBIB201-2,4,,70,2521476,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,dhaliwalveerpal0007@gmail.com,#REF!,#REF!,#REF!,,,179,UG
+2622,1,BCOM,III,VI,Management Accounting -II,MAJOR,BCOU3603T,5,,70,2561177,,,,70,,COMMERCE,COMMERCE,,,,,,,,,gaurpooja085@gmail.com,#REF!,#REF!,#REF!,,,88,UG
+2622,1,BCOM HONS,III,VI,MANAGEMENT ACCOUNTING-II,MAJOR,BCHU3601T,5,,70,2561167,,,,70,,COMMERCE,COMMERCE,,,,,,,,,kirtan_singh2002@yahoo.co.in,#REF!,#REF!,#REF!,,,69,UG
+260513,1,BLIB,I,II,Management of Libraries and Information Centres,MAJOR,BLIS06,4,,70,2521346,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,avtarnangla69@gmail.com,#REF!,#REF!,#REF!,,,259,UG
+5581,1,BCA,I,II,Mathematical Foundation to Computer Science-II,MAJOR,BCA1201T,4,,70,2521263,,,,70,,COMPUTER,MATHEMATICS,,,,,,,,,shambansal2010@gmail.com,#REF!,#REF!,#REF!,,,249,UG
+2622,1,MSC MATHEMATICS,II,IV,MATHEMATICAL METHODS,MAJOR,MATM2215T,4,,70,2542275,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,goyaldrbharat@gmail.com,#REF!,#REF!,#REF!,,,17,PG
+2622,1,MSC PHYSICS,I,II,Mathematical Methods of Physics-II,MAJOR,MPHY1201T,4,,60,2522123,,,,60,,SCIENCE,MATHEMATICS,,,,,,,,,shivdeepmath@matagujricollege.org,#REF!,#REF!,#REF!,,,51,PG
+5381,1,BSC M,III,VI,Medical Zoology and Medical Lab Technology,MAJOR,ZOOB3201T,2,,35,2561331,,,,35,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,amarsantosh07@gmail.com,#REF!,#REF!,#REF!,,,241,UG
+,9,BA,II,IV,MIL-हिन्दी साहित्य और व्याकरण,MAJOR,HINBH2402T-MIL,2,,35,7597,,,,35,,HUMANITIES,HINDI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2606042,1,DAIRY SCIENCE,I,II,Milk Procurement and Supply Management,MAJOR,DSG-204,4,,70,2521258,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,drrosysingla@gmail.com,#REF!,#REF!,#REF!,,,275,DIPLOMA
+2982,1,M.Sc. FP,,II,Milk Product Processing & Dairy Technology,MAJOR,MSFPT204,,,,2522550,,,,70,,FP,FP,,,,,,,,,simirock@rediffmail.com,#REF!,#REF!,#REF!,,,148,PG
+,9,BA,I,II,MINOR Indian Administration,MINOR,BAMNPUB1262T,4,,70,8015,,,,70,,HUMANITIES,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BCOM HONS,I,II,MINOR Macro Economics,MAJOR,BC203,4,,70,2521170,,,,70,,COMMERCE,COMMERCE,,,,,,,,,kirtan_singh2002@yahoo.co.in,#REF!,#REF!,#REF!,,,68,UG
+,9,BA,II,IV,MINOR-Analysis,MINOR,MATBM-2403T,4,,70,8027,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Ancient India: Political History From Earliest Times to 326 B.C.,MINOR,BAHIS1205T,4,,70,8005,,,,70,,HUMANITIES,HISTORY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Basic of Political Science,MINOR,BAMNPOL1237,4,,70,9068,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Basic Textile and Textile Designing,MINOR,HSB240ITm,3,,70,8026,,,,70,,HUMANITIES,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BCOM HONS,II,IV,MINOR-Business Environment -II,MAJOR,COMB2403T,4,,70,2541190,,,,70,,COMMERCE,COMMERCE,,,,,,,,,ravindermgc@gmail.com,#REF!,#REF!,#REF!,,,42,UG
+,1,BA,I,II,MINOR-Calculus,MINOR,MATMN1253T,4,,70,2521474,,,,70,,HUMANITIES,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Data Structure,MINOR,BCSB2201-T,3,,70,8021,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,II,IV,MINOR-Data Structures,MINOR,BCSB2201T,3,,70,8004,,,,70,,rajvinderk.modicollege@gmail.com,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,II,IV,MINOR-Data Structures,MINOR,BCSB2201T,3,,70,9043,,,,70,,SCIENCE,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Development Economics,MINOR,ECOB2402T:MINOR -4,4,,70,8022,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Educational Phychology,MINOR,BAMNEDU1277,4,,70,8006,,,,70,,HUMANITIES,EDUCATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Family Resource management and Hygiene & Human Physiology,MINOR,BAMNHOM1231T ,3,,70,8011,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Fashion Concepts & Sewing Technology ,MINOR,BAMNFAS1232T,3,,50,8008,,,,50,,HUMANITIES,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Foundation of Physical Education,MINOR,BAMNPHY1243T,3,,50,8014,,,,50,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Fundamental of Window Operating System & Internet,MINOR,CSUG1201T(MINOR),3,,70,8018,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Fundamentals of Hindustani Music (Vocal),MINOR,BAMNMUS1233T,2,,35,8013,,,,35,,HUMANITIES,MUSIC,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,I,II,MINOR-Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3,,70,9041,,,,70,,SCIENCE,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,MINOR-Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3,,70,9050,,,,70,,SCIENCE,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Growth & Development of Print Media,MINOR,BAMNJMC1256T,3,,50,8012,,,,50,,HUMANITIES,JOURNALISM,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-History of Indian Art,MINOR,BAMNFIN1276T,2,,30,8009,,,,30,,HUMANITIES,FINE ARTS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-INDIAN POLITICAL SYSTEM,MINOR,POLB244TMIN,4,,70,8032,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Indian traditional textiles and costumes,MINOR,MIN-4FDB2201T,3,,50,8028,,,,50,,HUMANITIES,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Introduction to Cultural Studies,MINOR,ENGBMDMIN2201-T,4,,70,8023,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-IV Music (Vocal),MINOR,MUSBMD2202T,2,,35,8029,,,,35,,HUMANITIES,MUSIC,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Jainism and Buddhism: Basic Introduction,MINOR,RELB2410Tm,4,,70,8033,,,,70,,HUMANITIES,RELIGION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Micro Economics,MINOR,BAMNECO1245T,4,,70,7589,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Modern Poetry in English,MINOR,BAMNELI1221-T,4,,70,8007,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Social and Economic History of India from Indus Valley to A.D. 1000 ,MINOR,HISB2402T,4,,70,8025,,,,70,,HUMANITIES,HISTORY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-Social Change in India,MINOR,BAMNSOC1248T,4,,70,8017,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Social Structure of Indian society,MINOR,SOCB2412Tm,4,,70,8034,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-Sports Coaching and Administration ,MINOR,PHE-MDC-104Tm,3,,50,8031,,,,50,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,"MINOR-Vedic Religion:- Vedas, Vedic Gods and Rituals",MINOR,BAMNREL1238T,4,,70,8016,,,,70,,HUMANITIES,RELIGION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-हिन्दी साहित्य का इतिहास और व्याकरण-2,MINOR,BAMNHIN1225T,4,,70,8010,,,,70,,HUMANITIES,HINDI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,"MINOR-हिन्दी साहित्य का इतिहास, व्याकरण और हिन्दी साहित्य-2",MINOR,HINBH2404T-MIN,4,,70,8024,,,,70,,HUMANITIES,HINDI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,II,IV,MINOR-ਪੰਜਾਬੀ ਸਹਿਤ,MINOR,PBIBMDLMI2201T,4,,70,8030,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BA,I,II,MINOR-ਪੰਜਾਬੀ ਸਾਹਿਤ,MINOR,PBIB202-2,4,,70,8020,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2981,1,MA ENGLISH,I,II,MODERN ENGLISH GRAMMAR AND USAGE,MAJOR,M1ENG206T,5,,70,2522242,,,,70,,ENGLISH,ENGLISH,,,,,,,,,gurpreet0697@gmail.com,#REF!,#REF!,#REF!,,,123,PG
+2981,1,MA ENGLISH,I,II,MODERN FICTION:NINETEENTH CENTURY ONWARDS,MAJOR,M1ENG203T,5,,70,2522241,,,,70,,ENGLISH,ENGLISH,,,,,,,,,loveleenchatha@gmail.com,#REF!,#REF!,#REF!,,,137,PG
+,1,MSC MATHEMATICS,I,II,Mudla Ganit,QUALIFYING,MATM1208T,2,,35,2522284,,,,35,,MATHEMATICS,MATHEMATICS,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,PG
+,0,BCA,III,VI,MUDLA GYAN,MAJOR,BCAB3207Tm,4,,70,9091,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC HM,I,II,Mudla Gyan,MAJOR,PBIB103-MG-2,4,,70,9054,,,,70,,H&M,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,0,BBA,II,IV,Mudla Gyan (Punjabi ),MAJOR,BBAU4107T,4,,70,9096,,,,70,,COMMERCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BBA,I,II,Mudla Gyan (Punjabi),MAJOR,PBIB103-MG-2,4,,70,9067,,,,70,,COMMERCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,0,BCA,II,IV,Mudla Gyan-IV,MAJOR,BCAB2207Tm,4,,70,9092,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+5181,1,BA,III,VI,MUSIC VOCAL,MAJOR,BA-332T,2,,35,2561537,,,,35,,HUMANITIES,MUSIC,,,,,,,,,sgtbgurmatsangeet@gmail.com,#REF!,#REF!,#REF!,,,238,UG
+2623,1,BSC NM,III,VI,Nuclear and Particle Physics,MAJOR,PHYB3602T,2,,35,2561398,,,,35,,SCIENCE,PHYSICS,,,,,,,,,amritsliet@gmail.com,#REF!,#REF!,#REF!,,,98,UG
+2622,1,BCA,I,II,Object Oriented Programming with C++,MAJOR,CSUG105T,3,,70,2521266,,,,70,,COMPUTER,COMPUTER,,,,,,,,,rwalia1971@gmail.com,#REF!,#REF!,#REF!,,,43,UG
+2622,1,PGDCA,I,II,Operating System,MAJOR,CSM1203T,4,,70,2522246,,,,70,,COMPUTER,COMPUTER,,,,,,,,,manpreetkaur.mgc@gmail.com,#REF!,#REF!,#REF!,,,41,PG
+2622,1,MCA,I,II,Operating Systems,MAJOR,MCAM1202T,4,,70,2522217,,,,70,,COMPUTER,COMPUTER,,,,,,,,,lalsingh.kcp@gmail.com,#REF!,#REF!,#REF!,,,25,PG
+2622,1,BCA,III,VI,Operating Systems,MAJOR,BCAB3203T,4,,70,2561228,,,,70,,COMPUTER,COMPUTER,,,,,,,,,tajinderkaur.sgtbkc@gmail.com,#REF!,#REF!,#REF!,,,86,UG
+2622,1,BBA,II,IV,Operations management,MAJOR,BBAU4102T,4,,70,2541427,,,,70,,COMMERCE,COMMERCE,,,,,,,,,rajbindersinghkcp@gmail.com,#REF!,#REF!,#REF!,,,26,UG
+2622,1,MSC MATHEMATICS,II,IV,Operations Research,MAJOR,MATM2211T,4,,70,2542274,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,drapsingh25@gmail.com,#REF!,#REF!,#REF!,,,15,PG
+2623,1,MSC CHEMISTRY,I,II,Organic Chemistry-II,MAJOR,MCHE1202T,4,,70,2522135,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,anupama.parmar1969@gmail.com,#REF!,#REF!,#REF!,,,112,PG
+260514,1,MA HISTORY,II,IV,PAPER-I: HISTORY OF PUNJAB FROM 1849-1947.,MAJOR,MAHIS-401,4,,70,2542113,,,,70,,HISTORY,HISTORY,,,,,,,,,baljinderkaur164@gmail.com,#REF!,#REF!,#REF!,,,260,PG
+260518,1,MA HISTORY,II,IV,PAPER-II: History of India from 1772-1818.,MAJOR,MAHIS-402,4,,70,2542114,,,,70,,HISTORY,HISTORY,,,,,,,,,kaurkiranjeet2802@gmail.com,#REF!,#REF!,#REF!,,,261,PG
+3082,1,MA HISTORY,II,IV,PAPER-III: SOCIAL AND ECONOMIC HISTORY OF MODERN INDIA (1818-1947),MAJOR,MAHIS-403,4,,70,2542115,,,,70,,HISTORY,HISTORY,,,,,,,,,kaurkiranjeet2802@gmail.com,#REF!,#REF!,#REF!,,,176,PG
+3082,1,MA HISTORY,II,IV,PAPER-IV: National Movement in India and Constitutional Development 1930-1947,MAJOR,MAHIS-404,4,,70,2542116,,,,70,,HISTORY,HISTORY,,,,,,,,,ramansandhuhistory@gmail.com,#REF!,#REF!,#REF!,,,173,PG
+2981,1,BVOC FT,II,IV,Personality Development and Communication Skills,MAJOR,BVFTB2202T,4,,70,2541298,,,,70,,FT,ENGLISH,,,,,,,,,sandeeppalg@yahoo.com,#REF!,#REF!,#REF!,,,122,UG
+2981,1,BA,III,VI,PHONETICS OF ENGLISH ,MAJOR,BA-323T,4,,70,2561528,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,kuljeetkaur47@gmail.com,#REF!,#REF!,#REF!,,,132,UG
+,9,BSC NM,III,VI,Physical Chemistry- IV,MAJOR,CHEB3601T,2,,35,9057,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2623,1,MSC CHEMISTRY,I,II,Physical Chemistry-II,MAJOR,MCHE1203T,4,,70,2522136,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,rahulbadru@gmail.com,#REF!,#REF!,#REF!,,,118,PG
+2623,1,BSC M,III,VI,Physical Chemistry-IV,MAJOR,CHEB3601T,2,,35,2561327,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,anupreetchem@pbi.ac.in,#REF!,#REF!,#REF!,,,113,UG
+252526,9,BSC M,III,VI,Physical Chemistry-IV,MAJOR,CHEB3601T,2,,35,2561327-I,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,rahulbadru@gmail.com,#REF!,#REF!,#REF!,,,253,UG
+5181,1,BA,III,VI,PHYSICAL EDUCATION ,MAJOR,BA-327T,3,,80,2561532,,,,80,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,nishanchauhan@ymail.com,#REF!,#REF!,#REF!,,,234,UG
+2623,1,BSC M,III,VI,Plant Ecology,MAJOR,BOTB3201T,2,,35,2561325,,,,35,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,harwinderbfgi@gmail.com,#REF!,#REF!,#REF!,,,89,UG
+2623,1,BSC M,III,VI,Plant Utilization,MAJOR,BOTB3202T,2,,35,2561326,,,,35,,SCIENCE,ZOOLOGY & BOTANY,,,,,,,,,harwinderbfgi@gmail.com,#REF!,#REF!,#REF!,,,90,UG
+2981,1,MA ENGLISH,I,II,POETRY FROM NEOCLASSICAL TO VICTORIAN AGE,MAJOR,M1ENG202T,5,,70,2522240,,,,70,,ENGLISH,ENGLISH,,,,,,,,,roublebrar@yahoo.co.in,#REF!,#REF!,#REF!,,,121,PG
+2622,1,MA POL SCI,II,IV,POLITICAL IDEOLOGIES,MAJOR,POLM22401T,5,,70,2542117,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,harmansaangha123@gmail.com,#REF!,#REF!,#REF!,,,21,PG
+2623,1,MSC CHEMISTRY,II,IV,Polymers and Surface Chemistry	,MAJOR,CHEM2414T,4,,70,2542141,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,ratansingh10@gmail.com,#REF!,#REF!,#REF!,,,95,PG
+,9,BVOC CS,I,II,Programming Using C++,MAJOR,CSUG105T,3,,70,9008,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,MCA,I,II,Programming with Java,MAJOR,MCAM1204T,4,,70,2522219,,,,70,,COMPUTER,COMPUTER,,,,,,,,,ipkaur03@gmail.com,#REF!,#REF!,#REF!,,,53,PG
+2622,1,PGDCA,I,II,Programming with Python,MAJOR,CSM1202T,4,,70,2522245,,,,70,,COMPUTER,COMPUTER,,,,,,,,,gurdhian1912@gmail.com,#REF!,#REF!,#REF!,,,65,PG
+4681,1,BBA,II,IV,Punajbi Compulsary,MAJOR,BBAU4106T,4,,70,2541429,,,,70,,COMMERCE,PUNJABI,,,,,,,,,gargdeepak100818@gmail.com,#REF!,#REF!,#REF!,,,218,UG
+2622,1,MA POL SCI,II,IV,PUNJAB POLITICS,MAJOR,POLM22402T,5,,70,2542118,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,dr.satnamsinghrehal@gmail.com,#REF!,#REF!,#REF!,,,38,PG
+260519,1,BSC M,II,IV,Punjabi -Compulsory ,MAJOR,PBIBSCMP2201-T,4,,70,2541339,,,,70,,SCIENCE,PUNJABI,,,,,,,,,mandeepphd@gmail.com,#REF!,#REF!,#REF!,,,262,UG
+,0,BVOC GD,II,IV,Punjabi Compulsary,MAJOR,BVGDB2208T,4,,70,9016,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+260525,1,BVOC FT,II,IV,Punjabi Compulsary,MAJOR,BVFTB2208T,4,,70,9094,,,,70,,FT,PUNJABI,,,,,,,,,bhullaramritpal315@gmail.com,#REF!,#REF!,#REF!,,,264,UG
+4681,1,BVOC FT,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4,,70,2521324,,,,70,,FT,PUNJABI,,,,,,,,,gurwanttera1980@gmail.com,#REF!,#REF!,#REF!,,,205,UG
+6181,1,BBA,I,II,Punjabi compulsory,MAJOR,PBIBBA802,4,,70,2521417,,,,70,,COMMERCE,PUNJABI,,,,,,,,,baldeepkaur704@gmail.com,#REF!,#REF!,#REF!,,,251,UG
+252530,1,BCOM HONS,II,IV,Punjabi Compulsory,MAJOR,PBIBCOMCMP2201-T,4,,70,2541193,,,,70,,COMMERCE,PUNJABI,,,,,,,,,sarbsidhu39@yahoo.in,#REF!,#REF!,#REF!,,,254,UG
+,9,BVOC CS,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4,,70,9011,,,,70,,COMPUTER,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC PERFORMING ARTS,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4,,70,9003,,,,70,,MUSIC,MUSIC,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BCOM HONS,III,VI,PUNJABI COMPULSORY,MAJOR,BCHU3605T,4,,70,7568,,,,70,,COMMERCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,II,IV,Punjabi Compulsory,MAJOR,PBIBSCMP2201-T,4,,70,9045,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,Punjabi Compulsory,MAJOR,PBIBSC-901,4,,70,9052,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+4681,1,BCOM,III,VI,Punjabi Compulsory,MAJOR,BCOU3601T,4,,70,2561176,,,,70,,COMMERCE,PUNJABI,,,,,,,,,bhullaramritpal315@gmail.com,#REF!,#REF!,#REF!,,,216,UG
+4681,1,BSC M,I,II,Punjabi Compulsory,MAJOR,PBIBSC-901,4,,70,2521360,,,,70,,SCIENCE,PUNJABI,,,,,,,,,bhullaramritpal315@gmail.com,#REF!,#REF!,#REF!,,,217,UG
+26050801,1,BCA,III,VI,Punjabi Compulsory,MAJOR,BCAB3207T,4,,70,2561230,,,,70,,COMPUTER,PUNJABI,,,,,,,,,iqbalsomian@gmail.com,#REF!,#REF!,#REF!,,,280,UG
+20,1,MA ENGLISH,I,II,PUNJABI COMPULSORY,QUALIFYING,M1ENGPCQ,4,,100,2522243,,,,100,,ENGLISH,PUNJABI,,,,,,,,,gurdeepsingh478@yahoo.com,#REF!,#REF!,#REF!,,,1111,PG
+,9,BVOC HM,I,II,Punjabi Compulsory ,MAJOR,PBIBVOC-502,4,,70,9055,,,,70,,H&M,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+4681,1,BCOM HONS,I,II,Punjabi Compulsory ,MAJOR,PBIBCOM702,4,,70,2521175,,,,70,,COMMERCE,PUNJABI,,,,,,,,,sskahlon86@gmail.com,#REF!,#REF!,#REF!,,,220,UG
+,9,BVOC SD,I,II,Punjabi Compulsory  ,MAJOR,PBIBVOC-502,4,,70,9063,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC GD,I,II,Punjabi Compulsory                                             ,MAJOR,PBIBVOC-502 ,4,,70,9030,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+26050801,1,BCA,II,IV,Punjabi Compulsory –IV,MAJOR,BCAB2207T,4,,70,2541236,,,,70,,COMPUTER,PUNJABI,,,,,,,,,iqbalsomian@gmail.com,#REF!,#REF!,#REF!,,,281,UG
+,9,BCA,I,II,Punjabi Compulsory (Mudla Gyan-II),MAJOR,PBIB103-MG-2,4,,70,9020,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+4881,1,BCA,I,II,Punjabi Compulsory-II,MAJOR,PBIBCA-602,4,,70,2521270,,,,70,,COMPUTER,PUNJABI,,,,,,,,,baldeepkaur704@gmail.com,#REF!,#REF!,#REF!,,,225,UG
+20,1,MSC FT,I,II,Punjabi Compulsory(ਸਮਾਜ ਵਿਚ ਫੈਸ਼ਨ ਅਤੇ ਪੋਸ਼ਾਕ ਦਾ ਮਹੱਤਵ)                                  ,QUALIFYING,MFT1201T,3,,70,2522292,,,,70,,FT,PUNJABI,,,,,,,,,bvocft2021@gmail.com,#REF!,#REF!,#REF!,,,1111,PG
+,9,BVOC PERFORMING ARTS,I,II,Punjabi Mudla Gyan,MAJOR,PBIB103-MG-2,4,,70,9002,,,,70,,MUSIC,MUSIC,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,Punjabi Mudla Gyan,MAJOR,PBIB203-MG,4,,70,2521479,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,grewaljatinder76@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BSC M,II,IV,Punjabi mudla Gyan,MAJOR,PBIBSCMG2201-T,4,,70,2541338,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,II,IV,Punjabi Mudla Gyan,MAJOR,PBIBSCMG2201-T,4,,70,9044,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BVOC GD,I,II,Punjabi Mudla Gyan/Elementary Punjabi,MAJOR,PBIB103-MG-2,4,,70,9029,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,0,MSC FT,I,II,Punjabi Mudla Gyan/Elementary Punjabi,QUALIFYING,MFT1201Tm,0,,70,9093,,,,70,,FT,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,PG
+,9,BVOC SD,I,II,Punjabi Mudlagyan / Elementary Punjabi-I,MAJOR,PBIB103-MG-2,4,,70,9062,,,,70,,COMPUTER,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,1,BSC M,III,VI,Punjabi: Mudla Gyan,MAJOR,PBIBSCMG3201T,4,,70,2561329,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,I,II,Punjabi: Mudla Gyan,MAJOR,PBIB203-MG,4,,70,9042,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,Punjabi: Mudla Gyan,MAJOR,PBIB203-MG,4,,70,8003,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,III,VI,Punjabi: Mudla Gyan,MAJOR,PBIBSCMG3201T,4,,70,9058,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+260512,1,BSC M,III,VI,Punjabi:Compulsory ,MAJOR,PBIBSCMP3201T,4,,70,2561330,,,,70,,SCIENCE,PUNJABI,,,,,,,,,gurwanttera1980@gmail.com,#REF!,#REF!,#REF!,,,258,UG
+,9,BSC NM,III,VI,Punjabi:Compulsory ,MAJOR,PBIBSCMP3201T,4,,70,9059,,,,70,,SCIENCE,PUNJABI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BVOC CS,II,IV,Python,MAJOR,BCSB2204T ,4,,70,2541224,,,,70,,COMPUTER,COMPUTER,,,,,,,,,gurdhian1912@gmail.com,#REF!,#REF!,#REF!,,,63,UG
+2622,1,BVOC SD,II,IV,Python Language,MAJOR,BSDB2201T,4,,70,2541387,,,,70,,COMPUTER,COMPUTER,,,,,,,,,gurdhian1912@gmail.com,#REF!,#REF!,#REF!,,,64,UG
+2622,1,BCA,III,VI,Python Programming,MAJOR,BCAB3204T,4,,70,2561229,,,,70,,COMPUTER,COMPUTER,,,,,,,,,deepamehta.official@gmail.com,#REF!,#REF!,#REF!,,,6,UG
+2982,1,BVOC FP,II,IV,Quality control and regulations,MAJOR,FDPB 2204T,3,,74,2541344,,,,74,,FP,FP,,,,,,,,,simirock@rediffmail.com,#REF!,#REF!,#REF!,,,147,UG
+260508,1,M.Sc. (Fashion Technology),,IV,Quality Control Process,MAJOR,FTM2201T,,,,2542891,,,,,,FT,FT,,,,,,,,,seemajindal85@gmail.com,#REF!,#REF!,#REF!,,,256,PG
+4381,1,BA,III,VI,Quantitative Methods,MAJOR,BA-333T,4,,70,2561538,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,drshaveta.aps@gmail.com,#REF!,#REF!,#REF!,,,198,UG
+2623,1,MSC PHYSICS,I,II,Quantum Mechanics,MAJOR,MPHY1203T,4,,60,2522124,,,,60,,SCIENCE,PHYSICS,,,,,,,,,amritsliet@gmail.com,#REF!,#REF!,#REF!,,,99,PG
+2605211,1,MA MUSIC,II,IV,RAAG AND TAAL: THEIR PHYSICS AND AESTHETICS,MAJOR,MUVM2402T,5,,70,2542122,,,,70,,MUSIC,MUSIC,,,,,,,,,music@sggswu.edu.in,#REF!,#REF!,#REF!,,,273,PG
+2623,1,MSC PHYSICS,II,IV,Radiation Physics,MAJOR,PHYM2404T,4,,60,2542161,,,,60,,SCIENCE,PHYSICS,,,,,,,,,anitagnc2020@gmail.com,#REF!,#REF!,#REF!,,,97,PG
+2622,1,MCA,I,II,Relational Database Management System,MAJOR,MCAM1203T,4,,70,2522218,,,,70,,COMPUTER,COMPUTER,,,,,,,,,kkamaldeep11@gmail.com,#REF!,#REF!,#REF!,,,81,PG
+2622,1,BCA,II,IV,Relational Database Management Systems,MAJOR,BCAB2204T,4,,70,2541235,,,,70,,COMPUTER,COMPUTER,,,,,,,,,kkamaldeep11@gmail.com,#REF!,#REF!,#REF!,,,80,UG
+2622,1,MA POL SCI,II,IV,RESEARCH METHODOLOGY,MAJOR,POLM22410T,5,,70,2542120,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,sehgal.sheveta27@gmail.com,#REF!,#REF!,#REF!,,,49,PG
+260508,1,M.Sc. (Fashion Technology),,IV,Research Methodology,MAJOR,FTM2203T,,,,2542893,,,,,,FT,FT,,,,,,,,,harpreetinsa011@gmail.com,#REF!,#REF!,#REF!,,,257,PG
+4081,1,MLIB,I,II,Research Methodology in Library and Information Science,MAJOR,MLIS08,4,,70,2522182,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,baljinderpup@gmail.com,#REF!,#REF!,#REF!,,,183,PG
+252525,1,BLIB,I,II,School Library System,MAJOR,BLIS10,4,,70,2521350,,,,70,,LIBRARY SCIENCE,LIBRARY,,,,,,,,,avtarnangla69@gmail.com,#REF!,#REF!,#REF!,,,252,UG
+5181,1,MA MUSIC,I,II,Scientific & Acoustical Study of Hindustani Music(Vocal),MAJOR,MAMUV1201T,5,,70,2522110,,,,70,,MUSIC,MUSIC,,,,,,,,,drgaurikhanna@gmail.com,#REF!,#REF!,#REF!,,,228,PG
+5181,1,BVOC PERFORMING ARTS,I,II,Scientific Study of  Indian Theatre,MAJOR,BVPA1204,4,,70,2521154,,,,70,,MUSIC,MUSIC,,,,,,,,,sgtbgurmatsangeet@gmail.com,#REF!,#REF!,#REF!,,,239,UG
+5181,1,BVOC PERFORMING ARTS,I,II,Scientific Study of Indian Dance ,MAJOR,BVPA1203,4,,70,2521153,,,,70,,MUSIC,MUSIC,,,,,,,,,kulwinder.24471@lpu.co.in,#REF!,#REF!,#REF!,,,231,UG
+5181,1,BVOC PERFORMING ARTS,I,II,Scientific Study of Indian Music,MAJOR,BVPA1202,4,,70,2521152,,,,70,,MUSIC,MUSIC,,,,,,,,,drgaurikhanna@gmail.com,#REF!,#REF!,#REF!,,,227,UG
+20,1,BCOM HONS,I,II,SEC E-Commerce,SEC,BC205,3,,70,2521172,,,,70,,COMMERCE,COMMERCE,,,,,,,,,lukeshmittal96@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,9,BSC NM,I,II,SEC-Chemistry of Drugs,SEC,BCHE1206T,3,,70,9048,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BSC M,I,II,SEC-Chemistry of Drugs ,SEC,BCHE1206T,3,,70,2521354,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,babaljawanda@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-Data Analytics – II,SEC,BASEECO1247T,3,,70,2521462,,,,70,,HUMANITIES,ECONOMICS,,,,,,,,,jagdeepsinghwalia@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-Effective Teaching,SEC,BASEEDU1263,3,,70,2521463,,,,70,,HUMANITIES,ENGLISH,,,,,,,,,baljinderdhaliwal072@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-Gym Training and Management,SEC,BASEPHY1244T,2,,50,2521465,,,,50,,HUMANITIES,PHYSICAL EDUCATION,,,,,,,,,gncsportsbudhlada@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-Katha : Shri Guru Granth Sahib,SEC,BASEREL1240T,3,,70,2521467,,,,70,,HUMANITIES,RELIGION,,,,,,,,,sajanmutneja33@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,II,IV,SEC-Katha: Sri Guru Granth Sahib-II,SEC,RELB2412T,3,,70,7585,,,,70,,HUMANITIES,RELIGION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,SEC-Numerical Analysis,SEC,MATSEC1228T,2,,35,2521475,,,,35,,HUMANITIES,MATHEMATICS,,,,,,,,,parveensharma3434@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-Oral History Importance and Relevance,SEC,BAHIS1223T,3,,70,2521421,,,,70,,HUMANITIES,HISTORY,,,,,,,,,rupindermansa38@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,1,BA,I,II,SEC-Political Journalism,SEC,BASEPOL1270,4,,70,8545,,,,70,,HUMANITIES,POLITICAL SCIENCE,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,1,BA,I,II,SEC-Presentation using powerpoint,SEC,CSUGS1211T,3,,70,2521472,,,,70,,HUMANITIES,COMPUTER,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,1,BA,I,II,SEC-Understanding Social Relationships,SEC,BASESOC1255T,3,,70,2521468,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,1,BA,I,II,SEC-प्रयोजनमूलक हिन्दी,SEC,BASEHIN1227T,3,,70,2521464,,,,70,,HUMANITIES,HINDI,,,,,,,,,sandhugurjeet0028@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BA,I,II,SEC-ਪੰਜਾਬੀ ਪਟਕਥਾ ਲੇਖਣ,SEC,PBIBSEC205-2,3,,50,2521481,,,,50,,HUMANITIES,PUNJABI,,,,,,,,,gurwindersidhu246@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+260604,1,GREEN HOUSE TECHNOLOGY,I,II,Seed Analysis Incharge-I,MAJOR,DGHT214,4,,70,252212,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,sarvan.khokhar@gmail.com,#REF!,#REF!,#REF!,,,265,DIPLOMA
+260604,1,GREEN HOUSE TECHNOLOGY,I,II,Seed Analysis Incharge-II,MAJOR,DGHT215,4,,70,252213,,,,70,,AGRICULTURE,AGRICULTURE,,,,,,,,,sarvan.khokhar@gmail.com,#REF!,#REF!,#REF!,,,266,DIPLOMA
+2982,1,M.Sc. FP,,II,Snacks and Beverage Technology,MAJOR,MSFPT203,,,,2522549,,,,70,,FP,FP,,,,,,,,,monikajoon1996@gmail.com,#REF!,#REF!,#REF!,,,142,PG
+2983,1,BA,III,VI,Social Science Research Methods,MAJOR,BA-335T,4,,70,2561540,,,,70,,HUMANITIES,SOCIOLOGY,,,,,,,,,amansran602@gmail.com,#REF!,#REF!,#REF!,,,149,UG
+2622,1,BVOC CS,II,IV,Software Engineering,MAJOR,BCSB2201TA,4,,70,2541221,,,,70,,COMPUTER,COMPUTER,,,,,,,,,dkcpmanveenkaur@gmail.com,#REF!,#REF!,#REF!,,,8,UG
+2622,1,BCA,III,VI,Software Engineering,MAJOR,BCAB3202T,4,,70,2561227,,,,70,,COMPUTER,COMPUTER,,,,,,,,,drsurender.sgtb@gmail.com,#REF!,#REF!,#REF!,,,71,UG
+2622,1,MCA,I,II,Software Project Management,MAJOR,MCAM1205E5,4,,70,2522220,,,,70,,COMPUTER,COMPUTER,,,,,,,,,hkminhas@outlook.com,#REF!,#REF!,#REF!,,,73,PG
+2622,1,BVOC CS,II,IV,Software Testing Concepts and Tools,MAJOR,BCSB2203T ,4,,70,2541223,,,,70,,COMPUTER,COMPUTER,,,,,,,,,hkminhas@outlook.com,#REF!,#REF!,#REF!,,,72,UG
+2623,1,MSC PHYSICS,I,II,Statistical Mechanics,MAJOR,MPHY1204T,4,,60,2522125,,,,60,,SCIENCE,PHYSICS,,,,,,,,,singhrajpal7@gmail.com,#REF!,#REF!,#REF!,,,92,PG
+,1,BVOC GD,I,II,Study of Fashion ,MAJOR,BVGDB1202T,5,,70,9024,,,,70,,FT,FT,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BVOC SD,I,II,System Analysis and Design,MAJOR,BVSD1201T,4,,70,2521399,,,,70,,COMPUTER,COMPUTER,,,,,,,,,tajinderkaur.sgtbkc@gmail.com,#REF!,#REF!,#REF!,,,87,UG
+2982,1,M.Sc. FP,,II,Technology of Fruits and Vegetables,MAJOR,MSFPT201,,,,2522547,,,,70,,FP,FP,,,,,,,,,meetkarman009@gmail.com,#REF!,#REF!,#REF!,,,144,PG
+3081,1,BVOC FT,I,II,Textile Science -II,MAJOR,BVFTB1204T,5,,70,2521320,,,,70,,FT,FT,,,,,,,,,kaur.veerpal1684@gmail.com,#REF!,#REF!,#REF!,,,156,UG
+3081,1,MSC FT,I,II,Textile Study-II,MAJOR,MFT1202T,4,,70,2522294,,,,70,,FT,FT,,,,,,,,,veenumodicollege@gmail.com,#REF!,#REF!,#REF!,,,163,PG
+3082,1,MA HISTORY,I,II,Theory and Research Methodology,MAJOR,MAHIS-204,4,,70,2522104,,,,70,,HISTORY,HISTORY,,,,,,,,,jkkhalsa1211@gmail.com,#REF!,#REF!,#REF!,,,174,PG
+5381,1,MSC MATHEMATICS,II,IV,Theory of Linear Operators,MAJOR,MATM2202T,4,,70,2542271,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,sood.darpan@gmail.com,#REF!,#REF!,#REF!,,,245,PG
+2622,1,MSC MATHEMATICS,I,II,Topology-II,MAJOR,MATM1202T,4,,70,2522280,,,,70,,MATHEMATICS,MATHEMATICS,,,,,,,,,drchetna.modicollege@gmail.com,#REF!,#REF!,#REF!,,,58,PG
+2981,1,MA ENGLISH,II,IV,TRANSLATION AND MODERN INDIAN LITERATURE,MAJOR,ENGM2202T,5,,70,2542201,,,,70,,ENGLISH,ENGLISH,,,,,,,,,loveleenchatha@gmail.com,#REF!,#REF!,#REF!,,,138,PG
+,9,BA,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2,,35,8019,,,,35,,HUMANITIES,CHEMISTRY,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2,,35,9051,,,,35,,SCIENCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+20,9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention ",VAC,DAUGC1201T,2,,35,2521358-ii,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,bhawnarani807@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention ",VAC,DAUGC1201T,2,,35,2521358-i,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,akmanshahia@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention ",VAC,DAUGC1201T,2,,35,2521358-iii,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,beerpalkaurgurthari@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,1,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention ",VAC,DAUGC1201T,2,,35,2521358,,,,35,,SCIENCE,CHEMISTRY,,,,,,,,,kaurbhupinder21773@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+,9,BCOM HONS,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2,,35,9006,,,,35,,COMMERCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC M,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2,,35,9039,,,,35,,SCIENCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+,9,BSC NM,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2,,35,9046,,,,35,,SCIENCE,PUBLIC ADMINISTRATION,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+2622,1,BVOC SD,II,IV,Web Development Using PHP and  MYSQL,MAJOR,BSDB2202T,4,,70,2541388,,,,70,,COMPUTER,COMPUTER,,,,,,,,,kaurvirk2218@gmail.com,#REF!,#REF!,#REF!,,,79,UG
+2622,1,MA POL SCI,I,II,WESTERN POLITICAL THOUGHT- II ,MAJOR,MPOL1203,5,,70,2522107,,,,70,,POL SCI,POLITICAL SCIENCE,,,,,,,,,dr.satnamsinghrehal@gmail.com,#REF!,#REF!,#REF!,,,37,PG
+2623,1,MSC CHEMISTRY,II,IV,X-Ray Diffraction and other Techniques,MAJOR,CHEM2412T,4,,70,2542139,,,,70,,SCIENCE,CHEMISTRY,,,,,,,,,anupreetchem@pbi.ac.in,#REF!,#REF!,#REF!,,,114,PG
+4281,1,MA HINDI,II,IV,तुलसीदास (विशेष अध्ययन),MAJOR,HINM2PUP-T-404,4,,70,2542313,,,,70,,HINDI,HINDI,,,,,,,,,kaurgagandeep4720@gmail.com,#REF!,#REF!,#REF!,,,193,PG
+6081,1,MA HINDI,II,IV,लोक साहित्य : सैद्धांतिक अध्ययन,MAJOR,HINM2PUP-T-406,4,,70,2542314,,,,70,,HINDI,HINDI,,,,,,,,,davindersolanki23@gmail.com,#REF!,#REF!,#REF!,,,250,PG
+3581,1,BA,III,VI,हिन्दी साहित्य  (विकल्प-1),MAJOR,HINBA3PUP-111,4,,70,2561543,,,,70,,HUMANITIES,HINDI,,,,,,,,,rupindersharma09@gmail.com,#REF!,#REF!,#REF!,,,178,UG
+,9,BA,III,VI,हिन्दी साहित्य और पत्रकारिता (विकल्प -II),MAJOR,HINBA3PUP-112,4,,70,7598,,,,70,,HUMANITIES,HINDI,,,,,,,,,,#REF!,"Guru Nanak College, Budhlada",#REF!,,,1000,UG
+4681,1,MA PUNJABI,I,II,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਕਾਵਿ-2 (ਆਪਸ਼ਨ ਪਹਿਲੀ),MAJOR,PBIM403T,5,,70,2522131,,,,70,,PUNJABI,PUNJABI,,,,,,,,,davinder.pu@gmail.com,#REF!,#REF!,#REF!,,,208,PG
+4681,1,MA PUNJABI,I,II,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਗਲਪ-2 ( ਆਪਸ਼ਨ ਦੂਜੀ )-ਕਹਾਣੀ,MAJOR,PBIM406T,5,,70,2522132,,,,70,,PUNJABI,PUNJABI,,,,,,,,,gargdeepak100818@gmail.com,#REF!,#REF!,#REF!,,,219,PG
+4681,1,MA PUNJABI,II,IV,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਵਾਰਤਕ (ਆਪਸ਼ਨ-i ),MAJOR,PBIM2205,5,,70,2542198,,,,70,,PUNJABI,PUNJABI,,,,,,,,,gurwanttera1980@gmail.com,#REF!,#REF!,#REF!,,,206,PG
+4681,1,MA PUNJABI,I,II,ਸਾਹਿਤ ਆਲੋਚਨਾ ਦਾ ਸਿਧਾਂਤ-2 (ਪੱਛਮੀ ਸਾਹਿਤ ਸਿਧਾਂਤ ਅਤੇ ਪੰਜਾਬੀ ਆਲੋਚਨਾ),MAJOR,PBIM402T,5,,70,2522130,,,,70,,PUNJABI,PUNJABI,,,,,,,,,amanpreetgillgnc@gmail.com,#REF!,#REF!,#REF!,,,215,PG
+4481,1,BA,III,VI,"ਸਿੱਖ ਧਰਮ, ਸਿਧਾਂਤ ਤੇ ਸੰਸਥਾਵਾਂ",MAJOR,BA-329T,4,,70,2561534,,,,70,,HUMANITIES,RELIGION,,,,,,,,,paramaps2781@gmail.com,#REF!,#REF!,#REF!,,,203,UG
+4681,1,MA PUNJABI,II,IV,ਕਿੱਸਾ ਕਾਵਿ (ਆਪਸ਼ਨ - i),MAJOR,PBIM2207,5,,70,2542199,,,,70,,PUNJABI,PUNJABI,,,,,,,,,harmandeepk786@gmail.com,#REF!,#REF!,#REF!,,,212,PG
+4681,1,MA PUNJABI,II,IV,ਗੁਰਮਤਿ ਕਾਵਿ-2 (ਭਗਤ ਬਾਣੀ ਅਧਿਐਨ) (ਆਪਸ਼ਨ-i ),MAJOR,PBIM2203,5,,70,2542197,,,,70,,PUNJABI,PUNJABI,,,,,,,,,sskahlon86@gmail.com,#REF!,#REF!,#REF!,,,222,PG
+20,1,MA MUSIC,I,II,ਪੰਜਾਬ ਦੀ ਬਹੁਭਾਂਤੀ ਸੰਗੀਤ ਪਰੰਪਰਾ,QUALIFYING,MAMUV1205Q,4,,70,2522112,,,,70,,MUSIC,MUSIC,,,,,,,,,manpreetgill1975@gmail.com,#REF!,#REF!,#REF!,,,1111,PG
+20,1,BA,III,VI,ਪੰਜਾਬੀ ਐਲੀਮੈਟਰੀ /ਮੁਢਲਾ ਗਿਆਨ,MAJOR,BA-326T,4,,70,2561531,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,beerpalkaurgurthari@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+4881,1,BA,III,VI,ਪੰਜਾਬੀ ਸਾਹਿਤ,MAJOR,BA-325T,4,,70,2561530,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,baldeepkaur704@gmail.com,#REF!,#REF!,#REF!,,,224,UG
+4681,1,MA PUNJABI,I,II,ਪੰਜਾਬੀ ਸਾਹਿਤ ਦਾ ਇਤਿਹਾਸ-2,MAJOR,PBIM401T,5,,70,2522129,,,,70,,PUNJABI,PUNJABI,,,,,,,,,sskahlon86@gmail.com,#REF!,#REF!,#REF!,,,221,PG
+4681,1,MA PUNJABI,I,II,ਪੰਜਾਬੀ ਨਾਟਕ-2 (ਆਪਸ਼ਨ ਪਹਿਲੀ),MAJOR,PBIM407T,5,,70,2522133,,,,70,,PUNJABI,PUNJABI,,,,,,,,,harmandeepk786@gmail.com,#REF!,#REF!,#REF!,,,211,PG
+20,1,BA,II,IV,ਪੰਜਾਬੀ ਮੁੱਢਲਾ ਗਿਆਨ ,MAJOR,PBIBMDCMG2201T,4,,70,2541508,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,jatandeep443@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+20,9,BA,II,IV,ਪੰਜਾਬੀ ਮੁੱਢਲਾ ਗਿਆਨ ,MAJOR,PBIBMDCMG2201T,4,,70,2541508-I,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,rupinderkaur2022@gmail.com,#REF!,#REF!,#REF!,,,1111,UG
+4681,1,BA,III,VI,ਪੰਜਾਬੀ ਲਾਜਮੀ,MAJOR,BA-324T,4,,70,2561529,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,amanpreetgillgnc@gmail.com,#REF!,#REF!,#REF!,,,214,UG
+4681,1,BA,I,II,ਪੰਜਾਬੀ ਲਾਜ਼ਮੀ,MAJOR,PBIB203-2,4,,70,2521478,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,sarbsidhu39@yahoo.in,#REF!,#REF!,#REF!,,,209,UG
+4681,1,BA,II,IV,ਪੰਜਾਬੀ ਲਾਜਮੀ ,MAJOR,PBIBMDCMP2201T,4,,70,2541509,,,,70,,HUMANITIES,PUNJABI,,,,,,,,,davinder.pu@gmail.com,#REF!,#REF!,#REF!,,,207,UG
+3981,1,MA PUNJABI,II,IV,ਭਾਸ਼ਾ ਵਿਗਿਆਨ ਅਤੇ ਪੰਜਾਬੀ ਭਾਸ਼ਾ-2,MAJOR,PBIM2201,5,,70,2542195,,,,70,,PUNJABI,PUNJABI,,,,,,,,,dhaliwalveerpal0007@gmail.com,#REF!,#REF!,#REF!,,,180,PG
+4681,1,MA PUNJABI,II,IV,ਲੋਕਧਾਰਾ ਤੇ ਪੰਜਾਬੀ ਲੋਕਧਾਰਾ ,MAJOR,PBIM2202,5,,70,2542196,,,,70,,PUNJABI,PUNJABI,,,,,,,,,sarbsidhu39@yahoo.in,#REF!,#REF!,#REF!,,,210,PG
+20,1,MCOM,I,II,ਵਪਾਰਕ ਪੰਜਾਬੀ,QUALIFYING,MC208,3,,0,8581,,,,0,,COMMERCE,COMMERCE,,,,,,,,,jatandeep443@gmail.com,#REF!,#REF!,#REF!,,,1111,PG
+20,1,MSC PHYSICS,I,II,ਵਿਕਾਸਸ਼ੀਲ ਬ੍ਰਹਿਮੰਡ,QUALIFYING,MPHY1205T,0,,70,2522126,,,,70,,SCIENCE,PHYSICS,,,,,,,,,rishikumar.phd@gmail.com,#REF!,#REF!,#REF!,,,1111,PG

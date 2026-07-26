@@ -5,11 +5,11 @@ from import_export.admin import ImportExportModelAdmin
 
 
 
-from .models import PacketUser, ExamForm, BankDetails, SubListEven202526
+from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526
 
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource
+from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource
 
 
 @admin.register(PacketUser)
@@ -200,5 +200,39 @@ class SubListEven202526Admin(ImportExportModelAdmin):
     #     'course',
     #     'year'
     # )
+
+    list_per_page = 50
+    
+    
+@admin.register(SubListOdd202526)
+class SubListOdd202526Admin(ImportExportModelAdmin):
+    resource_classes = [SubListOdd202526Resource]
+    list_display = (
+        'e_identity',
+        'course',
+        # 'e_name',
+        'sem',
+        'paper_name',
+
+        'paper_code',
+    )
+    
+    search_fields = (
+        
+        'course',
+        'paper_code',
+        'paper_name',
+        'e_identity',
+    )
+
+    ordering = (
+        'paper_name',
+    )
+    
+    list_filter = (
+        'level',
+    )
+
+
 
     list_per_page = 50

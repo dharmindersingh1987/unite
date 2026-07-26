@@ -1,0 +1,460 @@
+select,course,year,sem,paper_name,type,paper_code,credits,e_identity,maximum_marks,dept,dept_main,e_email,e_name,e_institute,e_contact,level
+1,BVOC GD,II,IV,Care and Maintenance of Garments,MAJOR,BVGDB2201T,4.0,2541248,70.0,FT,FT,harpreetinsa011@gmail.com,Dr. Harpreet Kaur,"S.D. College, Mansa",7087507091,UG
+1,MA POL SCI,I,II,CONTEMPORARY ISSUES IN GLOBAL POLITIC,MAJOR,MPOL1202,5.0,2522106,70.0,POL SCI,POLITICAL SCIENCE,gurmeetbrar8070@gmail.com,Dr. Gurmeet Singh,"Govt. Rajindra College, Bathinda",8070800053,PG
+1,MCOM,II,IV,International Finance,MAJOR,MCOP2407T,5.0,2542146,70.0,COMMERCE,COMMERCE,gaurav.modicollege@gmail.com,Dr. Gaurav Gupta,"Multani Mal Modi College, Patiala",9814979814,PG
+1,BSC M,I,II,MAJOR-Comparative Anatomy and Developmental Biology of Vertebrates,MAJOR,BZOL1201T,3.0,2521356,70.0,SCIENCE,ZOOLOGY & BOTANY,monika_airi@yahoo.co.in,Dr. Monika Airi,"SGGS World University, Fatehgarh Sahib",9779739219,UG
+0,BVOC FT,II,IV,Mudla Gyan,MAJOR,BVFTB2208TM,4.0,9095,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+0,BVOC GD,II,IV,Mudla Gyan,MAJOR,BVGDB2208TM,4.0,9017,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC FT,I,II,Punjabi Mudla Gyan,MAJOR,PBIB103-MG-2,4.0,9033,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC CS,I,II,Punjabi Mudlagyan / Elementary Punjabi -I,MAJOR,PBIB103-MG-2,4.0,9010,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BCA,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9019,35.0,COMPUTER,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC CS,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9009,35.0,COMPUTER,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC FP,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,4.0,9031,70.0,FP,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC SD,I,II,"*Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9061,35.0,COMPUTER,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC GD,I,II,"*Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0.0,9028,70.0,FT,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC FT,I,II,"*Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0.0,9034,70.0,FT,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC HM,I,II,"*Drug Abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9053,35.0,HISTORY,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BCA,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2.0,9013,35.0,COMPUTER,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC CS,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2.0,9012,35.0,COMPUTER,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BBA,II,IV,*Indian Knowledge System,VAC,VAC2401T,2.0,9064,35.0,COMMERCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC FT,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2.0,2541302,35.0,FT,PUBLIC ADMINISTRATION,mandeepkaur13168@gmail.com,Dr. Mandeep Kaur,"Guru Nanak College, Budhlada",7719538929,UG
+9,BVOC SD,II,IV,*Indian Knowledge System,QUALIFYING,VAC2401T,2.0,9056,35.0,COMPUTER,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+1,MA POL SCI,I,II,*INTRODUTION TO POLITICAL SCIENCE,QUALIFYING,MPOL1205,4.0,2522109,70.0,POL SCI,POLITICAL SCIENCE,sehgal.sheveta27@gmail.com,Dr. Sheveta,"Mata Gujri College, Sri Fatehgarh Sahib",9915440377,PG
+1,MA HINDI,II,IV,*Mudla Gyan,QUALIFYING,PBIM1109T,4.0,2542316,70.0,HINDI,PUNJABI,gurdeepsingh478@yahoo.com,Dr. Gurdeep Singh,"Guru Nanak College, Budhlada",6280477383,PG
+1,MA HINDI,II,IV,*Punjabi,QUALIFYING,PBIBMHIN-407,4.0,2542315,70.0,HINDI,PUNJABI,gurdeepsingh478@yahoo.com,Dr. Gurdeep Singh,"Guru Nanak College, Budhlada",6280477383,PG
+9,BCOM HONS,I,II,"*VAC Drug Abuse: Problem, Management And Prevention",VAC,DAUGC1201T,2.0,9004,35.0,COMMERCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+1,M.Sc. FP,I,II,Additives in Food Processing,MAJOR,MSFPT202,-,2522548,70.0,FP,FP,ajay3singh@gmail.com,Dr. Ajay Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9896300039,PG
+1,MCOM,I,II,Advanced Accounting,MAJOR,MC201,5.0,2522147,70.0,COMMERCE,COMMERCE,jagmeetkaurdhillon@gmail.com,Dr. Jagmeet Kaur,"Guru Nanak College, Sri Muktsar Sahib",9914716005,PG
+1,MSC PHYSICS,I,II,Advanced Classical Mechanics and Electrodynamics,MAJOR,MPHY1202T,4.0,2522127,60.0,SCIENCE,PHYSICS,dhaliwalramneek@gmail.com,Dr. Ramneek Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8288008845,PG
+1,MSC PHYSICS,II,IV,Advanced Electronics,MAJOR,PHYM2402T,4.0,2542159,60.0,SCIENCE,PHYSICS,preet4bhullar@gmail.com,Dr. Gurpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",9417310875,PG
+1,MLIB,I,II,Advanced Knowledge Organization: (a) Classification Practice,MAJOR,MLIS11A,2.0,2522185,36.0,LIBRARY SCIENCE,LIBRARY,anamika.sh21@gmail.com,Dr. Anamika Sharma,"SD College, Barnala",9888457116,PG
+1,MLIB,I,II,Advanced Knowledge Organization:(b) Cataloguing Practice,MAJOR,MLIS11B,2.0,2522186,35.0,LIBRARY SCIENCE,LIBRARY,avtarnangla69@gmail.com,Dr. Avtar Singh,Khokhar,9517588808,PG
+1,BCOM HONS,III,VI,Advertisement and Brand Management,MAJOR,BCHU3608T,5.0,2561166,70.0,COMMERCE,COMMERCE,rajnikhushi2012@gmail.com,Dr. Rajni Bala,"Govt. Bikram College of Commerce, Patiala",9914683644,UG
+9,BBA,I,II,AEC Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3.0,9065,70.0,COMMERCE,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BCOM HONS,II,IV,AEC- 4 (Writing and Grammar),AEC,ENGBCOMAEC2201-T,2.0,9005,35.0,COMMERCE,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,AEC-2 Composition and Vocabulary,AEC,BAMJENG1218T,2.0,2521435,35.0,HUMANITIES,ENGLISH,harjinderthind728@gmail.com,Ms. Harjinder Kaur,"Guru Nanak College, Budhlada",8283957018,UG
+9,BCOM HONS,I,II,AEC-2(Composition and vocabulary),AEC,BC204,2.0,8071,35.0,COMMERCE,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,II,IV,AEC-English ( Writing and  Grammer),AEC,ENGBCOMAEC2201-T,2.0,2541363,35.0,SCIENCE,ENGLISH,kaursukhdeep475@gmail.com,Ms. Sukhdeep Kaur,"Guru Nanak College, Budhlada",9041820496,UG
+0,BSC M,I,II,AEC-English (Composition and Vocabulary),AEC,BENGAEC1201T,2.0,9070,35.0,SCIENCE,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,AEC-English (Composition and Vocabulary),AEC,BENGAEC1201T,2.0,9049,35.0,SCIENCE,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,II,IV,AEC-ENGLISH (Writing and Grammar),AEC,ENGBCOMAEC2201-T,2.0,9037,35.0,SCIENCE,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,II,IV,AEC-Writing and Grammar,AEC,ENGBMDAEC2201-T,2.0,9071,35.0,HUMANITIES,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+1,MA MUSIC,II,IV,Aesthetical Study of Hindustani Music (Music Vocal),MAJOR,MUVM2401T,5.0,2542121,70.0,MUSIC,MUSIC,kulwinder.24471@lpu.co.in,Dr. Kulwinder Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9915144118,PG
+1,MSC MATHEMATICS,II,IV,Alebraic Coding Theory,MAJOR,MATM2209T,4.0,2542272,70.0,MATHEMATICS,MATHEMATICS,sp7maths@gmail.com,Dr. Sangeet Kumar,"SGTB Khalsa College, Sri Anandpur Sahib",8427822077,PG
+9,BSC NM,III,VI,Algebra - II,MAJOR,MTHB3201T-BSC,3.0,5002,35.0,SCIENCE,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,III,VI,ALGEBRA-II,MAJOR,MTHB3201T,3.0,2561545,35.0,HUMANITIES,MATHEMATICS,drchetna.modicollege@gmail.com,Dr. Chetna Sharma,"Multani Mal Modi College, Patiala",9501277088,UG
+1,MSC MATHEMATICS,I,II,Algebra-II (Rings and Modules),MAJOR,MATM1201T,4.0,2522279,70.0,MATHEMATICS,MATHEMATICS,sp7maths@gmail.com,Dr. Sangeet Kumar,"SGTB Khalsa College, Sri Anandpur Sahib",8427822077,PG
+1,MSC IT,II,IV,Algorithm Design and Analysis,MAJOR,MITM2201T,4.0,2542260,70.0,COMPUTER,COMPUTER,gsmann2219@gmail.com,Dr. Gurpal Singh,"GSSDGS, Khalsa College, Patiala",7696551531,PG
+9,MSC IT LE,II,IV,Algorithm Design and Analysis,MAJOR,MITM2201T,4.0,9021,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,PG
+1,MA ENGLISH,II,IV,AMERICAN LITERATURE,MAJOR,ENGM2204T,5.0,2542203,70.0,ENGLISH,ENGLISH,gurpreet0697@gmail.com,Dr. Gurpreet Kaur,"Khalsa College, Sri Anandpur Sahib",9876665765,PG
+9,BSC NM,III,VI,Analysis - II,MAJOR,MTHB3202T-BSC,3.0,5003,35.0,SCIENCE,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,III,VI,ANALYSIS-II,MAJOR,MTHB3202T,3.0,2561546,35.0,HUMANITIES,MATHEMATICS,mandeep1125@yahoo.com,Dr. Mandeep Kaur,"Khalsa College, Sri Anandpur Sahib",9463055900,UG
+1,DAIRY SCIENCE,I,II,Animal Care and Management,MAJOR,DSG-205,5.0,2521259,70.0,AGRICULTURE,AGRICULTURE,sarvan.khokhar@gmail.com,Dr. Sarvan Khokhar,"Khalsa College, Sri Anandpur Sahib",9996296777,DIPLOMA
+9,MSC IT LE,II,IV,Artificial Intelligence,MAJOR,MITM2203T,4.0,9023,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,PG
+1,MSC IT,II,IV,Artificial Intelligence,MAJOR,MITM2203T,4.0,2542262,70.0,COMPUTER,COMPUTER,sangeeta@matagujricollege.org,Dr. Sangeeta Joshi,"Mata Gujri College, Sri Fatehgarh Sahib",8146900675,PG
+1,MCOM,II,IV,Banking and Insurance Services,MAJOR,MCOP2403T,5.0,2542144,70.0,COMMERCE,COMMERCE,jagmeetkaurdhillon@gmail.com,Dr. Jagmeet Kaur,"Guru Nanak College, Sri Muktsar Sahib",9914716005,PG
+1,BVOC FP,I,II,Basics of food packaging,MAJOR,B.VFPG-1203,4.0,2521304,70.0,FP,FP,ajay3singh@gmail.com,Dr. Ajay Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9896300039,UG
+1,BVOC HM,I,II,Basics of Hospitality Service-II,MAJOR,HTMBV-201,4.0,2521381,70.0,H&M,H&M,vikramjitsingh23@gmail.com,Dr. Vikramjit Singh,"Govt. College, Rupnagar",6239315043,UG
+1,MSC CHEMISTRY,II,IV,Biophysical Chemistry and Advanced Spectroscopy,MAJOR,CHEM2413T,4.0,2542140,70.0,SCIENCE,CHEMISTRY,sanjeev.sk.chem@gmail.com,Dr. Sanjeev Kumar,Punjabi University Patiala,8146205566,PG
+1,MCOM,I,II,Business Environment,MAJOR,MC202,5.0,2522148,70.0,COMMERCE,COMMERCE,karmanpreetminhas@gmail.com,Dr. Manpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9779927577,PG
+1,BCOM,III,VI,Business Environment,MAJOR,BCOU3605T,5.0,2561179,70.0,COMMERCE,COMMERCE,rajnikhushi2012@gmail.com,Dr. Rajni Bala,"Govt. Bikram College of Commerce, Patiala",9914683644,UG
+1,BBA,II,IV,Business Environment,MAJOR,BBAU4101T,4.0,2541426,70.0,COMMERCE,COMMERCE,parampreetsingh.566@gmail.com,Dr. Parampreet Singh,"SGTB Khalsa College, Sri Anandpur Sahib",9888494330,UG
+1,DAIRY SCIENCE,I,II,Communication Skills and Personality Development,MAJOR,DSG-202,4.0,2521256,70.0,AGRICULTURE,ENGLISH,gaurieng@matagujricollege.org,Dr. Gauri Handa,"Mata Gujri College, Sri Fatehgarh Sahib",8146800347,DIPLOMA
+1,BVOC HM,I,II,Communication Skills and Personality Development-II,MAJOR,HTMBV-208,4.0,2511868,70.0,H&M,ENGLISH,kaurgurpreetrekhi@gmail.com,Dr. Gurpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",8968324486,UG
+1,MSC MATHEMATICS,II,IV,Commutative Algebra,MAJOR,MATM2210T,4.0,2542273,70.0,MATHEMATICS,MATHEMATICS,preetinder.singh@bamkc.edu.in,Dr. Preetinder Singh,"BAM Khalsa Colege, Garhshankar, Hoshiarpur",9872446200,PG
+1,MSC MATHEMATICS,I,II,Complex Analysis,MAJOR,MATM1204T,4.0,2522282,70.0,MATHEMATICS,MATHEMATICS,goyaldrbharat@gmail.com,Dr. Bharat Goyal,"GSSDGS, Khalsa College, Patiala",9988304901,PG
+1,BCA,I,II,Computer Architecture,MAJOR,BCA1202T,4.0,2521264,70.0,COMPUTER,COMPUTER,academics.gnc24@gmail.com,Dr. Shaveta Dargan,"Guru Nanak College, Sri Muktsar Sahib",8360511806,UG
+1,MSC CHEMISTRY,I,II,Computer Fundamentals and Programming with C,MAJOR,MCHE1204T,4.0,2522137,70.0,SCIENCE,COMPUTER,rwalia1971@gmail.com,Ms. Ritu Walia,"Mata Gujri College, Sri Fatehgarh Sahib",9914022005,PG
+9,MSC IT LE,II,IV,Computer Graphics,MAJOR,MITM2202T,4.0,9022,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,PG
+1,MSC IT,II,IV,Computer Graphics,MAJOR,MITM2202T,4.0,2542261,70.0,COMPUTER,COMPUTER,jeetsapan3@gmail.com,Dr. Sapanjeet Kaur,"Mata Sahib Kaur Girls College, Talwandi Sabo",9465626061,PG
+1,BCA,II,IV,Computer Networks,MAJOR,BCAB2202T,4.0,2541233,70.0,COMPUTER,COMPUTER,sangeeta@matagujricollege.org,Dr. Sangeeta Joshi,"Mata Gujri College, Sri Fatehgarh Sahib",8146900675,UG
+1,PGDCA,I,II,Computer Organization and Architecture,MAJOR,CSM1204T,4.0,2522247,70.0,COMPUTER,COMPUTER,academics.gnc24@gmail.com,Dr. Shaveta Dargan,"Guru Nanak College, Sri Muktsar Sahib",8360511806,PG
+1,BCA,II,IV,Computer Oriented Numerical and Statistical Methods,MAJOR,BCAB2203T,4.0,2541234,70.0,COMPUTER,MATHEMATICS,jksaini83@gmail.com,Dr. Jatinder Kaur,Chandigarh University,9417236509,UG
+1,MSC PHYSICS,II,IV,Condensed Matter Physics–II,MAJOR,PHYM2401T,4.0,2542158,60.0,SCIENCE,PHYSICS,singhrajpal7@gmail.com,Dr. Rajpal Singh,"Govt. Rajindra College, Bathinda",6239296565,PG
+1,BVOC SD,II,IV,Content Management System,MAJOR,BSDB2203T,4.0,2541389,70.0,COMPUTER,COMPUTER,ipkaur03@gmail.com,Dr. Inderpreet Kaur,"Mata Sahib Kaur Girls College, Talwandi Sabo",9803333030,UG
+1,MCOM,II,IV,Corporate Tax Planning,MAJOR,MCOP2404T,5.0,2542145,70.0,COMMERCE,COMMERCE,parampreetsingh.566@gmail.com,Dr. Parampreet Singh,"SGTB Khalsa College, Sri Anandpur Sahib",9888494330,PG
+1,BCOM,III,VI,Cost Accounting-II,MAJOR,BCOU3604T,5.0,2561178,70.0,COMMERCE,COMMERCE,amanblaggan88@yahoo.com,Ms. Amanpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",9888610149,UG
+1,BCOM HONS,III,VI,COST ACCOUNTING-II,MAJOR,BCHU3602T,5.0,2561162,70.0,COMMERCE,COMMERCE,amanblaggan88@yahoo.com,Ms. Amanpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",9888610149,UG
+1,DAIRY SCIENCE,I,II,Dairy Feed and Fodder,MAJOR,DSG-201,4.0,2521255,70.0,AGRICULTURE,AGRICULTURE,drrosysingla@gmail.com,Dr. Rosy Bansal,"Khalsa College, Patiala",9417508433,DIPLOMA
+1,MCA,I,II,Data Communication and Computer Networks,MAJOR,MCAM1201T,4.0,2522216,70.0,COMPUTER,COMPUTER,sangeeta@matagujricollege.org,Dr. Sangeeta Joshi,"Mata Gujri College, Sri Fatehgarh Sahib",8146900675,PG
+9,BVOC SD,I,II,Data Structure,MAJOR,CSUG106T,3.0,9060,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,BCA,I,II,Data Structures,MAJOR,CSUG106T,4.0,2521267,70.0,COMPUTER,COMPUTER,lalsingh.kcp@gmail.com,Dr. Lal Singh,"GSSDGS, Khalsa College, Patiala",8968083311,UG
+1,PGDCA,I,II,Database Mangement System,MAJOR,CSM1201T,4.0,2522244,70.0,COMPUTER,COMPUTER,kkamaldeep11@gmail.com,Dr. Kamaldeep Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9463777725,PG
+1,MA POL SCI,I,II,DEMOCRACY IN INDIA,MAJOR,MPOL1204,5.0,2522108,70.0,POL SCI,POLITICAL SCIENCE,pargatsotha@gmail.com,Dr. Pargat Singh,"Govt. Rajindra College, Bathinda",9988475397,PG
+1,BVOC GD,I,II,Design Basics,MAJOR,BVGDB1204T,5.0,9026,70.0,FT,FT,,,"Guru Nanak College, Budhlada",0,UG
+1,MSC MATHEMATICS,I,II,Differential Equations-I,MAJOR,MATM1206T,4.0,2522283,70.0,MATHEMATICS,MATHEMATICS,anu_singla13@yahoo.com,Dr. Anu Bala,"Multani Mal Modi College, Patiala",8909683940,PG
+1,BVOC FT,I,II,Drafting and Pattern Making /Fundamentals of Pattern Making,MAJOR,BVFTB1203T,4.0,2521319,70.0,FT,FT,veenumodicollege@gmail.com,Dr. Veenu Jain,"Multani Mal Modi College, Patiala",9988300930,UG
+9,BBA,I,II,"Drug Abuse : Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9066,35.0,COMMERCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC PERFORMING ARTS,I,II,"Drug Abuse: Problem, Management & Prevention (Theory)",VAC,DAUGC1201T,0.0,9001,70.0,MUSIC,MUSIC,,,"Guru Nanak College, Budhlada",0,UG
+1,MCOM,I,II,E- Commerce,MAJOR,MC203,5.0,2522149,70.0,COMMERCE,COMMERCE,kamrunnishaibm@gmail.com,Dr. Kamrunnisha,"Mata Ganga Khalsa College, Manji Sahib, Kottan",9646235275,PG
+1,MLIB,I,II,E-Resources in Library and Information Centers,MAJOR,MLIS09,4.0,2522183,70.0,LIBRARY SCIENCE,LIBRARY,baljinderpup@gmail.com,Dr. Baljinder Kaur,Punjabi University Patiala,9855403414,PG
+1,MSC PHYSICS,I,II,Electronics-II,MAJOR,MPHY1206T,4.0,2522128,60.0,SCIENCE,PHYSICS,anitagnc2020@gmail.com,Dr. Anita Rani,"Guru Nanak College, Sri Muktsar Sahib",8968465114,PG
+1,BVOC FP,I,II,Elementary Punjabi,MAJOR,PBIB103-MG-2,4.0,2521308,70.0,FP,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,GREEN HOUSE TECHNOLOGY,I,II,English Communication Skills,MAJOR,DGHT212,4.0,252210,70.0,AGRICULTURE,ENGLISH,kaurgurpreetrekhi@gmail.com,Dr. Gurpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",8968324486,DIPLOMA
+1,BCA,II,IV,English Communication Skills-II,MAJOR,BCAB2201T,4.0,2541232,70.0,COMPUTER,ENGLISH,kuljeetkaur47@gmail.com,Dr. Kuljeet Kaur,Public College Samana,9988697756,UG
+1,BA,III,VI,ENGLISH COMPULSORY,MAJOR,BA-321T,4.0,2561526,70.0,HUMANITIES,ENGLISH,sguntassingh@gmail.com,Dr. Harbeer Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7973190199,UG
+1,BCA,III,VI,English Literary Skills - II,MAJOR,BCAB3201T,4.0,2561226,70.0,COMPUTER,ENGLISH,kuljeetkaur47@gmail.com,Dr. Kuljeet Kaur,Public College Samana,9988697756,UG
+1,BCOM HONS,III,VI,ENTREPRENEURSHIP AND SOCIAL RESPONSIBILITY OF BUSINESS,MAJOR,BCHU3604T,5.0,2561164,70.0,COMMERCE,COMMERCE,jaspreetmgc@gmail.com,Dr. Jaspreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9781950311,UG
+1,BCOM,III,VI,Entrepreneurship Development,MAJOR,BCOU3606T,5.0,2561180,70.0,COMMERCE,COMMERCE,jaspreetmgc@gmail.com,Dr. Jaspreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9781950311,UG
+1,MSC CHEMISTRY,II,IV,Environmental Chemistry,MAJOR,CHEM2401T,4.0,2542138,70.0,SCIENCE,CHEMISTRY,nidhigupta0508@gmail.com,Dr. Nidhi Rani Gupta,"Multani Mal Modi College, Patiala",8360159179,PG
+1,BVOC CS,II,IV,Ethical Hacking- Level 2,MAJOR,BCSB2202T,4.0,2541222,70.0,COMPUTER,COMPUTER,deepamehta.official@gmail.com,Dr. Deepa,"Chaudhary Devi Lal University, Sirsa, Haryana",9416245104,UG
+1,MSC PHYSICS,II,IV,Experimental Techniques in Physics,MAJOR,PHYM2403T,4.0,2542160,60.0,SCIENCE,PHYSICS,deep_shikha79@yahoo.co.in,Dr. Deepshikha,"Mata Gujri College, Sri Fatehgarh Sahib",9855760699,PG
+1,M.Sc. (Fashion Technology),II,IV,Fashion Entrepreneurship,MAJOR,FTM2202T,-,2542892,-,FT,FT,parinaazsharma16@gmail.com,Dr. Savita Pandey,"GSSDGS, Khalsa College, Patiala",8558982685,PG
+1,MSC FT,I,II,Fashion Marketing,MAJOR,MFT1204T,4.0,2522296,70.0,FT,FT,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,"S. D. College for Women, Moga",9465904022,PG
+1,BVOC GD,II,IV,Fashion Marketing and Merchandising,MAJOR,BVGDB2203T,3.0,2541250,70.0,FT,FT,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,"S. D. College for Women, Moga",9465904022,UG
+1,BVOC FT,I,II,Fashion Studies /Study of Fashion,MAJOR,BVFTB1202T,5.0,2521318,70.0,FT,FT,kaur.veerpal1684@gmail.com,Dr. Veerpal Kaur,"Govt. Girls College, Pilibanga",9877297920,UG
+1,MCOM,I,II,Financial Institutions and Markets,MAJOR,MC206,5.0,2522150,70.0,COMMERCE,COMMERCE,kamrunnishaibm@gmail.com,Dr. Kamrunnisha,"Mata Ganga Khalsa College, Manji Sahib, Kottan",9646235275,PG
+1,BBA,II,IV,Financial Management,MAJOR,BBAU4103T,4.0,2541428,70.0,COMMERCE,COMMERCE,manpreet8701kaur@gmail.com,Dr. Manpreet Kaur,Chandigarh University,8557060143,UG
+1,BCOM HONS,III,VI,FINANCIAL MANAGEMENT,MAJOR,BCHU3603T,5.0,2561163,70.0,COMMERCE,COMMERCE,karmanpreetminhas@gmail.com,Dr. Manpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9779927577,UG
+1,BA,III,VI,Fine Arts,MAJOR,BA-331T,2.0,2561536,30.0,HUMANITIES,FINE ARTS,sgtbfinearts@gmail.com,Dr. Prabhjot Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9988473474,UG
+1,BVOC FP,I,II,Food Product Packaging Technology,MAJOR,B.VFPG-1205,4.0,2521306,70.0,FP,FP,nagrarupinderpal@gmail.com,Dr. Rupinderpal Singh,"SGGS World University, Fatehgarh Sahib",9417766114,UG
+1,M.Sc. FP,I,II,Food Safety Regulations and IPR,MAJOR,MSFPT205,-,2522551,70.0,FP,FP,nagrarupinderpal@gmail.com,Dr. Rupinderpal Singh,"SGGS World University, Fatehgarh Sahib",9417766114,PG
+1,BA,III,VI,Food Science & Child Development-II,MAJOR,BA-334T,3.0,2561539,44.0,HUMANITIES,HOME SCIENCE,ranjitkaurjharsahib@gmail.com,Dr. Ranjit Kaur,GGS Khalsa College for Women Jhar Sahib,9501625577,UG
+1,BVOC FP,II,IV,Food spoilage and control,MAJOR,FDPB2203T,3.0,2541343,74.0,FP,FP,meetkarman009@gmail.com,Dr. Harmeet Singh,"SGGS World University, Fatehgarh Sahib",9592707304,UG
+1,BVOC HM,I,II,Front Office Operations,MAJOR,HTMBV-203,4.0,2521383,70.0,H&M,H&M,ratnesh@matagujricollege.org,Dr. Ratneshpal Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9872001218,UG
+1,BVOC FP,II,IV,Fruits and vegetables Processing,MAJOR,FDPB2205T,3.0,2541345,74.0,FP,FP,ajay3singh@gmail.com,Dr. Ajay Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9896300039,UG
+1,MSC MATHEMATICS,I,II,Functional Analysis,MAJOR,MATM1203T,4.0,2522281,70.0,MATHEMATICS,MATHEMATICS,shivdeepmath@matagujricollege.org,Dr. Shivdeep Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8437747771,PG
+9,BVOC FP,I,II,Functional Punjabi,MAJOR,PBIBVOC-502,4.0,9032,70.0,FP,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,GREEN HOUSE TECHNOLOGY,I,II,Fundamental Of Agriculture -II,MAJOR,DGHT213,4.0,252211,70.0,AGRICULTURE,AGRICULTURE,ssandeepkaur762@gmail.com,Dr. Parminder Kaur,"Khalsa College, Patiala",8968247987,DIPLOMA
+1,BVOC CS,I,II,Fundamental of Cyber Security,MAJOR,BVCS1201T,4.0,2521204,70.0,COMPUTER,COMPUTER,jbs_23_69@pcsamana.org.in,Dr. Jaswinder Bir Singh,Public College Samana,8968700879,UG
+1,DAIRY SCIENCE,I,II,Fundamentals of Dairy Chemistry,MAJOR,DSG-203,4.0,2521257,70.0,AGRICULTURE,AGRICULTURE,ssandeepkaur762@gmail.com,Dr. Parminder Kaur,"Khalsa College, Patiala",8968247987,DIPLOMA
+1,BVOC SD,I,II,Fundamentals of DBMS,MAJOR,CSUG104T,3.0,2521400,70.0,COMPUTER,COMPUTER,gsmann2219@gmail.com,Dr. Gurpal Singh,"GSSDGS, Khalsa College, Patiala",7696551531,UG
+9,BVOC CS,I,II,Fundamentals of DBMS,MAJOR,CSUG104T,3.0,9007,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC FT,I,II,Fundamentals of Design/Design Basics,MAJOR,BVFTB1205T,4.0,2521321,70.0,FT,FT,sharmamandeep190@gmail.com,Ms. Mandeep Sharma,"S. D. College for Women, Moga",9465904022,UG
+1,BA,III,VI,Fundamentals of Fashion Business,MAJOR,BA-330T,3.0,2561535,40.0,HUMANITIES,FT,seemajindal85@gmail.com,Dr. Seema Rani,"Guru Nanak College, Sri Muktsar Sahib",9465170669,UG
+1,BCOM,III,VI,Fundamentals of Insurance,MAJOR,BCOU3609T,5.0,2561181,70.0,COMMERCE,COMMERCE,manpreet2390@gmail.com,Ms. Manpreet Kaur,"S. D. College for Women, Moga",7837818441,UG
+1,MCOM,II,IV,Fundamentals of Investment,MAJOR,MCOP2402T,5.0,2542143,70.0,COMMERCE,COMMERCE,deepshikha1852@gmail.com,Dr. Deepshikha Gupta,Public College Samana,9815031852,PG
+1,BVOC GD,I,II,Fundamentals of Pattern Making,MAJOR,BVGDB1203T,4.0,9025,70.0,FT,FT,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC GD,I,II,Fundamentals of window operating system & Internet,MAJOR,CSUG1201T,2.0,9027,35.0,FT,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC FT,I,II,Fundamentals of window operating system & Internet,MAJOR,CSUG1201T,2.0,2521322,35.0,FT,COMPUTER,jeetsapan3@gmail.com,Dr. Sapanjeet Kaur,"Mata Sahib Kaur Girls College, Talwandi Sabo",9465626061,UG
+1,BVOC GD,II,IV,Garment Production Management,MAJOR,BVGDB2202T,4.0,9014,70.0,FT,FT,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC FT,II,IV,Garment Production Management,MAJOR,BVFTB2201T,4.0,2541297,70.0,FT,FT,kaur.veerpal1684@gmail.com,Dr. Veerpal Kaur,"Govt. Girls College, Pilibanga",9877297920,UG
+1,BCA,I,II,General English-II,MAJOR,BCA1205T,2.0,2521265,35.0,COMPUTER,ENGLISH,sguntassingh@gmail.com,Dr. Harbeer Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7973190199,UG
+1,MA POL SCI,II,IV,GLOBALISATION AND ITS IMPACT ON POLITICAL SYSTEM,MAJOR,POLM22409T,5.0,2542119,70.0,POL SCI,POLITICAL SCIENCE,pargatsotha@gmail.com,Dr. Pargat Singh,"Govt. Rajindra College, Bathinda",9988475397,PG
+1,BVOC GD,II,IV,Historic Costumes,MAJOR,BVGDB2204T,4.0,9015,70.0,FT,FT,,,"Guru Nanak College, Budhlada",0,UG
+1,MA FINE ARTS,I,II,History of Indian Art – II (Mughal to Modern),MAJOR,MAFA1206T,5.0,2522215,70.0,FINE ARTS,FINE ARTS,navneetkaurjeji@gmail.com,Dr. Navneet Kaur,"Govt. College of Education, Patiala",6284477928,PG
+1,BVOC FT,II,IV,History of Indian Costumes/Historic Costumes,MAJOR,BVFTB2203T,3.5,2541299,70.0,FT,FT,harpreetinsa011@gmail.com,Dr. Harpreet Kaur,"S.D. College, Mansa",7087507091,UG
+1,MA MUSIC,I,II,History of Indian Music (Vocal),MAJOR,MAMUV1202T,5.0,2522111,70.0,MUSIC,MUSIC,kulwinder.24471@lpu.co.in,Dr. Kulwinder Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9915144118,PG
+1,MA HISTORY,I,II,History of Punjab (1675-1799).,MAJOR,MAHIS-201,4.0,2522101,70.0,HISTORY,HISTORY,satnamkaurmalhi0@gmail.com,Dr. Satnam Kaur,"GSSDGS, Khalsa College, Patiala",7009705300,PG
+1,BA,III,VI,HISTORY OF PUNJAB(1799-1966),MAJOR,BA-328T,4.0,2561533,70.0,HUMANITIES,HISTORY,harbhinder1984@gmail.com,Dr. Harbhinder Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9417143003,UG
+1,MA HISTORY,I,II,History of the World (1815-1870),MAJOR,MAHIS-202,4.0,2522102,70.0,HISTORY,HISTORY,harbhinder1984@gmail.com,Dr. Harbhinder Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9417143003,PG
+1,MA HISTORY,I,II,History of the World (1919-1991),MAJOR,MAHIS-203,4.0,2522103,70.0,HISTORY,HISTORY,harjittiwana332@gmail.com,Dr. Harjit Kaur,"GSSDGS, Khalsa College, Patiala",9463733901,PG
+1,MA FINE ARTS,I,II,History of Western Art – I (Greek to Renaissance),MAJOR,MAFA1205T,5.0,2522214,70.0,FINE ARTS,FINE ARTS,avneet134007@gmail.com,Dr. Avneet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7009421043,PG
+1,BVOC FP,I,II,Holistic development I: Personality Development,MAJOR,B.VFPG-1202,4.0,2521303,70.0,FP,ENGLISH,k20harleen@gmail.com,Dr. Harleen Kaur,"Multani Mal Modi College, Patiala",8146116000,UG
+1,BVOC FP,II,IV,Holistic development II: Physical Training,MAJOR,FDPB2202T,4.0,2541342,74.0,FP,PHYSICAL EDUCATION,nishanchauhan@ymail.com,Dr. Nishan Singh,"Multani Mal Modi College, Patiala",9501024375,UG
+1,BVOC HM,I,II,Housekeeping Management,MAJOR,HTMBV-202,4.0,2521382,70.0,H&M,H&M,ratnesh@matagujricollege.org,Dr. Ratneshpal Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9872001218,UG
+1,MCOM,II,IV,Human Resource Management,MAJOR,MCOP2401T,5.0,2542142,70.0,COMMERCE,COMMERCE,harjeet.mgc@gmail.com,Dr. Harjit Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7814449000,PG
+1,BCOM HONS,I,II,IDC -Fundamentals of Management,IDC,BC206B,3.0,2521173,70.0,COMMERCE,COMMERCE,sroayharman81@gmail.com,Ms. Harmandeep Kaur,"Guru Nanak College, Budhlada",9478215490,UG
+1,BA,II,IV,IDC-Basic Economics -III,IDC,ECOB2403T:IDC-MDC-3,3.0,2541486,70.0,HUMANITIES,ECONOMICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,IDC-Basic Economics – II,IDC,BAIDECO1246T,3.0,2521423,70.0,HUMANITIES,ECONOMICS,jagdeepsinghwalia@gmail.com,Dr. Jagdeep Singh,"Guru Nanak College, Budhlada",7009575693,UG
+1,BA,I,II,IDC-Basic of Political Science,IDC,BAIDPOL1236,3.0,2521426,70.0,HUMANITIES,POLITICAL SCIENCE,danamandi47@gmail.com,Mr. Jaswinder Singh,"Guru Nanak College, Budhlada",7717633620,UG
+9,BSC M,I,II,IDC-Basics of Political Science,IDC,BAIDPOL1236,3.0,9040,70.0,SCIENCE,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,IDC-Basics of Political Science,IDC,BAIDPOL1236,3.0,8001,70.0,SCIENCE,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,II,IV,IDC-Climate Change,IDC,GEOBH1403T,3.0,9038,70.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+1,BSC NM,II,IV,IDC-Climate Change,IDC,GEOBH1403T,3.0,2541364,70.0,SCIENCE,CHEMISTRY,kaurbhupinder21773@gmail.com,Ms. Bhupinder Kaur,"Guru Nanak College, Budhlada",9781055935,UG
+1,BA,II,IV,IDC-Digital Society,IDC,SOCB2414T,3.0,2541525,70.0,HUMANITIES,SOCIOLOGY,ramandeepkaur49378@gmail.com,Mr. Ramandeep Kaur,"Guru Nanak College, Budhlada",8146635038,UG
+1,BA,I,II,IDC-Disability Studies : An Introduction,IDC,BAIDSOC1230T,3.0,2521429,70.0,HUMANITIES,SOCIOLOGY,ramandeepkaur49378@gmail.com,Mr. Ramandeep Kaur,"Guru Nanak College, Budhlada",8146635038,UG
+1,BA,I,II,IDC-Food Management-II,IDC,BAIDHOM1249T,2.0,2521425,50.0,HUMANITIES,FT,bansalm063@gmail.com,Ms. Seema,"Guru Nanak College, Budhlada",7009510545,UG
+1,BA,II,IV,IDC-History and Culture of the Punjab from A.D. 1469-1849,IDC,HISB2403T,3.0,2541498,70.0,HUMANITIES,HISTORY,rupindermansa38@gmail.com,Ms. Rupinder Kaur,"Guru Nanak College, Budhlada",6283302763,UG
+1,BA,I,II,IDC-Internet and Web Technologies,IDC,CSUGI1212T,3.0,2521471,70.0,HUMANITIES,COMPUTER,rajpreetkaur110@gmail.com,Ms. Rajpreet Kaur,"Guru Nanak College, Budhlada",7837785286,UG
+1,BA,II,IV,IDC-Laplace Transform,IDC,MATBI-2404T,3.0,2541503,70.0,HUMANITIES,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,IDC-Major Religious Scriptures : Basic Knowledge,IDC,BAIDREL1239T,3.0,2521428,70.0,HUMANITIES,RELIGION,sajanmutneja33@gmail.com,Dr. Sajan,"Guru Nanak College, Budhlada",7837245089,UG
+1,BA,II,IV,IDC-Major Scriptures: Basic Introduction,IDC,RELB2411T,3.0,2541521,70.0,HUMANITIES,RELIGION,drraj.kaur@gmail.com,Dr. Rajinder Kaur,"Guru Nanak College, Budhlada",8427330525,UG
+1,BCOM HONS,II,IV,IDC-Marketing Management,IDC,COMB2404T,3.0,2541191,70.0,COMMERCE,COMMERCE,dalkulbir@gmail.com,Dr. Kulbir Singh,"Guru Nanak College, Budhlada",7889175687,UG
+1,BA,II,IV,IDC-Meditation And Shuddhi Kriyas,IDC,PHE-IDC-103T,2.0,2541513,50.0,HUMANITIES,PHYSICAL EDUCATION,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,II,IV,IDC-POLITICAL SYSTEM: UK AND USA,IDC,POLB243TMDC,3.0,2541516,70.0,HUMANITIES,POLITICAL SCIENCE,danamandi47@gmail.com,Mr. Jaswinder Singh,"Guru Nanak College, Budhlada",7717633620,UG
+1,BA,I,II,IDC-Quantitative Ability-II,IDC,BAMDMAT1229T,3.0,2521431,70.0,HUMANITIES,MATHEMATICS,parveensharma3434@gmail.com,Ms. Parveen Kaur,"Guru Nanak College, Budhlada",8699420377,UG
+1,BA,I,II,IDC-Reading Poetry,IDC,BAIDREA1224T,4.0,2521427,70.0,HUMANITIES,ENGLISH,kawalbhatti186@gmail.com,Ms. Kawaljeet Kaur,"Guru Nanak College, Budhlada",9501476864,UG
+1,BA,I,II,IDC-Relationship between Visual Arts and Humanities - II,IDC,BAIDVAH1276T,3.0,2521430,70.0,HUMANITIES,FINE ARTS,khalsajagpreetvirdi@gmail.com,Mr. Jagpreet Singh,"Guru Nanak College, Budhlada",7719416286,UG
+1,BA,II,IV,IDC-Six One-Act Plays,IDC,ENGBMDIDC2201-T,3.0,2541488,70.0,HUMANITIES,ENGLISH,kaursukhdeep475@gmail.com,Ms. Sukhdeep Kaur,"Guru Nanak College, Budhlada",9041820496,UG
+1,BA,I,II,IDC-Skill Development,IDC,BAIDCEDU1262T,3.0,2521422,70.0,HUMANITIES,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,"IDC-The Punjab: State, Society and Culture (1708-1947)",IDC,BAHIS1222T,3.0,2521420,70.0,HUMANITIES,HISTORY,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,IDC-हिन्दी कथा साहित्य,IDC,BAIDHIN1226T,3.0,2521424,70.0,HUMANITIES,HINDI,drksarao@gmail.com,Dr. Kulwant Singh,"Guru Nanak College, Budhlada",9815736540,UG
+1,BA,II,IV,IDC-हिन्दी की नव्यत्तर गद्य विधाएं,IDC,HINBH2303T-MDC,3.0,2541492,70.0,HUMANITIES,HINDI,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,II,IV,IDC-ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਲੇਖਣ,IDC,PBIBMDMDC2201T,3.0,2541512,70.0,HUMANITIES,PUNJABI,avtar63025@gmail.com,Dr. Avtar Singh,"Guru Nanak College, Budhlada",9592263025,UG
+1,BA,I,II,IDC-ਪੰਜਾਬੀ ਲੋਕ ਕਲਾਵਾਂ: ਮੁੱਢਲੀ ਜਾਣ ਪਛਾਣ,IDC,PBIB204-2,3.0,2521480,50.0,HUMANITIES,PUNJABI,gsidhu98150@gmail.com,Dr. Gurpreet Kaur,"Guru Nanak College, Budhlada",8727969533,UG
+1,BSC M,III,VI,Immunology,MAJOR,ZOOB3202T,2.0,2561332,35.0,SCIENCE,ZOOLOGY & BOTANY,amarsantosh07@gmail.com,Dr. Amar Santosh Singh,"DAV College, Bathinda",9988972507,UG
+1,BSC NM,III,VI,In-Organic Chemistry- IV,MAJOR,CHEB3602T,2.0,2561392,35.0,SCIENCE,CHEMISTRY,rahulbadru@gmail.com,Dr. Rahul Badru,"SGGS World University, Fatehgarh Sahib",7009937486,UG
+9,BSC M,III,VI,In-Organic Chemistry-IV,MAJOR,CHEB3602T,2.0,9035,35.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC GD,II,IV,Indian Knowledge System,QUALIFYING,VAC2401T,2.0,9018,35.0,FT,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+1,MA POL SCI,I,II,INDIAN POLITICAL THOUGHT-II,MAJOR,MPOL1201,5.0,2522105,70.0,POL SCI,POLITICAL SCIENCE,harmansaangha123@gmail.com,Dr. Harmanpreet Singh,"GSSDGS, Khalsa College, Patiala",9592437937,PG
+1,MSC FT,I,II,Indian Traditional Textiles,MAJOR,MFT1203T,4.0,2522295,70.0,FT,FT,parinaazsharma16@gmail.com,Dr. Savita Pandey,"GSSDGS, Khalsa College, Patiala",8558982685,PG
+1,MLIB,I,II,"Information Analysis, Consolidation and Repackaging",MAJOR,MLIS10,4.0,2522184,70.0,LIBRARY SCIENCE,LIBRARY,anamika.sh21@gmail.com,Dr. Anamika Sharma,"SD College, Barnala",9888457116,PG
+1,MLIB,I,II,Information and Literature Survey in Social Sciences,MAJOR,MLIS12,4.0,2522187,70.0,LIBRARY SCIENCE,LIBRARY,navkiran1907@gmail.com,Dr. Navkiran Kaur,Punjabi University Patiala,9914589322,PG
+1,BLIB,I,II,Information Sources and Services,MAJOR,BLIS09,6.0,2521349,60.0,LIBRARY SCIENCE,LIBRARY,anamika.sh21@gmail.com,Dr. Anamika Sharma,"SD College, Barnala",9888457116,UG
+1,MSC CHEMISTRY,I,II,Inorganic Chemistry-II,MAJOR,MCHE1201T,4.0,2522134,70.0,SCIENCE,CHEMISTRY,ripneel83chahal@gmail.com,Dr. Ripneel Kaur,"SGGS World University, Fatehgarh Sahib",8427806108,PG
+1,BA,III,VI,International Politics:Theory and Practice,MAJOR,BPOLBP2601,4.0,2561542,70.0,HUMANITIES,POLITICAL SCIENCE,jagtarsinghkcp82@gmail.com,Dr. Jagtar Singh,"GSSDGS, Khalsa College, Patiala",9780370565,UG
+1,BA,III,VI,Introduction To Computer Network and Internet Programming,MAJOR,BCSB3201T,3.0,2561541,50.0,HUMANITIES,COMPUTER,manpreetkaur.mgc@gmail.com,Dr. Manpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7837029900,UG
+1,BVOC FP,I,II,Introductory food Microbiology,MAJOR,B.VFPG-1204,4.0,2521305,70.0,FP,FP,monikajoon1996@gmail.com,Dr. Monika,"MRSPTU, Bathinda",9588549983,UG
+1,BLIB,I,II,Knowledge Organization and Information Processing: Library Cataloguing Practice (AACR-II),MAJOR,BLIS08,4.0,2521348,70.0,LIBRARY SCIENCE,LIBRARY,anamika.sh21@gmail.com,Dr. Anamika Sharma,"SD College, Barnala",9888457116,UG
+1,BLIB,I,II,Knowledge Organization and Information Processing: Theory of Library Cataloguing,MAJOR,BLIS07,4.0,2521347,70.0,LIBRARY SCIENCE,LIBRARY,baljinderpup@gmail.com,Dr. Baljinder Kaur,Punjabi University Patiala,9855403414,UG
+1,BSC NM,III,VI,Laser,MAJOR,PHYB3601T,2.0,2561397,35.0,SCIENCE,PHYSICS,preet4bhullar@gmail.com,Dr. Gurpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",9417310875,UG
+1,MA ENGLISH,II,IV,LITERARY AND CULTURAL THEORY,MAJOR,ENGM2201T,5.0,2542200,70.0,ENGLISH,ENGLISH,gaurieng@matagujricollege.org,Dr. Gauri Handa,"Mata Gujri College, Sri Fatehgarh Sahib",8146800347,PG
+1,MA ENGLISH,I,II,LITERARY CRITICISM,MAJOR,M1ENG201T,5.0,2522239,70.0,ENGLISH,ENGLISH,harpreet0770@gmail.com,Dr. Harpreet Singh,"Multani Mal Modi College, Patiala",9465153150,PG
+1,BA,III,VI,LITERARY MASTERPIECES: STUDY OF CLASSICS-II,MAJOR,BA-322T,4.0,2561527,70.0,HUMANITIES,ENGLISH,roublebrar@yahoo.co.in,Dr. Rouble Brar,"GSSDGS, Khalsa College, Patiala",9815370011,UG
+1,MA ENGLISH,II,IV,LITERATURE AND POLITICS,MAJOR,ENGM2203T,5.0,2542202,70.0,ENGLISH,ENGLISH,dr.maninderkainth@gmail.com,Dr. Maninder Kainth,"Mata Gujri College, Sri Fatehgarh Sahib",9872300987,PG
+1,BA,II,IV,MAJOR -Social and Economic History of India from Indus Valley to A.D. 1000,MAJOR,HISB2401T,4.0,2541496,70.0,HUMANITIES,HISTORY,kaurkiranjeet2802@gmail.com,Dr. Kiranjeet Kaur,"University College Benra, Dhuri (Sangrur)",9877113077,UG
+1,BBA,I,II,MAJOR Business Economics,MAJOR,BBA203,4.0,2521413,70.0,COMMERCE,COMMERCE,manpreet8701kaur@gmail.com,Dr. Manpreet Kaur,Chandigarh University,8557060143,UG
+1,BCOM HONS,I,II,MAJOR Company Law,MAJOR,BC202,4.0,2521169,70.0,COMMERCE,COMMERCE,jagmeetkaurdhillon@gmail.com,Dr. Jagmeet Kaur,"Guru Nanak College, Sri Muktsar Sahib",9914716005,UG
+1,BCOM HONS,I,II,MAJOR Financial Accounting-II,MAJOR,BC201,4.0,2521168,70.0,COMMERCE,COMMERCE,kirtan_singh2002@yahoo.co.in,Dr. Harkirtan Kaur,Public College Samana,9814288279,UG
+1,BA,I,II,MAJOR Indian Administration,MAJOR,BAMJPUB1261T,4.0,2521445,70.0,HUMANITIES,PUBLIC ADMINISTRATION,deepikasharda2015@gmail.com,Dr. Deepika Sharda,"Mata Gujri College, Sri Fatehgarh Sahib",9988408764,UG
+1,BBA,I,II,MAJOR Marketing Management,MAJOR,BBA202,4.0,2521412,70.0,COMMERCE,COMMERCE,rajbindersinghkcp@gmail.com,Dr. Rajbinder Singh,"GSSDGS, Khalsa College, Patiala",9464047512,UG
+1,BBA,I,II,MAJOR Organisational Behaviour,MAJOR,BBA201,4.0,2521411,70.0,COMMERCE,COMMERCE,karmanpreetminhas@gmail.com,Dr. Manpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9779927577,UG
+9,BSC NM,II,IV,MAJOR-Analysis,MAJOR,MATB2401T,4.0,5001,70.0,SCIENCE,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,II,IV,MAJOR-Analysis,MAJOR,MATB-2401T,4.0,2541502,70.0,HUMANITIES,MATHEMATICS,mandeep1125@yahoo.com,Dr. Mandeep Kaur,"Khalsa College, Sri Anandpur Sahib",9463055900,UG
+1,BA,I,II,MAJOR-Ancient India: Political History From Earliest Times to 326 B.C.,MAJOR,BAHIS1204T,4.0,2521418,70.0,HUMANITIES,HISTORY,rak_bawa@yahoo.co.in,Dr. Rakesh Bawa,"GNC Daroli Kalan, Jalandhar",9417880077,UG
+1,BA,I,II,MAJOR-Basic of Political Science,MAJOR,BAMJPOL1202,4.0,2521444,70.0,HUMANITIES,POLITICAL SCIENCE,gurmeetbrar8070@gmail.com,Dr. Gurmeet Singh,"Govt. Rajindra College, Bathinda",8070800053,UG
+1,BA,II,IV,MAJOR-Basic Textile and Textile Designing,MAJOR,HSB240IT,3.0,2541499,70.0,HUMANITIES,HOME SCIENCE,amanv15995@gmail.com,Dr. Amandeep Kaur,"Shaheed Bhagat Singh College, Kotkapura",9780972394,UG
+1,BA,I,II,MAJOR-Calculus,MAJOR,BAMJMAT1203T,4.0,2521441,70.0,HUMANITIES,MATHEMATICS,jksaini83@gmail.com,Dr. Jatinder Kaur,Chandigarh University,9417236509,UG
+9,BSC NM,I,II,MAJOR-Calculus-I,MAJOR,BAMJMAT1203T,4.0,8002,70.0,SCIENCE,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+1,BSC M,I,II,MAJOR-Chemistry Major -II,MAJOR,BCHE1201T,3.0,2521353,70.0,SCIENCE,CHEMISTRY,anupama.parmar1969@gmail.com,Dr. Anupama Parmar,Punjabi University Patiala,9417270250,UG
+1,BSC NM,II,IV,MAJOR-Chemistry Major-IV,MAJOR,CHEB2401T,3.0,2541362,70.0,SCIENCE,CHEMISTRY,monika_bansal79@yahoo.com,Dr. Monika Bansal,"GSSDGS, Khalsa College, Patiala",8872760900,UG
+9,BSC M,II,IV,MAJOR-Chemistry Major-IV,MAJOR,CHEB2401T,3.0,9036,70.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,MAJOR-Chemistry-II,MAJOR,BCHE1201T,3.0,9047,70.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+1,BCOM HONS,II,IV,MAJOR-Corporate Accounting II,MAJOR,COMB2402T,4.0,2541189,70.0,COMMERCE,COMMERCE,gaurav.modicollege@gmail.com,Dr. Gaurav Gupta,"Multani Mal Modi College, Patiala",9814979814,UG
+1,BA,II,IV,MAJOR-Data Structure,MAJOR,BCSB2201T,3.0,2541482,70.0,HUMANITIES,COMPUTER,nachhattar_singh@pcsamana.org.in,Dr. Nachhattar Singh,Public College Samana,8146546906,UG
+1,BA,II,IV,MAJOR-Development Economics,MAJOR,ECOB2401T:MAJOR-4,4.0,2541484,70.0,HUMANITIES,ECONOMICS,sarbjit.ahluwalia87@gmail.com,Dr. Sarbjit Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",9781414879,UG
+1,BSC M,II,IV,MAJOR-Diversity and Systemetics of Spermatophytes,MAJOR,BOTBMD2201T,3.0,2541334,70.0,SCIENCE,ZOOLOGY & BOTANY,ranjeetbotany@gmail.com,Dr. Ranjeet Singh,"DAV College, Bathinda",9780622530,UG
+1,BSC M,I,II,MAJOR-Diversity of  Microbes,MAJOR,BBOT1201T,3.0,2521352,70.0,SCIENCE,ZOOLOGY & BOTANY,avinashkaur211@gmail.com,Dr. Avniash Kaur,"Khalsa College, Sri Anandpur Sahib",9418305748,UG
+1,BA,I,II,MAJOR-Educational Phychology,MAJOR,BAMJEDU1258T,4.0,2521433,70.0,HUMANITIES,EDUCATION,kkhs98@gmail.com,Dr. Kulwinder Kaur,Mata Sahib Kaur Khalsa Girls College of Education,9780300195,UG
+1,BSC NM,I,II,MAJOR-Electricity and Magnetism,MAJOR,BPHY1201T,3.0,2521375,70.0,SCIENCE,PHYSICS,bhardwajkavita25@gmail.com,Dr. Kavita,"Multani Mal Modi College, Patiala",9988027574,UG
+1,BA,I,II,MAJOR-Family Resource management and Hygiene & Human Physiology,MAJOR,BAMJHOM1211T,3.0,2521439,70.0,HUMANITIES,HOME SCIENCE,amanv15995@gmail.com,Dr. Amandeep Kaur,"Shaheed Bhagat Singh College, Kotkapura",9780972394,UG
+1,BA,I,II,MAJOR-Fashion Concepts & Sewing Technology,MAJOR,BAMJFAS1212T,3.0,2521436,50.0,HUMANITIES,FT,parinaazsharma16@gmail.com,Dr. Savita Pandey,"GSSDGS, Khalsa College, Patiala",8558982685,UG
+1,BA,II,IV,MAJOR-Fine Arts,MAJOR,FABA2201T,2.0,2541491,30.0,HUMANITIES,FINE ARTS,navneetkaurjeji@gmail.com,Dr. Navneet Kaur,"Govt. College of Education, Patiala",6284477928,UG
+1,BA,I,II,MAJOR-Foundation of Physical Education,MAJOR,BAMJPHY1206T,3.0,2521443,50.0,HUMANITIES,PHYSICAL EDUCATION,rupigill15@gmail.com,Dr. Rupinder Singh,"Gobindgarh Public colelge, Alour (Khanna)",9888572712,UG
+9,BA,I,II,MAJOR-Fundamental of Window Operating System & Internet,MAJOR,CSUG1201T,3.0,9069,70.0,HUMANITIES,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,MAJOR-Growth & Development of Print Media,MAJOR,BAMJJMC1254T,3.0,2521440,50.0,HUMANITIES,JOURNALISM,khannadish33@gmail.com,Dr. Nadish,"Mata Gujri College, Sri Fatehgarh Sahib",8196048815,UG
+1,BA,I,II,MAJOR-History of Indian Art,MAJOR,BAMJFIN1274T,2.0,2521437,30.0,HUMANITIES,FINE ARTS,avneet134007@gmail.com,Dr. Avneet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7009421043,UG
+1,BCOM HONS,II,IV,MAJOR-Income Tax II,MAJOR,COMB2401T,4.0,2541188,70.0,COMMERCE,COMMERCE,gaurav.modicollege@gmail.com,Dr. Gaurav Gupta,"Multani Mal Modi College, Patiala",9814979814,UG
+1,BA,II,IV,MAJOR-INDIAN POLITICAL SYSTEM,MAJOR,POLB244TMAJ,4.0,2541517,70.0,HUMANITIES,POLITICAL SCIENCE,jagtarsinghkcp82@gmail.com,Dr. Jagtar Singh,"GSSDGS, Khalsa College, Patiala",9780370565,UG
+1,BA,II,IV,MAJOR-Indian traditional textiles and costumes,MAJOR,MAJ-4FDB2201T,3.0,2541501,50.0,HUMANITIES,FT,seemajindal85@gmail.com,Dr. Seema Rani,"Guru Nanak College, Sri Muktsar Sahib",9465170669,UG
+1,BA,II,IV,MAJOR-Introduction to Cultural Studies,MAJOR,ENGBMDMAJ2201-T,4.0,2541489,70.0,HUMANITIES,ENGLISH,harpreet0770@gmail.com,Dr. Harpreet Singh,"Multani Mal Modi College, Patiala",9465153150,UG
+1,BA,II,IV,MAJOR-IV Music (Vocal),MAJOR,MUSBMD2201T,2.0,2541506,35.0,HUMANITIES,MUSIC,sgtbgurmatsangeet@gmail.com,Dr. Jagpinderpal Singh,"SGTB Khalsa College, Sri Anandpur Sahib",8146590396,UG
+1,BA,II,IV,MAJOR-Jainism and Buddhism:Basic Introduction,MAJOR,RELB2410T,4.0,2541519,70.0,HUMANITIES,RELIGION,drnarindermgc@gmail.com,Dr. Narinder Kaur,"Guru Hargobind Sahib Khalsa Girls College, Karhali Sahib",9872859171,UG
+1,BA,I,II,MAJOR-Macro Economics,MAJOR,BAMJECO1213T,4.0,2521432,70.0,HUMANITIES,ECONOMICS,harsimran.eco.pup@gmail.com,Dr. Harsimran Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9888027874,UG
+1,BA,I,II,MAJOR-Modern Poetry in English,MAJOR,BAMJELI1208-T,4.0,2521434,70.0,HUMANITIES,ENGLISH,dr.maninderkainth@gmail.com,Dr. Maninder Kainth,"Mata Gujri College, Sri Fatehgarh Sahib",9872300987,UG
+1,BSC M,II,IV,MAJOR-Molecular Biology,MAJOR,ZOOBMD2401T,3.0,2541341,70.0,SCIENCE,ZOOLOGY & BOTANY,amarsantosh07@gmail.com,Dr. Amar Santosh Singh,"DAV College, Bathinda",9988972507,UG
+1,BA,I,II,MAJOR-Music (Vocal),MAJOR,BAMJMUS1210T,2.0,2521442,35.0,HUMANITIES,MUSIC,drgaurikhanna@gmail.com,Dr. Gauri Khanna,"GSSDGS, Khalsa College, Patiala",9501522640,UG
+1,BA,I,II,MAJOR-Social Change in India,MAJOR,BAMJSOC1209T,4.0,2521447,70.0,HUMANITIES,SOCIOLOGY,harleenk51@gmail.com,Dr. Harleen Kaur,"Sri Guru Teg Bahadur Khalsa College for Girls, Aakar, Patiala",9855981980,UG
+1,BA,II,IV,MAJOR-Social structure of Indian society,MAJOR,SOCB2412T,4.0,2541523,70.0,HUMANITIES,SOCIOLOGY,gs38230@gmail.com,Dr. Gurdeep Singh,"Govt. College, Abohar",9465828602,UG
+1,BA,II,IV,MAJOR-Sports Coaching and Administration,MAJOR,PHE-MDC-104T,3.0,2541514,50.0,HUMANITIES,PHYSICAL EDUCATION,ashok.yogi20@gmail.com,Dr. Ashok Kumar,"SGTB Khalsa College, Sri Anandpur Sahib",9417158856,UG
+1,BSC NM,II,IV,MAJOR-Thermodynamics & Statistical Physics,MAJOR,PHYB2401T,3.0,2541368,70.0,SCIENCE,PHYSICS,dhaliwalramneek@gmail.com,Dr. Ramneek Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8288008845,UG
+1,BA,I,II,"MAJOR-Vedic Religion:- Vedas, Vedic Gods and Rituals",MAJOR,BAMJREL1201T,4.0,2521446,70.0,HUMANITIES,RELIGION,kaurpalwinder17@gmail.com,Dr. Palwinder Kaur,"SGGS World University, Fatehgarh Sahib",9646004151,UG
+1,MA HINDI,II,IV,MAJOR-आधुनिक हिन्दी काव्य-2,MAJOR,HINM2PUP-T-401,4.0,2542310,70.0,HINDI,HINDI,nitu.nohra@gmail.com,Dr. Neetu,"Mata Sahib Kaur Girls College, Talwandi Sabo",8146646476,PG
+1,MA HINDI,II,IV,MAJOR-पाश्चात्य काव्यशास्त्र,MAJOR,HINM2PUP-T-402,4.0,2542311,70.0,HINDI,HINDI,kaurgagandeep4720@gmail.com,Dr. Gagandeep Kaur,"Govt. Mohindra College, Patiala",9478238728,PG
+1,MA HINDI,II,IV,MAJOR-प्रयोजनमूलक हिन्दी,MAJOR,HINM2PUP-T-403,4.0,2542312,70.0,HINDI,HINDI,neenamehta680@gmail.com,Dr. Neena Mehta,"Guru Nanak College, Sri Muktsar Sahib",8146566753,PG
+1,BA,I,II,MAJOR-हिन्दी साहित्य का इतिहास और व्याकरण-2,MAJOR,BAMJHIN1207T,4.0,2521438,70.0,HUMANITIES,HINDI,nitu.nohra@gmail.com,Dr. Neetu,"Mata Sahib Kaur Girls College, Talwandi Sabo",8146646476,UG
+1,BA,II,IV,"MAJOR-हिन्दी साहित्य का इतिहास, व्याकरण और हिन्दी साहित्य-2",MAJOR,HINBH2404T-MAJ,4.0,2541494,70.0,HUMANITIES,HINDI,neenamehta680@gmail.com,Dr. Neena Mehta,"Guru Nanak College, Sri Muktsar Sahib",8146566753,UG
+1,BA,II,IV,MAJOR-ਪੰਜਾਬੀ ਸਹਿਤ,MAJOR,PBIBMDLMJA2201T,4.0,2541511,70.0,HUMANITIES,PUNJABI,amanpreetgillgnc@gmail.com,Dr. Amanpreet Gill,"Guru Nanak College, Sri Muktsar Sahib",9876500995,UG
+1,BA,I,II,MAJOR-ਪੰਜਾਬੀ ਸਾਹਿਤ,MAJOR,PBIB201-2,4.0,2521476,70.0,HUMANITIES,PUNJABI,dhaliwalveerpal0007@gmail.com,Dr. Veerpal Kaur,"Multani Mal Modi College, Patiala",9465143209,UG
+1,BCOM,III,VI,Management Accounting -II,MAJOR,BCOU3603T,5.0,2561177,70.0,COMMERCE,COMMERCE,gaurpooja085@gmail.com,Dr. Pooja Manchanda,"SSD Girls College, Bathinda",9464479797,UG
+1,BCOM HONS,III,VI,MANAGEMENT ACCOUNTING-II,MAJOR,BCHU3601T,5.0,2561167,70.0,COMMERCE,COMMERCE,kirtan_singh2002@yahoo.co.in,Dr. Harkirtan Kaur,Public College Samana,9814288279,UG
+1,BLIB,I,II,Management of Libraries and Information Centres,MAJOR,BLIS06,4.0,2521346,70.0,LIBRARY SCIENCE,LIBRARY,avtarnangla69@gmail.com,Dr. Avtar Singh,Khokhar,9517588808,UG
+1,BCA,I,II,Mathematical Foundation to Computer Science-II,MAJOR,BCA1201T,4.0,2521263,70.0,COMPUTER,MATHEMATICS,shambansal2010@gmail.com,Dr. Sham Bansal,"Mata Gujri College, Sri Fatehgarh Sahib",9041964995,UG
+1,MSC MATHEMATICS,II,IV,MATHEMATICAL METHODS,MAJOR,MATM2215T,4.0,2542275,70.0,MATHEMATICS,MATHEMATICS,goyaldrbharat@gmail.com,Dr. Bharat Goyal,"GSSDGS, Khalsa College, Patiala",9988304901,PG
+1,MSC PHYSICS,I,II,Mathematical Methods of Physics-II,MAJOR,MPHY1201T,4.0,2522123,60.0,SCIENCE,MATHEMATICS,shivdeepmath@matagujricollege.org,Dr. Shivdeep Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8437747771,PG
+1,BSC M,III,VI,Medical Zoology and Medical Lab Technology,MAJOR,ZOOB3201T,2.0,2561331,35.0,SCIENCE,ZOOLOGY & BOTANY,amarsantosh07@gmail.com,Dr. Amar Santosh Singh,"DAV College, Bathinda",9988972507,UG
+9,BA,II,IV,MIL-हिन्दी साहित्य और व्याकरण,MAJOR,HINBH2402T-MIL,2.0,7597,35.0,HUMANITIES,HINDI,,,"Guru Nanak College, Budhlada",0,UG
+1,DAIRY SCIENCE,I,II,Milk Procurement and Supply Management,MAJOR,DSG-204,4.0,2521258,70.0,AGRICULTURE,AGRICULTURE,drrosysingla@gmail.com,Dr. Rosy Bansal,"Khalsa College, Patiala",9417508433,DIPLOMA
+1,M.Sc. FP,I,II,Milk Product Processing & Dairy Technology,MAJOR,MSFPT204,-,2522550,70.0,FP,FP,simirock@rediffmail.com,Dr. Simran Jot Kaur,"SGGS World University, Fatehgarh Sahib",9896647456,PG
+9,BA,I,II,MINOR Indian Administration,MINOR,BAMNPUB1262T,4.0,8015,70.0,HUMANITIES,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+1,BCOM HONS,I,II,MINOR Macro Economics,MAJOR,BC203,4.0,2521170,70.0,COMMERCE,COMMERCE,kirtan_singh2002@yahoo.co.in,Dr. Harkirtan Kaur,Public College Samana,9814288279,UG
+9,BA,II,IV,MINOR-Analysis,MINOR,MATBM-2403T,4.0,8027,70.0,HUMANITIES,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Ancient India: Political History From Earliest Times to 326 B.C.,MINOR,BAHIS1205T,4.0,8005,70.0,HUMANITIES,HISTORY,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Basic of Political Science,MINOR,BAMNPOL1237,4.0,9068,70.0,HUMANITIES,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Basic Textile and Textile Designing,MINOR,HSB240ITM,3.0,8026,70.0,HUMANITIES,FT,,,"Guru Nanak College, Budhlada",0,UG
+1,BCOM HONS,II,IV,MINOR-Business Environment -II,MAJOR,COMB2403T,4.0,2541190,70.0,COMMERCE,COMMERCE,ravindermgc@gmail.com,Dr. Ravinder Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8146300795,UG
+1,BA,I,II,MINOR-Calculus,MINOR,MATMN1253T,4.0,2521474,70.0,HUMANITIES,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Data Structure,MINOR,BCSB2201-T,3.0,8021,70.0,HUMANITIES,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,II,IV,MINOR-Data Structures,MINOR,BCSB2201T,3.0,8004,70.0,rajvinderk.modicollege@gmail.com,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,II,IV,MINOR-Data Structures,MINOR,BCSB2201T,3.0,9043,70.0,SCIENCE,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Development Economics,MINOR,ECOB2402T:MINOR-4,4.0,8022,70.0,HUMANITIES,ECONOMICS,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Educational Phychology,MINOR,BAMNEDU1277,4.0,8006,70.0,HUMANITIES,EDUCATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Family Resource management and Hygiene & Human Physiology,MINOR,BAMNHOM1231T,3.0,8011,70.0,HUMANITIES,SOCIOLOGY,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Fashion Concepts & Sewing Technology,MINOR,BAMNFAS1232T,3.0,8008,50.0,HUMANITIES,FT,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Foundation of Physical Education,MINOR,BAMNPHY1243T,3.0,8014,50.0,HUMANITIES,PHYSICAL EDUCATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Fundamental of Window Operating System & Internet,MINOR,CSUG1201T(MINOR),3.0,8018,70.0,HUMANITIES,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Fundamentals of Hindustani Music (Vocal),MINOR,BAMNMUS1233T,2.0,8013,35.0,HUMANITIES,MUSIC,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,I,II,MINOR-Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3.0,9041,70.0,SCIENCE,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,MINOR-Fundamentals of Window Operating System & Internet,MINOR,CSUG1201T,3.0,9050,70.0,SCIENCE,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Growth & Development of Print Media,MINOR,BAMNJMC1256T,3.0,8012,50.0,HUMANITIES,JOURNALISM,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-History of Indian Art,MINOR,BAMNFIN1276T,2.0,8009,30.0,HUMANITIES,FINE ARTS,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-INDIAN POLITICAL SYSTEM,MINOR,POLB244TMIN,4.0,8032,70.0,HUMANITIES,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Indian traditional textiles and costumes,MINOR,MIN-4FDB2201T,3.0,8028,50.0,HUMANITIES,FT,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Introduction to Cultural Studies,MINOR,ENGBMDMIN2201-T,4.0,8023,70.0,HUMANITIES,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-IV Music (Vocal),MINOR,MUSBMD2202T,2.0,8029,35.0,HUMANITIES,MUSIC,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Jainism and Buddhism: Basic Introduction,MINOR,RELB2410TM,4.0,8033,70.0,HUMANITIES,RELIGION,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Micro Economics,MINOR,BAMNECO1245T,4.0,7589,70.0,HUMANITIES,ECONOMICS,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Modern Poetry in English,MINOR,BAMNELI1221-T,4.0,8007,70.0,HUMANITIES,ENGLISH,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Social and Economic History of India from Indus Valley to A.D. 1000,MINOR,HISB2402T,4.0,8025,70.0,HUMANITIES,HISTORY,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-Social Change in India,MINOR,BAMNSOC1248T,4.0,8017,70.0,HUMANITIES,SOCIOLOGY,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Social Structure of Indian society,MINOR,SOCB2412TM,4.0,8034,70.0,HUMANITIES,SOCIOLOGY,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-Sports Coaching and Administration,MINOR,PHE-MDC-104TM,3.0,8031,50.0,HUMANITIES,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,"MINOR-Vedic Religion:- Vedas, Vedic Gods and Rituals",MINOR,BAMNREL1238T,4.0,8016,70.0,HUMANITIES,RELIGION,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-हिन्दी साहित्य का इतिहास और व्याकरण-2,MINOR,BAMNHIN1225T,4.0,8010,70.0,HUMANITIES,HINDI,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,"MINOR-हिन्दी साहित्य का इतिहास, व्याकरण और हिन्दी साहित्य-2",MINOR,HINBH2404T-MIN,4.0,8024,70.0,HUMANITIES,HINDI,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,II,IV,MINOR-ਪੰਜਾਬੀ ਸਹਿਤ,MINOR,PBIBMDLMI2201T,4.0,8030,70.0,HUMANITIES,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BA,I,II,MINOR-ਪੰਜਾਬੀ ਸਾਹਿਤ,MINOR,PBIB202-2,4.0,8020,70.0,HUMANITIES,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,MA ENGLISH,I,II,MODERN ENGLISH GRAMMAR AND USAGE,MAJOR,M1ENG206T,5.0,2522242,70.0,ENGLISH,ENGLISH,gurpreet0697@gmail.com,Dr. Gurpreet Kaur,"Khalsa College, Sri Anandpur Sahib",9876665765,PG
+1,MA ENGLISH,I,II,MODERN FICTION:NINETEENTH CENTURY ONWARDS,MAJOR,M1ENG203T,5.0,2522241,70.0,ENGLISH,ENGLISH,loveleenchatha@gmail.com,Dr. Loveleen Kaur,"University College, Bathinda",9465506091,PG
+1,MSC MATHEMATICS,I,II,Mudla Ganit,QUALIFYING,MATM1208T,2.0,2522284,35.0,MATHEMATICS,MATHEMATICS,,,"Guru Nanak College, Budhlada",0,PG
+0,BCA,III,VI,MUDLA GYAN,MAJOR,BCAB3207TM,4.0,9091,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC HM,I,II,Mudla Gyan,MAJOR,PBIB103-MG-2,4.0,9054,70.0,H&M,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+0,BBA,II,IV,Mudla Gyan (Punjabi ),MAJOR,BBAU4107T,4.0,9096,70.0,COMMERCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BBA,I,II,Mudla Gyan (Punjabi),MAJOR,PBIB103-MG-2,4.0,9067,70.0,COMMERCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+0,BCA,II,IV,Mudla Gyan-IV,MAJOR,BCAB2207TM,4.0,9092,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,III,VI,MUSIC VOCAL,MAJOR,BA-332T,2.0,2561537,35.0,HUMANITIES,MUSIC,sgtbgurmatsangeet@gmail.com,Dr. Jagpinderpal Singh,"SGTB Khalsa College, Sri Anandpur Sahib",8146590396,UG
+1,BSC NM,III,VI,Nuclear and Particle Physics,MAJOR,PHYB3602T,2.0,2561398,35.0,SCIENCE,PHYSICS,amritsliet@gmail.com,Dr. Amrit Singh,"Khalsa College, Sri Anandpur Sahib",9888554344,UG
+1,BCA,I,II,Object Oriented Programming with C++,MAJOR,CSUG105T,3.0,2521266,70.0,COMPUTER,COMPUTER,rwalia1971@gmail.com,Ms. Ritu Walia,"Mata Gujri College, Sri Fatehgarh Sahib",9914022005,UG
+1,PGDCA,I,II,Operating System,MAJOR,CSM1203T,4.0,2522246,70.0,COMPUTER,COMPUTER,manpreetkaur.mgc@gmail.com,Dr. Manpreet Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",7837029900,PG
+1,MCA,I,II,Operating Systems,MAJOR,MCAM1202T,4.0,2522217,70.0,COMPUTER,COMPUTER,lalsingh.kcp@gmail.com,Dr. Lal Singh,"GSSDGS, Khalsa College, Patiala",8968083311,PG
+1,BCA,III,VI,Operating Systems,MAJOR,BCAB3203T,4.0,2561228,70.0,COMPUTER,COMPUTER,tajinderkaur.sgtbkc@gmail.com,Er. Tajinder Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",8585906005,UG
+1,BBA,II,IV,Operations management,MAJOR,BBAU4102T,4.0,2541427,70.0,COMMERCE,COMMERCE,rajbindersinghkcp@gmail.com,Dr. Rajbinder Singh,"GSSDGS, Khalsa College, Patiala",9464047512,UG
+1,MSC MATHEMATICS,II,IV,Operations Research,MAJOR,MATM2211T,4.0,2542274,70.0,MATHEMATICS,MATHEMATICS,drapsingh25@gmail.com,Dr. Amanpreet Singh,"GSSDGS, Khalsa College, Patiala",8146552039,PG
+1,MSC CHEMISTRY,I,II,Organic Chemistry-II,MAJOR,MCHE1202T,4.0,2522135,70.0,SCIENCE,CHEMISTRY,anupama.parmar1969@gmail.com,Dr. Anupama Parmar,Punjabi University Patiala,9417270250,PG
+1,MA HISTORY,II,IV,PAPER-I: HISTORY OF PUNJAB FROM 1849-1947.,MAJOR,MAHIS-401,4.0,2542113,70.0,HISTORY,HISTORY,baljinderkaur164@gmail.com,Dr. Baljinder Kaur,"GSSDGS, Khalsa College, Patiala",9915186088,PG
+1,MA HISTORY,II,IV,PAPER-II: History of India from 1772-1818.,MAJOR,MAHIS-402,4.0,2542114,70.0,HISTORY,HISTORY,kaurkiranjeet2802@gmail.com,Dr. Kiranjeet Kaur,"University College Benra, Dhuri (Sangrur)",9877113077,PG
+1,MA HISTORY,II,IV,PAPER-III: SOCIAL AND ECONOMIC HISTORY OF MODERN INDIA (1818-1947),MAJOR,MAHIS-403,4.0,2542115,70.0,HISTORY,HISTORY,kaurkiranjeet2802@gmail.com,Dr. Kiranjeet Kaur,"University College Benra, Dhuri (Sangrur)",9877113077,PG
+1,MA HISTORY,II,IV,PAPER-IV: National Movement in India and Constitutional Development 1930-1947,MAJOR,MAHIS-404,4.0,2542116,70.0,HISTORY,HISTORY,ramansandhuhistory@gmail.com,Dr. Ramandeep Kaur,"Mata Gujri College, Sri Fatehgarh Sahib",8288967717,PG
+1,BVOC FT,II,IV,Personality Development and Communication Skills,MAJOR,BVFTB2202T,4.0,2541298,70.0,FT,ENGLISH,sandeeppalg@yahoo.com,Dr. Sandeep Kaur,"Guru Nanak College, Sri Muktsar Sahib",9780030018,UG
+1,BA,III,VI,PHONETICS OF ENGLISH,MAJOR,BA-323T,4.0,2561528,70.0,HUMANITIES,ENGLISH,kuljeetkaur47@gmail.com,Dr. Kuljeet Kaur,Public College Samana,9988697756,UG
+9,BSC NM,III,VI,Physical Chemistry- IV,MAJOR,CHEB3601T,2.0,9057,35.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+1,MSC CHEMISTRY,I,II,Physical Chemistry-II,MAJOR,MCHE1203T,4.0,2522136,70.0,SCIENCE,CHEMISTRY,rahulbadru@gmail.com,Dr. Rahul Badru,"SGGS World University, Fatehgarh Sahib",7009937486,PG
+1,BSC M,III,VI,Physical Chemistry-IV,MAJOR,CHEB3601T,2.0,2561327,35.0,SCIENCE,CHEMISTRY,anupreetchem@pbi.ac.in,Dr. Anupreet Kaur,Punjabi University Patiala,9501095705,UG
+9,BSC M,III,VI,Physical Chemistry-IV,MAJOR,CHEB3601T,2.0,2561327-I,35.0,SCIENCE,CHEMISTRY,rahulbadru@gmail.com,Dr. Rahul Badru,"SGGS World University, Fatehgarh Sahib",7009937486,UG
+1,BA,III,VI,PHYSICAL EDUCATION,MAJOR,BA-327T,3.0,2561532,80.0,HUMANITIES,PHYSICAL EDUCATION,nishanchauhan@ymail.com,Dr. Nishan Singh,"Multani Mal Modi College, Patiala",9501024375,UG
+1,BSC M,III,VI,Plant Ecology,MAJOR,BOTB3201T,2.0,2561325,35.0,SCIENCE,ZOOLOGY & BOTANY,harwinderbfgi@gmail.com,Dr. Harwinder Kaur,Baba Farid College Deon,9464848979,UG
+1,BSC M,III,VI,Plant Utilization,MAJOR,BOTB3202T,2.0,2561326,35.0,SCIENCE,ZOOLOGY & BOTANY,harwinderbfgi@gmail.com,Dr. Harwinder Kaur,Baba Farid College Deon,9464848979,UG
+1,MA ENGLISH,I,II,POETRY FROM NEOCLASSICAL TO VICTORIAN AGE,MAJOR,M1ENG202T,5.0,2522240,70.0,ENGLISH,ENGLISH,roublebrar@yahoo.co.in,Dr. Rouble Brar,"GSSDGS, Khalsa College, Patiala",9815370011,PG
+1,MA POL SCI,II,IV,POLITICAL IDEOLOGIES,MAJOR,POLM22401T,5.0,2542117,70.0,POL SCI,POLITICAL SCIENCE,harmansaangha123@gmail.com,Dr. Harmanpreet Singh,"GSSDGS, Khalsa College, Patiala",9592437937,PG
+1,MSC CHEMISTRY,II,IV,Polymers and Surface Chemistry,MAJOR,CHEM2414T,4.0,2542141,70.0,SCIENCE,CHEMISTRY,ratansingh10@gmail.com,Dr. Ratan Pal Singh Randhawa,"GSSDGS, Khalsa College, Patiala",9888892434,PG
+9,BVOC CS,I,II,Programming Using C++,MAJOR,CSUG105T,3.0,9008,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,MCA,I,II,Programming with Java,MAJOR,MCAM1204T,4.0,2522219,70.0,COMPUTER,COMPUTER,ipkaur03@gmail.com,Dr. Inderpreet Kaur,"Mata Sahib Kaur Girls College, Talwandi Sabo",9803333030,PG
+1,PGDCA,I,II,Programming with Python,MAJOR,CSM1202T,4.0,2522245,70.0,COMPUTER,COMPUTER,gurdhian1912@gmail.com,Dr. Gurdhian Singh,Public College Samana,9988842833,PG
+1,BBA,II,IV,Punajbi Compulsary,MAJOR,BBAU4106T,4.0,2541429,70.0,COMMERCE,PUNJABI,gargdeepak100818@gmail.com,Dr. Deepak Kumar,"Multani Mal Modi College, Patiala",9517244006,UG
+1,MA POL SCI,II,IV,PUNJAB POLITICS,MAJOR,POLM22402T,5.0,2542118,70.0,POL SCI,POLITICAL SCIENCE,dr.satnamsinghrehal@gmail.com,Dr. Satnam Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9814188794,PG
+1,BSC M,II,IV,Punjabi -Compulsory,MAJOR,PBIBSCMP2201-T,4.0,2541339,70.0,SCIENCE,PUNJABI,mandeepphd@gmail.com,Dr. Mandeep Kaur,"Miri Piri Khalsa College, Bhadaur",9417739854,UG
+0,BVOC GD,II,IV,Punjabi Compulsary,MAJOR,BVGDB2208T,4.0,9016,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC FT,II,IV,Punjabi Compulsary,MAJOR,BVFTB2208T,4.0,9094,70.0,FT,PUNJABI,bhullaramritpal315@gmail.com,Dr. Amritpal Kaur,"Guru Nanak College, Sri Muktsar Sahib",7087575703,UG
+1,BVOC FT,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,2521324,70.0,FT,PUNJABI,gurwanttera1980@gmail.com,Dr. Gurwant Singh,"DAV College, Batala",9855364488,UG
+1,BBA,I,II,Punjabi compulsory,MAJOR,PBIBBA802,4.0,2521417,70.0,COMMERCE,PUNJABI,baldeepkaur704@gmail.com,Dr. Baldeep Kaur,"Govt. Mohindra College, Patiala",9988332093,UG
+1,BCOM HONS,II,IV,Punjabi Compulsory,MAJOR,PBIBCOMCMP2201-T,4.0,2541193,70.0,COMMERCE,PUNJABI,sarbsidhu39@yahoo.in,Dr. Sarbjeet Singh,"GSSDGS, Khalsa College, Patiala",9417626925,UG
+9,BVOC CS,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,9011,70.0,COMPUTER,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC PERFORMING ARTS,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,9003,70.0,MUSIC,MUSIC,,,"Guru Nanak College, Budhlada",0,UG
+9,BCOM HONS,III,VI,PUNJABI COMPULSORY,MAJOR,BCHU3605T,4.0,7568,70.0,COMMERCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,II,IV,Punjabi Compulsory,MAJOR,PBIBSCMP2201-T,4.0,9045,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,Punjabi Compulsory,MAJOR,PBIBSC-901,4.0,9052,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BCOM,III,VI,Punjabi Compulsory,MAJOR,BCOU3601T,4.0,2561176,70.0,COMMERCE,PUNJABI,bhullaramritpal315@gmail.com,Dr. Amritpal Kaur,"Guru Nanak College, Sri Muktsar Sahib",7087575703,UG
+1,BSC M,I,II,Punjabi Compulsory,MAJOR,PBIBSC-901,4.0,2521360,70.0,SCIENCE,PUNJABI,bhullaramritpal315@gmail.com,Dr. Amritpal Kaur,"Guru Nanak College, Sri Muktsar Sahib",7087575703,UG
+1,BCA,III,VI,Punjabi Compulsory,MAJOR,BCAB3207T,4.0,2561230,70.0,COMPUTER,PUNJABI,iqbalsomian@gmail.com,Dr. Iqbal Singh,Public College Samana,9501205169,UG
+1,MA ENGLISH,I,II,PUNJABI COMPULSORY,QUALIFYING,M1ENGPCQ,4.0,2522243,100.0,ENGLISH,PUNJABI,gurdeepsingh478@yahoo.com,Dr. Gurdeep Singh,"Guru Nanak College, Budhlada",6280477383,PG
+9,BVOC HM,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,9055,70.0,H&M,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BCOM HONS,I,II,Punjabi Compulsory,MAJOR,PBIBCOM702,4.0,2521175,70.0,COMMERCE,PUNJABI,sskahlon86@gmail.com,Dr. Sukhwinder Singh,"SGTB Khalsa College, Sri Anandpur Sahib",9592418152,UG
+9,BVOC SD,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,9063,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC GD,I,II,Punjabi Compulsory,MAJOR,PBIBVOC-502,4.0,9030,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BCA,II,IV,Punjabi Compulsory –IV,MAJOR,BCAB2207T,4.0,2541236,70.0,COMPUTER,PUNJABI,iqbalsomian@gmail.com,Dr. Iqbal Singh,Public College Samana,9501205169,UG
+9,BCA,I,II,Punjabi Compulsory (Mudla Gyan-II),MAJOR,PBIB103-MG-2,4.0,9020,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BCA,I,II,Punjabi Compulsory-II,MAJOR,PBIBCA-602,4.0,2521270,70.0,COMPUTER,PUNJABI,baldeepkaur704@gmail.com,Dr. Baldeep Kaur,"Govt. Mohindra College, Patiala",9988332093,UG
+1,MSC FT,I,II,Punjabi Compulsory(ਸਮਾਜ ਵਿਚ ਫੈਸ਼ਨ ਅਤੇ ਪੋਸ਼ਾਕ ਦਾ ਮਹੱਤਵ),QUALIFYING,MFT1201T,3.0,2522292,70.0,FT,PUNJABI,bvocft2021@gmail.com,Ms. Neelam Rani,"Guru Nanak College, Budhlada",9417027205,PG
+9,BVOC PERFORMING ARTS,I,II,Punjabi Mudla Gyan,MAJOR,PBIB103-MG-2,4.0,9002,70.0,MUSIC,MUSIC,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,Punjabi Mudla Gyan,MAJOR,PBIB203-MG,4.0,2521479,70.0,HUMANITIES,PUNJABI,grewaljatinder76@gmail.com,Dr. Jatinder Kaur,"Guru Nanak College, Budhlada",9216208006,UG
+1,BSC M,II,IV,Punjabi mudla Gyan,MAJOR,PBIBSCMG2201-T,4.0,2541338,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,II,IV,Punjabi Mudla Gyan,MAJOR,PBIBSCMG2201-T,4.0,9044,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BVOC GD,I,II,Punjabi Mudla Gyan/Elementary Punjabi,MAJOR,PBIB103-MG-2,4.0,9029,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+0,MSC FT,I,II,Punjabi Mudla Gyan/Elementary Punjabi,QUALIFYING,MFT1201TM,0.0,9093,70.0,FT,PUNJABI,,,"Guru Nanak College, Budhlada",0,PG
+9,BVOC SD,I,II,Punjabi Mudlagyan / Elementary Punjabi-I,MAJOR,PBIB103-MG-2,4.0,9062,70.0,COMPUTER,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BSC M,III,VI,Punjabi: Mudla Gyan,MAJOR,PBIBSCMG3201T,4.0,2561329,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,I,II,Punjabi: Mudla Gyan,MAJOR,PBIB203-MG,4.0,9042,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,Punjabi: Mudla Gyan,MAJOR,PBIB203-MG,4.0,8003,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,III,VI,Punjabi: Mudla Gyan,MAJOR,PBIBSCMG3201T,4.0,9058,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BSC M,III,VI,Punjabi:Compulsory,MAJOR,PBIBSCMP3201T,4.0,2561330,70.0,SCIENCE,PUNJABI,gurwanttera1980@gmail.com,Dr. Gurwant Singh,"DAV College, Batala",9855364488,UG
+9,BSC NM,III,VI,Punjabi:Compulsory,MAJOR,PBIBSCMP3201T,4.0,9059,70.0,SCIENCE,PUNJABI,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC CS,II,IV,Python,MAJOR,BCSB2204T,4.0,2541224,70.0,COMPUTER,COMPUTER,gurdhian1912@gmail.com,Dr. Gurdhian Singh,Public College Samana,9988842833,UG
+1,BVOC SD,II,IV,Python Language,MAJOR,BSDB2201T,4.0,2541387,70.0,COMPUTER,COMPUTER,gurdhian1912@gmail.com,Dr. Gurdhian Singh,Public College Samana,9988842833,UG
+1,BCA,III,VI,Python Programming,MAJOR,BCAB3204T,4.0,2561229,70.0,COMPUTER,COMPUTER,deepamehta.official@gmail.com,Dr. Deepa,"Chaudhary Devi Lal University, Sirsa, Haryana",9416245104,UG
+1,BVOC FP,II,IV,Quality control and regulations,MAJOR,FDPB2204T,3.0,2541344,74.0,FP,FP,simirock@rediffmail.com,Dr. Simran Jot Kaur,"SGGS World University, Fatehgarh Sahib",9896647456,UG
+1,M.Sc. (Fashion Technology),II,IV,Quality Control Process,MAJOR,FTM2201T,-,2542891,-,FT,FT,seemajindal85@gmail.com,Dr. Seema Rani,"Guru Nanak College, Sri Muktsar Sahib",9465170669,PG
+1,BA,III,VI,Quantitative Methods,MAJOR,BA-333T,4.0,2561538,70.0,HUMANITIES,ECONOMICS,drshaveta.aps@gmail.com,Dr. Shaveta Kaushal,"Khalsa College, Sri Anandpur Sahib",7018280547,UG
+1,MSC PHYSICS,I,II,Quantum Mechanics,MAJOR,MPHY1203T,4.0,2522124,60.0,SCIENCE,PHYSICS,amritsliet@gmail.com,Dr. Amrit Singh,"Khalsa College, Sri Anandpur Sahib",9888554344,PG
+1,MA MUSIC,II,IV,RAAG AND TAAL: THEIR PHYSICS AND AESTHETICS,MAJOR,MUVM2402T,5.0,2542122,70.0,MUSIC,MUSIC,music@sggswu.edu.in,Dr. Harpreet Singh,"SGGS World University, Fatehgarh Sahib",9878897313,PG
+1,MSC PHYSICS,II,IV,Radiation Physics,MAJOR,PHYM2404T,4.0,2542161,60.0,SCIENCE,PHYSICS,anitagnc2020@gmail.com,Dr. Anita Rani,"Guru Nanak College, Sri Muktsar Sahib",8968465114,PG
+1,MCA,I,II,Relational Database Management System,MAJOR,MCAM1203T,4.0,2522218,70.0,COMPUTER,COMPUTER,kkamaldeep11@gmail.com,Dr. Kamaldeep Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9463777725,PG
+1,BCA,II,IV,Relational Database Management Systems,MAJOR,BCAB2204T,4.0,2541235,70.0,COMPUTER,COMPUTER,kkamaldeep11@gmail.com,Dr. Kamaldeep Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9463777725,UG
+1,MA POL SCI,II,IV,RESEARCH METHODOLOGY,MAJOR,POLM22410T,5.0,2542120,70.0,POL SCI,POLITICAL SCIENCE,sehgal.sheveta27@gmail.com,Dr. Sheveta,"Mata Gujri College, Sri Fatehgarh Sahib",9915440377,PG
+1,M.Sc. (Fashion Technology),II,IV,Research Methodology,MAJOR,FTM2203T,-,2542893,-,FT,FT,harpreetinsa011@gmail.com,Dr. Harpreet Kaur,"S.D. College, Mansa",7087507091,PG
+1,MLIB,I,II,Research Methodology in Library and Information Science,MAJOR,MLIS08,4.0,2522182,70.0,LIBRARY SCIENCE,LIBRARY,baljinderpup@gmail.com,Dr. Baljinder Kaur,Punjabi University Patiala,9855403414,PG
+1,BLIB,I,II,School Library System,MAJOR,BLIS10,4.0,2521350,70.0,LIBRARY SCIENCE,LIBRARY,avtarnangla69@gmail.com,Dr. Avtar Singh,Khokhar,9517588808,UG
+1,MA MUSIC,I,II,Scientific & Acoustical Study of Hindustani Music(Vocal),MAJOR,MAMUV1201T,5.0,2522110,70.0,MUSIC,MUSIC,drgaurikhanna@gmail.com,Dr. Gauri Khanna,"GSSDGS, Khalsa College, Patiala",9501522640,PG
+1,BVOC PERFORMING ARTS,I,II,Scientific Study of  Indian Theatre,MAJOR,BVPA1204,4.0,2521154,70.0,MUSIC,MUSIC,sgtbgurmatsangeet@gmail.com,Dr. Jagpinderpal Singh,"SGTB Khalsa College, Sri Anandpur Sahib",8146590396,UG
+1,BVOC PERFORMING ARTS,I,II,Scientific Study of Indian Dance,MAJOR,BVPA1203,4.0,2521153,70.0,MUSIC,MUSIC,kulwinder.24471@lpu.co.in,Dr. Kulwinder Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9915144118,UG
+1,BVOC PERFORMING ARTS,I,II,Scientific Study of Indian Music,MAJOR,BVPA1202,4.0,2521152,70.0,MUSIC,MUSIC,drgaurikhanna@gmail.com,Dr. Gauri Khanna,"GSSDGS, Khalsa College, Patiala",9501522640,UG
+1,BCOM HONS,I,II,SEC E-Commerce,SEC,BC205,3.0,2521172,70.0,COMMERCE,COMMERCE,lukeshmittal96@gmail.com,Mr. Lukesh Mittal,"Guru Nanak College, Budhlada",9501329422,UG
+9,BSC NM,I,II,SEC-Chemistry of Drugs,SEC,BCHE1206T,3.0,9048,70.0,SCIENCE,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+1,BSC M,I,II,SEC-Chemistry of Drugs,SEC,BCHE1206T,3.0,2521354,70.0,SCIENCE,CHEMISTRY,babaljawanda@gmail.com,Dr. Babaldeep Kaur,"Guru Nanak College, Budhlada",9876152110,UG
+1,BA,I,II,SEC-Data Analytics – II,SEC,BASEECO1247T,3.0,2521462,70.0,HUMANITIES,ECONOMICS,jagdeepsinghwalia@gmail.com,Dr. Jagdeep Singh,"Guru Nanak College, Budhlada",7009575693,UG
+1,BA,I,II,SEC-Effective Teaching,SEC,BASEEDU1263,3.0,2521463,70.0,HUMANITIES,ENGLISH,baljinderdhaliwal072@gmail.com,Dr. Baljinder Kaur,"Guru Nanak College, Budhlada",9872938407,UG
+1,BA,I,II,SEC-Gym Training and Management,SEC,BASEPHY1244T,2.0,2521465,50.0,HUMANITIES,PHYSICAL EDUCATION,gncsportsbudhlada@gmail.com,Dr. Gurpreet Kaur,"Guru Nanak College, Budhlada",8699734951,UG
+1,BA,I,II,SEC-Katha : Shri Guru Granth Sahib,SEC,BASEREL1240T,3.0,2521467,70.0,HUMANITIES,RELIGION,sajanmutneja33@gmail.com,Dr. Sajan,"Guru Nanak College, Budhlada",7837245089,UG
+1,BA,II,IV,SEC-Katha: Sri Guru Granth Sahib-II,SEC,RELB2412T,3.0,7585,70.0,HUMANITIES,RELIGION,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,SEC-Numerical Analysis,SEC,MATSEC1228T,2.0,2521475,35.0,HUMANITIES,MATHEMATICS,parveensharma3434@gmail.com,Ms. Parveen Kaur,"Guru Nanak College, Budhlada",8699420377,UG
+1,BA,I,II,SEC-Oral History Importance and Relevance,SEC,BAHIS1223T,3.0,2521421,70.0,HUMANITIES,HISTORY,rupindermansa38@gmail.com,Ms. Rupinder Kaur,"Guru Nanak College, Budhlada",6283302763,UG
+1,BA,I,II,SEC-Political Journalism,SEC,BASEPOL1270,4.0,8545,70.0,HUMANITIES,POLITICAL SCIENCE,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,SEC-Presentation using powerpoint,SEC,CSUGS1211T,3.0,2521472,70.0,HUMANITIES,COMPUTER,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,SEC-Understanding Social Relationships,SEC,BASESOC1255T,3.0,2521468,70.0,HUMANITIES,SOCIOLOGY,,,"Guru Nanak College, Budhlada",0,UG
+1,BA,I,II,SEC-प्रयोजनमूलक हिन्दी,SEC,BASEHIN1227T,3.0,2521464,70.0,HUMANITIES,HINDI,sandhugurjeet0028@gmail.com,Dr. Gurjeet Kaur,"Guru Nanak College, Budhlada",9814699686,UG
+1,BA,I,II,SEC-ਪੰਜਾਬੀ ਪਟਕਥਾ ਲੇਖਣ,SEC,PBIBSEC205-2,3.0,2521481,50.0,HUMANITIES,PUNJABI,gurwindersidhu246@gmail.com,Mr. Gurwinder Singh,"Guru Nanak College, Budhlada",9463012609,UG
+1,GREEN HOUSE TECHNOLOGY,I,II,Seed Analysis Incharge-I,MAJOR,DGHT214,4.0,252212,70.0,AGRICULTURE,AGRICULTURE,sarvan.khokhar@gmail.com,Dr. Sarvan Khokhar,"Khalsa College, Sri Anandpur Sahib",9996296777,DIPLOMA
+1,GREEN HOUSE TECHNOLOGY,I,II,Seed Analysis Incharge-II,MAJOR,DGHT215,4.0,252213,70.0,AGRICULTURE,AGRICULTURE,sarvan.khokhar@gmail.com,Dr. Sarvan Khokhar,"Khalsa College, Sri Anandpur Sahib",9996296777,DIPLOMA
+1,M.Sc. FP,I,II,Snacks and Beverage Technology,MAJOR,MSFPT203,-,2522549,70.0,FP,FP,monikajoon1996@gmail.com,Dr. Monika,"MRSPTU, Bathinda",9588549983,PG
+1,BA,III,VI,Social Science Research Methods,MAJOR,BA-335T,4.0,2561540,70.0,HUMANITIES,SOCIOLOGY,amansran602@gmail.com,Ms. Amandeep Kaur,GNC Ferozpur,8427121521,UG
+1,BVOC CS,II,IV,Software Engineering,MAJOR,BCSB2201TA,4.0,2541221,70.0,COMPUTER,COMPUTER,dkcpmanveenkaur@gmail.com,Dr. Manveen Kaur,"Dasmesh Khalsa College, Zirakpur",8427754303,UG
+1,BCA,III,VI,Software Engineering,MAJOR,BCAB3202T,4.0,2561227,70.0,COMPUTER,COMPUTER,drsurender.sgtb@gmail.com,Dr. Surender Kumar,"SGTB Khalsa College, Sri Anandpur Sahib",9878697406,UG
+1,MCA,I,II,Software Project Management,MAJOR,MCAM1205E5,4.0,2522220,70.0,COMPUTER,COMPUTER,hkminhas@outlook.com,Dr. Harpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9888639333,PG
+1,BVOC CS,II,IV,Software Testing Concepts and Tools,MAJOR,BCSB2203T,4.0,2541223,70.0,COMPUTER,COMPUTER,hkminhas@outlook.com,Dr. Harpreet Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",9888639333,UG
+1,MSC PHYSICS,I,II,Statistical Mechanics,MAJOR,MPHY1204T,4.0,2522125,60.0,SCIENCE,PHYSICS,singhrajpal7@gmail.com,Dr. Rajpal Singh,"Govt. Rajindra College, Bathinda",6239296565,PG
+1,BVOC GD,I,II,Study of Fashion,MAJOR,BVGDB1202T,5.0,9024,70.0,FT,FT,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC SD,I,II,System Analysis and Design,MAJOR,BVSD1201T,4.0,2521399,70.0,COMPUTER,COMPUTER,tajinderkaur.sgtbkc@gmail.com,Er. Tajinder Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",8585906005,UG
+1,M.Sc. FP,I,II,Technology of Fruits and Vegetables,MAJOR,MSFPT201,-,2522547,70.0,FP,FP,meetkarman009@gmail.com,Dr. Harmeet Singh,"SGGS World University, Fatehgarh Sahib",9592707304,PG
+1,BVOC FT,I,II,Textile Science -II,MAJOR,BVFTB1204T,5.0,2521320,70.0,FT,FT,kaur.veerpal1684@gmail.com,Dr. Veerpal Kaur,"Govt. Girls College, Pilibanga",9877297920,UG
+1,MSC FT,I,II,Textile Study-II,MAJOR,MFT1202T,4.0,2522294,70.0,FT,FT,veenumodicollege@gmail.com,Dr. Veenu Jain,"Multani Mal Modi College, Patiala",9988300930,PG
+1,MA HISTORY,I,II,Theory and Research Methodology,MAJOR,MAHIS-204,4.0,2522104,70.0,HISTORY,HISTORY,jkkhalsa1211@gmail.com,Dr. Jaswinder Kaur,"Sri Guru Teg Bahadur Khalsa College for Girls, Aakar, Patiala",9501017217,PG
+1,MSC MATHEMATICS,II,IV,Theory of Linear Operators,MAJOR,MATM2202T,4.0,2542271,70.0,MATHEMATICS,MATHEMATICS,sood.darpan@gmail.com,Dr. Darpan Sood,"SGTB Khalsa College, Sri Anandpur Sahib",9417351109,PG
+1,MSC MATHEMATICS,I,II,Topology-II,MAJOR,MATM1202T,4.0,2522280,70.0,MATHEMATICS,MATHEMATICS,drchetna.modicollege@gmail.com,Dr. Chetna Sharma,"Multani Mal Modi College, Patiala",9501277088,PG
+1,MA ENGLISH,II,IV,TRANSLATION AND MODERN INDIAN LITERATURE,MAJOR,ENGM2202T,5.0,2542201,70.0,ENGLISH,ENGLISH,loveleenchatha@gmail.com,Dr. Loveleen Kaur,"University College, Bathinda",9465506091,PG
+9,BA,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,8019,35.0,HUMANITIES,CHEMISTRY,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,9051,35.0,SCIENCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,2521358-ii,35.0,SCIENCE,CHEMISTRY,bhawnarani807@gmail.com,Ms. Bhawna,"Guru Nanak College, Budhlada",7973510218,UG
+9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,2521358-i,35.0,SCIENCE,CHEMISTRY,akmanshahia@gmail.com,Ms. Amninder Kaur,"Guru Nanak College, Budhlada",9463204647,UG
+9,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,2521358-iii,35.0,SCIENCE,CHEMISTRY,beerpalkaurgurthari@gmail.com,Ms. Beerpal Kaur,"Guru Nanak College, Budhlada",9779920395,UG
+1,BSC M,I,II,"VAC-Drug abuse: Problem, Management and Prevention",VAC,DAUGC1201T,2.0,2521358,35.0,SCIENCE,CHEMISTRY,kaurbhupinder21773@gmail.com,Ms. Bhupinder Kaur,"Guru Nanak College, Budhlada",9781055935,UG
+9,BCOM HONS,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2.0,9006,35.0,COMMERCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC M,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2.0,9039,35.0,SCIENCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+9,BSC NM,II,IV,VAC-Indian Knowledge System,VAC,VAC2401T,2.0,9046,35.0,SCIENCE,PUBLIC ADMINISTRATION,,,"Guru Nanak College, Budhlada",0,UG
+1,BVOC SD,II,IV,Web Development Using PHP and  MYSQL,MAJOR,BSDB2202T,4.0,2541388,70.0,COMPUTER,COMPUTER,kaurvirk2218@gmail.com,Dr. Rajwinder Kaur,"SGTB Khalsa College, Sri Anandpur Sahib",7814627020,UG
+1,MA POL SCI,I,II,WESTERN POLITICAL THOUGHT- II,MAJOR,MPOL1203,5.0,2522107,70.0,POL SCI,POLITICAL SCIENCE,dr.satnamsinghrehal@gmail.com,Dr. Satnam Singh,"Mata Gujri College, Sri Fatehgarh Sahib",9814188794,PG
+1,MSC CHEMISTRY,II,IV,X-Ray Diffraction and other Techniques,MAJOR,CHEM2412T,4.0,2542139,70.0,SCIENCE,CHEMISTRY,anupreetchem@pbi.ac.in,Dr. Anupreet Kaur,Punjabi University Patiala,9501095705,PG
+1,MA HINDI,II,IV,तुलसीदास (विशेष अध्ययन),MAJOR,HINM2PUP-T-404,4.0,2542313,70.0,HINDI,HINDI,kaurgagandeep4720@gmail.com,Dr. Gagandeep Kaur,"Govt. Mohindra College, Patiala",9478238728,PG
+1,MA HINDI,II,IV,लोक साहित्य : सैद्धांतिक अध्ययन,MAJOR,HINM2PUP-T-406,4.0,2542314,70.0,HINDI,HINDI,davindersolanki23@gmail.com,Dr. Davinder Kaur,"Govt. Mohindra College, Patiala",8054999423,PG
+1,BA,III,VI,हिन्दी साहित्य  (विकल्प-1),MAJOR,HINBA3PUP-111,4.0,2561543,70.0,HUMANITIES,HINDI,rupindersharma09@gmail.com,Dr. Rupinder Sharma,"Multani Mal Modi College, Patiala",9872694866,UG
+9,BA,III,VI,हिन्दी साहित्य और पत्रकारिता (विकल्प -II),MAJOR,HINBA3PUP-112,4.0,7598,70.0,HUMANITIES,HINDI,,,"Guru Nanak College, Budhlada",0,UG
+1,MA PUNJABI,I,II,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਕਾਵਿ-2 (ਆਪਸ਼ਨ ਪਹਿਲੀ),MAJOR,PBIM403T,5.0,2522131,70.0,PUNJABI,PUNJABI,davinder.pu@gmail.com,Dr. Davinder Singh Saini,"GSSDGS, Khalsa College, Patiala",9417460909,PG
+1,MA PUNJABI,I,II,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਗਲਪ-2 ( ਆਪਸ਼ਨ ਦੂਜੀ )-ਕਹਾਣੀ,MAJOR,PBIM406T,5.0,2522132,70.0,PUNJABI,PUNJABI,gargdeepak100818@gmail.com,Dr. Deepak Kumar,"Multani Mal Modi College, Patiala",9517244006,PG
+1,MA PUNJABI,II,IV,ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਵਾਰਤਕ (ਆਪਸ਼ਨ-i ),MAJOR,PBIM2205,5.0,2542198,70.0,PUNJABI,PUNJABI,gurwanttera1980@gmail.com,Dr. Gurwant Singh,"DAV College, Batala",9855364488,PG
+1,MA PUNJABI,I,II,ਸਾਹਿਤ ਆਲੋਚਨਾ ਦਾ ਸਿਧਾਂਤ-2 (ਪੱਛਮੀ ਸਾਹਿਤ ਸਿਧਾਂਤ ਅਤੇ ਪੰਜਾਬੀ ਆਲੋਚਨਾ),MAJOR,PBIM402T,5.0,2522130,70.0,PUNJABI,PUNJABI,amanpreetgillgnc@gmail.com,Dr. Amanpreet Gill,"Guru Nanak College, Sri Muktsar Sahib",9876500995,PG
+1,BA,III,VI,"ਸਿੱਖ ਧਰਮ, ਸਿਧਾਂਤ ਤੇ ਸੰਸਥਾਵਾਂ",MAJOR,BA-329T,4.0,2561534,70.0,HUMANITIES,RELIGION,paramaps2781@gmail.com,Dr. Paramjit Kaur,"Sri Guru Teg Bahadur Khalsa College, Sri Anandpur Sahib",8146526775,UG
+1,MA PUNJABI,II,IV,ਕਿੱਸਾ ਕਾਵਿ (ਆਪਸ਼ਨ - i),MAJOR,PBIM2207,5.0,2542199,70.0,PUNJABI,PUNJABI,harmandeepk786@gmail.com,Dr. Harmandeep Kaur,"Guru Gobind Singh Khalsa College, Bhagta Bhai Ke",7009702128,PG
+1,MA PUNJABI,II,IV,ਗੁਰਮਤਿ ਕਾਵਿ-2 (ਭਗਤ ਬਾਣੀ ਅਧਿਐਨ) (ਆਪਸ਼ਨ-i ),MAJOR,PBIM2203,5.0,2542197,70.0,PUNJABI,PUNJABI,sskahlon86@gmail.com,Dr. Sukhwinder Singh,"SGTB Khalsa College, Sri Anandpur Sahib",9592418152,PG
+1,MA MUSIC,I,II,ਪੰਜਾਬ ਦੀ ਬਹੁਭਾਂਤੀ ਸੰਗੀਤ ਪਰੰਪਰਾ,QUALIFYING,MAMUV1205Q,4.0,2522112,70.0,MUSIC,MUSIC,manpreetgill1975@gmail.com,Dr. Manpreet Singh,"Guru Nanak College, Budhlada",9815159084,PG
+1,BA,III,VI,ਪੰਜਾਬੀ ਐਲੀਮੈਟਰੀ /ਮੁਢਲਾ ਗਿਆਨ,MAJOR,BA-326T,4.0,2561531,70.0,HUMANITIES,PUNJABI,beerpalkaurgurthari@gmail.com,Ms. Beerpal Kaur,"Guru Nanak College, Budhlada",9779920395,UG
+1,BA,III,VI,ਪੰਜਾਬੀ ਸਾਹਿਤ,MAJOR,BA-325T,4.0,2561530,70.0,HUMANITIES,PUNJABI,baldeepkaur704@gmail.com,Dr. Baldeep Kaur,"Govt. Mohindra College, Patiala",9988332093,UG
+1,MA PUNJABI,I,II,ਪੰਜਾਬੀ ਸਾਹਿਤ ਦਾ ਇਤਿਹਾਸ-2,MAJOR,PBIM401T,5.0,2522129,70.0,PUNJABI,PUNJABI,sskahlon86@gmail.com,Dr. Sukhwinder Singh,"SGTB Khalsa College, Sri Anandpur Sahib",9592418152,PG
+1,MA PUNJABI,I,II,ਪੰਜਾਬੀ ਨਾਟਕ-2 (ਆਪਸ਼ਨ ਪਹਿਲੀ),MAJOR,PBIM407T,5.0,2522133,70.0,PUNJABI,PUNJABI,harmandeepk786@gmail.com,Dr. Harmandeep Kaur,"Guru Gobind Singh Khalsa College, Bhagta Bhai Ke",7009702128,PG
+1,BA,II,IV,ਪੰਜਾਬੀ ਮੁੱਢਲਾ ਗਿਆਨ,MAJOR,PBIBMDCMG2201T,4.0,2541508,70.0,HUMANITIES,PUNJABI,jatandeep443@gmail.com,Ms. Kuldeep Kaur,"Guru Nanak College, Budhlada",8699474182,UG
+9,BA,II,IV,ਪੰਜਾਬੀ ਮੁੱਢਲਾ ਗਿਆਨ,MAJOR,PBIBMDCMG2201T,4.0,2541508-I,70.0,HUMANITIES,PUNJABI,rupinderkaur2022@gmail.com,Ms. Rupinder Kaur,"Guru Nanak College, Budhlada",9728768095,UG
+1,BA,III,VI,ਪੰਜਾਬੀ ਲਾਜਮੀ,MAJOR,BA-324T,4.0,2561529,70.0,HUMANITIES,PUNJABI,amanpreetgillgnc@gmail.com,Dr. Amanpreet Gill,"Guru Nanak College, Sri Muktsar Sahib",9876500995,UG
+1,BA,I,II,ਪੰਜਾਬੀ ਲਾਜ਼ਮੀ,MAJOR,PBIB203-2,4.0,2521478,70.0,HUMANITIES,PUNJABI,sarbsidhu39@yahoo.in,Dr. Sarbjeet Singh,"GSSDGS, Khalsa College, Patiala",9417626925,UG
+1,BA,II,IV,ਪੰਜਾਬੀ ਲਾਜਮੀ,MAJOR,PBIBMDCMP2201T,4.0,2541509,70.0,HUMANITIES,PUNJABI,davinder.pu@gmail.com,Dr. Davinder Singh Saini,"GSSDGS, Khalsa College, Patiala",9417460909,UG
+1,MA PUNJABI,II,IV,ਭਾਸ਼ਾ ਵਿਗਿਆਨ ਅਤੇ ਪੰਜਾਬੀ ਭਾਸ਼ਾ-2,MAJOR,PBIM2201,5.0,2542195,70.0,PUNJABI,PUNJABI,dhaliwalveerpal0007@gmail.com,Dr. Veerpal Kaur,"Multani Mal Modi College, Patiala",9465143209,PG
+1,MA PUNJABI,II,IV,ਲੋਕਧਾਰਾ ਤੇ ਪੰਜਾਬੀ ਲੋਕਧਾਰਾ,MAJOR,PBIM2202,5.0,2542196,70.0,PUNJABI,PUNJABI,sarbsidhu39@yahoo.in,Dr. Sarbjeet Singh,"GSSDGS, Khalsa College, Patiala",9417626925,PG
+1,MCOM,I,II,ਵਪਾਰਕ ਪੰਜਾਬੀ,QUALIFYING,MC208,3.0,8581,0.0,COMMERCE,COMMERCE,jatandeep443@gmail.com,Ms. Kuldeep Kaur,"Guru Nanak College, Budhlada",8699474182,PG
+1,MSC PHYSICS,I,II,ਵਿਕਾਸਸ਼ੀਲ ਬ੍ਰਹਿਮੰਡ,QUALIFYING,MPHY1205T,0.0,2522126,70.0,SCIENCE,PHYSICS,rishikumar.phd@gmail.com,Dr. Rishi Kumar,"Guru Nanak College, Budhlada",9464192801,PG
