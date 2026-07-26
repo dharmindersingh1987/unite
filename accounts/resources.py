@@ -1,5 +1,5 @@
 from import_export import resources
-from .models import BankDetails, PacketUser, ExamForm
+from .models import BankDetails, PacketUser, ExamForm, SubListEven202526
 
 class PacketUserResource(resources.ModelResource):
     class Meta:
@@ -18,3 +18,27 @@ class BankDetailsResource(resources.ModelResource):
         model = BankDetails
         import_id_fields = ('email',)
         fields = ('name', 'email', 'cont', 'bank', 'acc', 'ifsc', 'inst', 'remarks')
+
+class SubListEven202526Resource(resources.ModelResource):
+    class Meta:
+        model = SubListEven202526
+        import_id_fields = ('e_identity',)
+        fields = (
+            "select",
+            "course",
+            "year",
+            "sem",
+            "paper_name",
+            "type",
+            "paper_code",
+            "credits",
+            "e_identity",
+            "maximum_marks",
+            "dept",
+            "dept_main",
+            "e_email",
+            "e_name",
+            "e_institute",
+            "e_contact",
+            "level",
+        )

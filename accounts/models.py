@@ -62,3 +62,23 @@ class BankDetails(models.Model):
     def __str__(self):
         return self.name
     
+class SubListEven202526(models.Model):
+    select = models.IntegerField()
+    course = models.CharField(max_length=255)
+    year = models.CharField(max_length=255)
+    sem = models.CharField(max_length=255)
+    paper_name = models.CharField(max_length=255)
+    type = models.CharField(max_length=255)
+    paper_code = models.CharField(max_length=255)
+    credits = models.CharField(max_length=255)
+    e_identity = models.CharField(max_length=255)
+    maximum_marks = models.CharField(max_length=255)
+    dept = models.CharField(max_length=255)
+    dept_main = models.CharField(max_length=255)
+    e_email = models.CharField(max_length=255)
+    e_name = models.CharField(max_length=255)   
+    e_institute = models.CharField(max_length=255)
+    e_contact = models.CharField(max_length=255)
+    level = models.CharField(max_length=255)
+    
+    

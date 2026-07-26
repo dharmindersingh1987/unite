@@ -5,12 +5,11 @@ from import_export.admin import ImportExportModelAdmin
 
 
 
-from .models import PacketUser
-from .models import ExamForm
-from .models import BankDetails
+from .models import PacketUser, ExamForm, BankDetails, SubListEven202526
+
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource, ExamFormResource, BankDetailsResource
+from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource
 
 
 @admin.register(PacketUser)
@@ -164,6 +163,42 @@ class BankDetailsAdmin(ImportExportModelAdmin):
     #     'ifsc',
     #     'inst',
     #     'remarks'
+    # )
+
+    list_per_page = 50
+    
+
+@admin.register(SubListEven202526)
+class SubListEven202526Admin(ImportExportModelAdmin):
+    resource_classes = [SubListEven202526Resource]
+    list_display = (
+        'e_identity',
+        'course',
+        'year',
+        'sem',
+        'paper_name',
+        'type',
+        'paper_code',
+    )
+    
+    search_fields = (
+        'select',
+        'course',
+        'paper_code',
+        'paper_name',
+        'e_identity',
+    )
+
+    ordering = (
+        'select',
+    )
+
+
+    # readonly_fields = (
+        
+    #     'select',
+    #     'course',
+    #     'year'
     # )
 
     list_per_page = 50
