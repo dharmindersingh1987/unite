@@ -11,7 +11,7 @@ class PacketUser(models.Model):
     class Meta:
         db_table = 'packet_user'
         verbose_name = "Packet id, user id and password"
-        verbose_name_plural = "Packet id, user id and password"
+        verbose_name_plural = "Packet id, user id and password Even 2025-26"
         ordering = ['pkt_id']
 
     def __str__(self):
@@ -122,4 +122,43 @@ class SubListOdd202526(models.Model):
         
     def __str__(self):
         return self.paper_name
+
+
+
+
+class PacketPaymentDecember2025(models.Model):
+    sr_no = models.CharField(max_length=50)
+    pkt_no = models.CharField(max_length=50)
+    pkt_id = models.CharField(max_length=50, unique=True)
+
+    name = models.CharField(max_length=200)
+    dept = models.CharField(max_length=200, null=True, blank=True)
+    inst = models.CharField(max_length=250, null=True, blank=True)
+
+    email = models.EmailField(max_length=254)
+    cont = models.CharField(max_length=20)
+
+    level = models.CharField(max_length=50)
+    qty = models.PositiveIntegerField()
+
+    bank = models.CharField(max_length=200)
+    account = models.CharField(max_length=50)
+    ifsc = models.CharField(max_length=20)
+
+    payment_stage = models.CharField(max_length=100)
+    payment = models.CharField()
+
+    remarks = models.TextField(blank=True, null=True)
+
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        db_table = "packet_payment"
+        ordering = ["sr_no"]
+        verbose_name = "Packet Payment Odd 2025-26"
+        verbose_name_plural = "Packet Payment Odd 2025-26"
+
+    def __str__(self):
+        return f"{self.pkt_id} - {self.name}"
     

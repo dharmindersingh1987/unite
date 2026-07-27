@@ -5,11 +5,11 @@ from import_export.admin import ImportExportModelAdmin
 
 
 
-from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526
+from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025
 
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource
+from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource, PacketPaymentDecember2025Resource
 
 
 @admin.register(PacketUser)
@@ -25,7 +25,7 @@ class PacketUserAdmin(ImportExportModelAdmin):
 
     search_fields = (
         'pkt_id',
-        'user_id',
+        # 'user_id',
     )
 
     ordering = (
@@ -231,8 +231,42 @@ class SubListOdd202526Admin(ImportExportModelAdmin):
     
     list_filter = (
         'level',
+        'sem',
     )
 
+
+
+    list_per_page = 50
+
+
+@admin.register(PacketPaymentDecember2025)
+class PacketPaymentDecember2025Admin(ImportExportModelAdmin):
+    resource_classes = [PacketPaymentDecember2025Resource]
+    list_display = (
+        # 'sr_no',
+        # 'pkt_no',
+        'pkt_id',
+        'name',
+        'dept',
+    )
+    
+    search_fields = (
+        # 'sr_no',
+        # 'pkt_no',
+        'pkt_id',
+        'name',
+        'cont',
+        # 'dept',
+    )
+
+    ordering = (
+        'sr_no',
+    )
+
+
+    list_filter = (
+        'dept',
+    )
 
 
     list_per_page = 50

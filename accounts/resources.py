@@ -1,5 +1,5 @@
 from import_export import resources
-from .models import BankDetails, PacketUser, ExamForm, SubListEven202526, SubListOdd202526
+from .models import BankDetails, PacketUser, ExamForm, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025
 
 class PacketUserResource(resources.ModelResource):
     class Meta:
@@ -65,4 +65,30 @@ class SubListOdd202526Resource(resources.ModelResource):
             "maximum_marks",
             "level",
         )
-     
+
+
+class PacketPaymentDecember2025Resource(resources.ModelResource):
+    class Meta:
+        model = PacketPaymentDecember2025
+        import_id_fields = ("pkt_id",)
+        fields = (
+            "id",
+            "sr_no",
+            "pkt_no",
+            "pkt_id",
+            "name",
+            "dept",
+            "inst",
+            "email",
+            "cont",
+            "level",
+            "qty",
+            "bank",
+            "account",
+            "ifsc",
+            "payment_stage",
+            "payment",
+            "remarks",
+            "created_at",
+            "updated_at",
+        )
