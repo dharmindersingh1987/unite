@@ -5,11 +5,11 @@ from import_export.admin import ImportExportModelAdmin
 
 
 
-from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025
+from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
 
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource, PacketPaymentDecember2025Resource
+from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource, PacketPaymentDecember2025Resource, PaperSetterDatabaseResource
 
 
 @admin.register(PacketUser)
@@ -266,6 +266,35 @@ class PacketPaymentDecember2025Admin(ImportExportModelAdmin):
 
     list_filter = (
         'dept',
+    )
+
+
+    list_per_page = 50
+    
+@admin.register(PaperSetterDatabase)
+class PaperSetterDatabaseAdmin(ImportExportModelAdmin):
+    resource_classes = [PaperSetterDatabaseResource]
+    list_display = (
+        'name',
+        'institute',
+        'email',
+        'department',
+    )
+    
+    search_fields = (
+      'name',
+        'institute',
+        'email',
+    )
+
+    ordering = (
+        'name',
+    )
+
+
+    list_filter = (
+        'department',
+        'institute',
     )
 
 

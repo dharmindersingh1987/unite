@@ -1,5 +1,5 @@
 from import_export import resources
-from .models import BankDetails, PacketUser, ExamForm, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025
+from .models import BankDetails, PacketUser, ExamForm, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
 
 class PacketUserResource(resources.ModelResource):
     class Meta:
@@ -88,6 +88,22 @@ class PacketPaymentDecember2025Resource(resources.ModelResource):
             "ifsc",
             "payment_stage",
             "payment",
+            "remarks",
+            "created_at",
+            "updated_at",
+        )
+
+class PaperSetterDatabaseResource(resources.ModelResource):
+    class Meta:
+        model = PaperSetterDatabase
+        import_id_fields = ("email",)
+        fields = (
+            "name",
+            "institute",
+            "email",
+            "department",
+            "paper_names",
+            "active",
             "remarks",
             "created_at",
             "updated_at",

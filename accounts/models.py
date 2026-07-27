@@ -162,3 +162,24 @@ class PacketPaymentDecember2025(models.Model):
     def __str__(self):
         return f"{self.pkt_id} - {self.name}"
     
+    
+    
+class PaperSetterDatabase(models.Model):
+    name = models.CharField(max_length=255)
+    institute = models.CharField(max_length=255)
+    email = models.EmailField(unique=True)
+    contact = models.CharField(max_length=20, blank=True)
+    department = models.CharField(max_length=255)
+    paper_names = models.TextField(help_text="Comma-separated paper names / specialization")
+    active = models.BooleanField(default=True)
+    remarks = models.TextField(blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    class Meta:
+        db_table = "paper_setter_database"
+        ordering = ["name"]
+        verbose_name = "Paper Setter Database"
+        verbose_name_plural = "Paper Setter Database"
+
+    def __str__(self):
+        return self.name
