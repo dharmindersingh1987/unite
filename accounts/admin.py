@@ -17,7 +17,7 @@ class TodoTaskAdmin(admin.ModelAdmin):
     list_display = ('title','remarks', 'due_date',)
     list_filter = ('category',)
     search_fields = ('title',)
-    ordering = ('created_at',)
+    ordering = ('due_date',)
     list_per_page = 20
 
 
