@@ -1,22 +1,6 @@
 from django.db import models
 
-class PacketUser(models.Model):
-    pkt_id = models.IntegerField(primary_key = True)
-    user_id = models.CharField(max_length = 100)
-    password = models.CharField(max_length = 255)
 
-    created_at = models.DateTimeField(auto_now_add=True)
-
-
-    class Meta:
-        db_table = 'packet_user'
-        verbose_name = "Packet id, user id and password"
-        verbose_name_plural = "Packet id, user id and password Even 2025-26"
-        ordering = ['pkt_id']
-
-    def __str__(self):
-        return self.user_id
-    
     
 class ExamForm(models.Model):
     roll_no = models.IntegerField(primary_key = True)
@@ -40,8 +24,8 @@ class ExamForm(models.Model):
     
     class Meta:
         db_table = 'exam_form'
-        verbose_name = "Students Exam Form Details"
-        verbose_name_plural = "Students Exam Form Details"
+        verbose_name = "z Students Exam Form Details"
+        verbose_name_plural = "z Students Exam Form Details"
         ordering = ['roll_no']
         
       
@@ -156,8 +140,8 @@ class PacketPaymentDecember2025(models.Model):
     class Meta:
         db_table = "packet_payment"
         ordering = ["sr_no"]
-        verbose_name = "Packet Payment Odd 2025-26"
-        verbose_name_plural = "Packet Payment Odd 2025-26"
+        verbose_name = "Paper Evaluation Payment Odd 2025-26"
+        verbose_name_plural = "Paper Evaluation Payment Odd 2025-26"
 
     def __str__(self):
         return f"{self.pkt_id} - {self.name}"
@@ -183,3 +167,80 @@ class PaperSetterDatabase(models.Model):
 
     def __str__(self):
         return self.name
+    
+
+
+
+class TodoTask(models.Model):
+    category_choices = [
+        ('personal', 'Personal'),
+        ('work', 'Work'),
+        ('other', 'Other'),
+    ]
+    category = models.CharField(max_length=20, choices=category_choices, default='work')
+    title = models.CharField(max_length=255)
+    remarks = models.TextField(blank=True)
+    due_date = models.DateField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        verbose_name = "To Do Task"
+        verbose_name_plural = "To Do Tasks"
+
+    def __str__(self):
+        return self.title
+    
+    
+
+
+class ExamDateSheet(models.Model):
+    branch = models.CharField(max_length=120)
+
+    sem_year = models.PositiveSmallIntegerField()
+
+    sub_code = models.CharField(
+        max_length=50,
+    )
+
+    subj_title = models.CharField(
+        max_length=255,
+    )
+
+    exam_date = models.DateField()
+
+    # exam_starttime = models.CharField(
+    #     max_length=50,
+    #     verbose_name='Exam Start Time'
+    # )
+    exam_starttime = models.TimeField()
+
+    student_strength = models.PositiveIntegerField(default=0)
+
+    centre_no = models.CharField(
+        max_length=20,
+        )
+
+    class Meta:
+        ordering = [
+            'exam_date',
+            'exam_starttime',
+            'centre_no',
+            'branch',
+            'sem_year',
+            'sub_code',
+        ]
+
+        verbose_name = 'Exam Date Sheet May 2026'
+        verbose_name_plural = 'Exam Date Sheet May 2026'
+
+        # indexes = [
+        #     models.Index(fields=['exam_date']),
+        #     models.Index(fields=['branch']),
+        #     models.Index(fields=['sem_year']),
+        #     models.Index(fields=['exam_starttime']),
+        #     models.Index(fields=['centre_no']),
+        # ]
+
+    def __str__(self):
+        return self.branch

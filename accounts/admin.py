@@ -5,47 +5,23 @@ from import_export.admin import ImportExportModelAdmin
 
 
 
-from .models import PacketUser, ExamForm, BankDetails, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
-
+from .models import ExamForm, BankDetails, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
+from .models import TodoTask, ExamDateSheet
 
 # after installing django-import-export, add the following import
-from .resources import PacketUserResource, ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource, PacketPaymentDecember2025Resource, PaperSetterDatabaseResource
+from .resources import ExamFormResource, BankDetailsResource, SubListEven202526Resource, SubListOdd202526Resource, PacketPaymentDecember2025Resource, PaperSetterDatabaseResource
+from .resources import ExamDateSheetResource
+
+@admin.register(TodoTask)
+class TodoTaskAdmin(admin.ModelAdmin):
+    list_display = ('title','remarks', 'due_date',)
+    list_filter = ('category',)
+    search_fields = ('title',)
+    ordering = ('created_at',)
+    list_per_page = 20
 
 
-@admin.register(PacketUser)
-# class PacketUserAdmin(admin.ModelAdmin):
-class PacketUserAdmin(ImportExportModelAdmin):
-    resource_class = PacketUserResource
-    list_display = (
-        'pkt_id',
-        'user_id',
-        'password',
-        'created_at',
-    )
 
-    search_fields = (
-        'pkt_id',
-        # 'user_id',
-    )
-
-    ordering = (
-        'pkt_id',
-    )
-    
-    list_filter = (
-        'created_at',
-    )
-
-
-    readonly_fields = (
-        'pkt_id',
-        'user_id',
-        'password',
-        'created_at',
-    )
-
-    list_per_page = 50
-    
     
 @admin.register(ExamForm)
 # class ExamFormAdmin(admin.ModelAdmin):
@@ -295,6 +271,39 @@ class PaperSetterDatabaseAdmin(ImportExportModelAdmin):
     list_filter = (
         'department',
         'institute',
+        
+    )
+
+
+    list_per_page = 50
+    
+    
+@admin.register(ExamDateSheet)
+class ExamDateSheetAdmin(ImportExportModelAdmin):
+    resource_classes = [ExamDateSheetResource]
+    list_display = (
+        'branch',
+        'sem_year',
+        'sub_code',
+        'subj_title',
+        'exam_starttime',
+    )
+    
+    search_fields = (
+       'branch',
+       'sub_code',
+       'subj_title',
+    )
+
+    ordering = (
+        'sem_year',
+    )
+
+
+    list_filter = (
+        'branch',
+        'sem_year',
+        'exam_starttime',
     )
 
 

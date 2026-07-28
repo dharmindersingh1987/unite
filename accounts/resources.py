@@ -1,11 +1,9 @@
 from import_export import resources
-from .models import BankDetails, PacketUser, ExamForm, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
+from .models import BankDetails, ExamForm, SubListEven202526, SubListOdd202526, PacketPaymentDecember2025, PaperSetterDatabase
+from .models import ExamDateSheet
 
-class PacketUserResource(resources.ModelResource):
-    class Meta:
-        model = PacketUser
-        import_id_fields = ('pkt_id',)
-        fields = ('pkt_id', 'user_id', 'password', 'created_at')
+
+
         
 class ExamFormResource(resources.ModelResource):
     class Meta:
@@ -108,3 +106,23 @@ class PaperSetterDatabaseResource(resources.ModelResource):
             "created_at",
             "updated_at",
         )
+        
+        
+class ExamDateSheetResource(resources.ModelResource):
+    class Meta:
+        model = ExamDateSheet
+        # import_id_fields = ("exam_name",)
+        fields = (
+            "branch",
+            "sem_year",
+            'sub_code',
+            'subj_title',
+            'exam_date',
+            'exam_starttime',
+            'student_strength',
+            'centre_no',
+        )
+    
+    
+    def get_instance(self, instance_loader, row):
+        return None
