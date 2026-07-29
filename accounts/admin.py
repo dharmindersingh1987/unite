@@ -258,13 +258,13 @@ class PaperSetterDatabaseAdmin(ImportExportModelAdmin):
     )
     
     search_fields = (
-      'name',
+        'name',
         'institute',
         'email',
     )
 
     ordering = (
-        'name',
+        '-created_at',
     )
 
 

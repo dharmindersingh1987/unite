@@ -99,6 +99,7 @@ class PaperSetterDatabaseResource(resources.ModelResource):
             "name",
             "institute",
             "email",
+            "contact",
             "department",
             "paper_names",
             "active",
