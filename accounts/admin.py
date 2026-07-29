@@ -231,7 +231,7 @@ class PacketPaymentDecember2025Admin(ImportExportModelAdmin):
         # 'pkt_no',
         'pkt_id',
         'name',
-        'cont',
+        # 'cont',
         # 'dept',
     )
 
