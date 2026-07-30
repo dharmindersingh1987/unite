@@ -24,8 +24,8 @@ class ExamForm(models.Model):
     
     class Meta:
         db_table = 'exam_form'
-        verbose_name = "z Students Exam Form Details"
-        verbose_name_plural = "z Students Exam Form Details"
+        verbose_name = "Students Exam Form Details"
+        verbose_name_plural = "Students Exam Form Details Even Session 2025-26"
         ordering = ['roll_no']
         
       
@@ -140,8 +140,8 @@ class PacketPaymentDecember2025(models.Model):
     class Meta:
         db_table = "packet_payment"
         ordering = ["sr_no"]
-        verbose_name = "Paper Evaluation Payment Odd 2025-26"
-        verbose_name_plural = "Paper Evaluation Payment Odd 2025-26"
+        verbose_name = "Paper Evaluation Payment Even Session 2025-26"
+        verbose_name_plural = "Paper Evaluation Payment Even Session 2025-26"
 
     def __str__(self):
         return f"{self.pkt_id} - {self.name}"
@@ -231,8 +231,8 @@ class ExamDateSheet(models.Model):
             'sub_code',
         ]
 
-        verbose_name = 'Exam Date Sheet May 2026'
-        verbose_name_plural = 'Exam Date Sheet May 2026'
+        verbose_name = 'Exam Date Sheet Even Session 2025-26'
+        verbose_name_plural = 'Exam Date Sheet Even Session 2025-26'
 
         # indexes = [
         #     models.Index(fields=['exam_date']),
